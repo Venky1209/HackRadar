@@ -1,0 +1,15 @@
+.next
+node_modules
+out
+dist
+coverage
+.vscode/
+.env
+.env.local
+.env.*.local
+.agent/
+eslint-result.json
+scan_results.json
+*.tsbuildinfo
+.DS_Store
+*.log
