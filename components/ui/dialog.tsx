@@ -14,7 +14,7 @@ const DialogOverlay = React.forwardRef<React.ElementRef<typeof DialogPrimitive.O
   ({ className, ...props }, ref) => (
     <DialogPrimitive.Overlay
       ref={ref}
-      className={cn("fixed inset-0 z-50 bg-slate-950/74 backdrop-blur-md transition-opacity duration-200 data-[state=open]:opacity-100 data-[state=closed]:opacity-0", className)}
+      className={cn("fixed inset-0 z-50 bg-[#020305]/78 backdrop-blur-xl transition-opacity duration-200 data-[state=open]:opacity-100 data-[state=closed]:opacity-0", className)}
       {...props}
     />
   ),
@@ -28,13 +28,13 @@ const DialogContent = React.forwardRef<React.ElementRef<typeof DialogPrimitive.C
       <DialogPrimitive.Content
         ref={ref}
         className={cn(
-          "fixed left-1/2 top-1/2 z-50 grid w-[calc(100vw-2rem)] max-w-2xl -translate-x-1/2 -translate-y-1/2 gap-4 rounded-[1.75rem] border border-slate-800/85 bg-slate-950/96 p-6 text-white shadow-[0_30px_120px_rgba(2,6,23,0.76)] outline-none transition-all duration-200 data-[state=open]:opacity-100 data-[state=open]:scale-100 data-[state=closed]:opacity-0 data-[state=closed]:scale-95",
+          "fixed left-1/2 top-1/2 z-50 grid w-[calc(100vw-1.5rem)] max-w-4xl -translate-x-1/2 -translate-y-1/2 gap-4 rounded-[2rem] border border-white/5 bg-[#090b10]/97 p-5 text-white shadow-[0_40px_140px_rgba(0,0,0,0.7)] outline-none transition-all duration-200 data-[state=open]:opacity-100 data-[state=open]:scale-100 data-[state=closed]:opacity-0 data-[state=closed]:scale-95 sm:p-6",
           className,
         )}
         {...props}
       >
         {children}
-        <DialogClose className="absolute right-4 top-4 rounded-full border border-slate-700/80 bg-slate-900/70 p-2 text-slate-300 transition hover:bg-slate-800 hover:text-white">
+        <DialogClose className="absolute right-4 top-4 rounded-full border border-white/5 bg-white/[0.03] p-2 text-zinc-300 transition hover:border-white/10 hover:bg-white/10 hover:text-white">
           <X className="h-4 w-4" />
           <span className="sr-only">Close</span>
         </DialogClose>

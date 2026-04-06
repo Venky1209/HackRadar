@@ -90,17 +90,10 @@ export function HackRadarApp({ initialHackathons }: HackRadarAppProps) {
     const previousBodyOverflow = body.style.overflow;
     const previousBodyOverscroll = body.style.overscrollBehavior;
 
-    if (screen === "landing" || screen === "scanning") {
-      html.style.overflow = "hidden";
-      html.style.scrollbarGutter = "auto";
-      body.style.overflow = "hidden";
-      body.style.overscrollBehavior = "none";
-    } else {
-      html.style.overflow = "";
-      html.style.scrollbarGutter = "stable";
-      body.style.overflow = "";
-      body.style.overscrollBehavior = "";
-    }
+    html.style.overflow = "hidden";
+    html.style.scrollbarGutter = "auto";
+    body.style.overflow = "hidden";
+    body.style.overscrollBehavior = "none";
 
     return () => {
       html.style.overflow = previousHtmlOverflow;

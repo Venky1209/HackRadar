@@ -75,6 +75,36 @@ body {
   scrollbar-color: rgba(234, 179, 8, 0.95) rgba(10, 12, 18, 0.9);
 }
 
+@media (max-width: 768px) {
+  html {
+    scrollbar-gutter: stable both-edges;
+  }
+
+  *::-webkit-scrollbar {
+    width: 34px;
+    height: 34px;
+  }
+
+  *::-webkit-scrollbar-track {
+    background: rgba(8, 10, 15, 0.96);
+  }
+
+  *::-webkit-scrollbar-thumb {
+    border: 7px solid rgba(8, 10, 15, 0.96);
+    border-radius: 999px;
+    background: linear-gradient(180deg, rgba(251, 191, 36, 1), rgba(202, 138, 4, 0.98));
+  }
+
+  *::-webkit-scrollbar-thumb:hover {
+    background: linear-gradient(180deg, rgba(253, 224, 71, 1), rgba(234, 179, 8, 1));
+  }
+
+  * {
+    scrollbar-width: auto;
+    scrollbar-color: rgba(234, 179, 8, 1) rgba(8, 10, 15, 0.96);
+  }
+}
+
 .radar-grid {
   background-image:
     linear-gradient(rgba(255, 255, 255, 0.035) 1px, transparent 1px),

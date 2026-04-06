@@ -1,6 +1,6 @@
 "use client";
 
-import { useDeferredValue, useEffect, useState, type ReactNode } from "react";
+import { useDeferredValue, useEffect, useRef, useState, type ReactNode } from "react";
 import Link from "next/link";
 import { format, parseISO } from "date-fns";
 import { AnimatePresence, motion } from "framer-motion";
@@ -101,6 +101,7 @@ interface DashboardShellProps {
 }
 
 export function DashboardShell({ hackathons, onRefreshScan, refreshAt }: DashboardShellProps) {
+  const scrollContainerRef = useRef<HTMLDivElement>(null);
   const filters = useHackathonStore((state) => state.filters);
   const setFilter = useHackathonStore((state) => state.setFilter);
   const resetFilters = useHackathonStore((state) => state.resetFilters);
@@ -140,7 +141,12 @@ export function DashboardShell({ hackathons, onRefreshScan, refreshAt }: Dashboa
   const remoteCount = hackathons.filter((hackathon) => hackathon.mode === "online" || /remote|virtual|online/i.test(`${hackathon.location} ${hackathon.description}`)).length;
 
   return (
-    <div className="mx-auto max-w-7xl px-3 pb-24 pt-4 sm:px-6 sm:pt-6 lg:px-8">
+    <div
+      ref={scrollContainerRef}
+      className="h-[100svh] overflow-y-auto overflow-x-hidden max-md:mx-4"
+      style={{ scrollbarGutter: "stable both-edges" }}
+    >
+      <div className="mx-auto max-w-7xl px-3 pb-24 pt-4 pr-6 sm:px-6 sm:pr-6 sm:pt-6 lg:px-8 max-md:px-2.5 max-md:pr-4">
       <header className="mb-6">
         <Card className="relative overflow-hidden border-white/5 bg-[#1A1A1F]">
           <div className="absolute right-4 top-4 z-10 sm:right-6 sm:top-6">
@@ -148,10 +154,11 @@ export function DashboardShell({ hackathons, onRefreshScan, refreshAt }: Dashboa
               href={repoUrl}
               target="_blank"
               rel="noreferrer"
-              className="inline-flex items-center gap-2 rounded-full border border-white/5 bg-white/5 px-3 py-2 text-xs font-medium text-zinc-300 transition hover:border-white/10 hover:text-white"
+              aria-label="HackRadar GitHub repository"
+              className="inline-flex h-9 w-9 items-center justify-center rounded-full border border-white/5 bg-white/5 text-zinc-300 transition hover:border-white/10 hover:text-white sm:h-auto sm:w-auto sm:gap-2 sm:px-3 sm:py-2 sm:text-xs sm:font-medium"
             >
               <Github className="h-4 w-4" />
-              HackRadar
+              <span className="sr-only sm:not-sr-only sm:inline">HackRadar</span>
             </a>
           </div>
           <CardContent className="relative p-4 sm:p-8">
@@ -320,7 +327,7 @@ export function DashboardShell({ hackathons, onRefreshScan, refreshAt }: Dashboa
           {filteredHackathons.length ? (
             <>
               {filters.viewMode === "grid" ? (
-                <div className="grid gap-5 xl:grid-cols-2 2xl:grid-cols-3">
+                <div className="grid grid-cols-2 gap-2 xl:grid-cols-2 2xl:grid-cols-3">
                   {displayedHackathons.map((hackathon, index) => (
                     <HackathonCard key={hackathon.id} hackathon={hackathon} index={index} now={now} onReport={() => setReportTarget(hackathon)} />
                   ))}
@@ -393,7 +400,7 @@ export function DashboardShell({ hackathons, onRefreshScan, refreshAt }: Dashboa
         <Button
           variant="outline"
           size="icon"
-          onClick={() => window.scrollTo({ top: 0, behavior: "smooth" })}
+          onClick={() => scrollContainerRef.current?.scrollTo({ top: 0, behavior: "smooth" })}
           className="inline-flex h-9 w-9 shrink-0 rounded-full border-zinc-700 bg-zinc-900/80 text-zinc-300 shadow-sm opacity-80 transition-all hover:bg-zinc-800 hover:opacity-100 sm:h-10 sm:w-10"
           title="Scroll to top"
         >
@@ -403,6 +410,7 @@ export function DashboardShell({ hackathons, onRefreshScan, refreshAt }: Dashboa
           <Plus className="h-4 w-4" />
           <span className="hidden sm:inline">Submit a Hackathon</span>
         </Button>
+      </div>
       </div>
     </div>
   );
@@ -543,10 +551,10 @@ function HackathonCard({
       className="relative group block h-full flex flex-col"
     >
       <div className="flex flex-col flex-1 relative z-10 overflow-hidden rounded-[1.6rem] border border-white/5 bg-[#1A1A1F] transition-colors duration-200 hover:border-white/15">
-        <CardContent className="relative flex flex-col flex-1 space-y-4 p-4 sm:p-6">
-          <div className="flex items-start justify-between gap-3">
-            <div className="space-y-3">
-              <div className="flex flex-wrap gap-2 items-center text-xs font-medium tracking-wide uppercase">
+        <CardContent className="relative flex flex-col flex-1 gap-2.5 p-2.5 sm:gap-4 sm:p-6">
+          <div className="flex items-start justify-between gap-1.5 sm:gap-3">
+            <div className="space-y-1.5 sm:space-y-3">
+              <div className="flex flex-wrap items-center gap-1.5 text-[9px] font-medium tracking-wide uppercase sm:gap-2 sm:text-xs">
                 <span className="text-zinc-500">{hackathon.source}</span>
                 <span className="text-zinc-700">•</span>
                 {closingSoon ? (
@@ -557,18 +565,18 @@ function HackathonCard({
                 ) : null}
                 {hackathon.status === "open" ? <span className="text-emerald-500 bg-emerald-500/10 px-2 py-0.5 rounded-sm">Open now</span> : <span className="text-zinc-500">{hackathon.status}</span>}
               </div>
-              <h3 className="line-clamp-2 text-xl font-semibold tracking-tight text-white sm:text-2xl">{hackathon.title}</h3>
+              <h3 className="line-clamp-2 text-[13px] font-semibold leading-5 tracking-tight text-white sm:text-2xl sm:leading-tight">{hackathon.title}</h3>
             </div>
 
-            <Button variant="ghost" size="icon" onClick={onReport} className="shrink-0 rounded-full text-zinc-500 hover:text-white">
+            <Button variant="ghost" size="icon" onClick={onReport} className="shrink-0 rounded-full text-zinc-500 hover:text-white max-md:h-6 max-md:w-6">
               <Flag className="h-4 w-4" />
             </Button>
           </div>
 
-          <p className="line-clamp-3 overflow-hidden text-sm leading-6 text-zinc-400">{hackathon.description}</p>
+          <p className="hidden overflow-hidden text-sm leading-6 text-zinc-400 sm:line-clamp-3 sm:block">{hackathon.description}</p>
 
-          <div className="pt-4 border-t border-zinc-800/60 mt-2">
-            <div className="flex flex-wrap items-center gap-x-2 gap-y-1.5 text-[11px] font-medium text-zinc-500 uppercase tracking-widest leading-none">
+          <div className="hidden border-t border-zinc-800/60 pt-3 sm:mt-2 sm:block sm:pt-4">
+            <div className="flex flex-wrap items-center gap-x-2 gap-y-1.5 text-[10px] font-medium text-zinc-500 uppercase tracking-widest leading-none sm:text-[11px]">
               <span>{hackathon.ppo_possible ? "PPO / Internship" : "No PPO Signal"}</span>
               <span className="text-zinc-700 font-bold px-1">•</span>
               <span className="flex items-center gap-1">
@@ -585,28 +593,28 @@ function HackathonCard({
             </div>
           </div>
 
-          <div className="mt-auto pt-2 space-y-4">
-            <div className="grid gap-3 sm:grid-cols-2">
+          <div className="mt-auto space-y-2.5 pt-0.5 sm:pt-2 sm:space-y-4">
+            <div className="grid gap-1.5 sm:grid-cols-2 sm:gap-3">
               <MetricCard label="Countdown" value={formatCountdown(hackathon.end_date)} />
               <MetricCard label="Prize pool" value={hackathon.prize_pool} accent />
             </div>
 
-            <div className="flex flex-wrap gap-3">
-              <Button asChild variant="default" className="flex-1 gap-2 sm:flex-none">
+            <div className="grid grid-cols-2 gap-1.5 sm:flex sm:flex-wrap sm:gap-3">
+              <Button asChild variant="default" className="min-w-0 gap-1.5 px-2.5 py-1.5 text-[11px] sm:flex-1 sm:px-4 sm:py-2 sm:text-sm sm:flex-none">
                 <a href={hackathon.registration_link} target="_blank" rel="noreferrer">
                   Register
-                  <ExternalLink className="h-4 w-4" />
+                  <ExternalLink className="h-3.5 w-3.5" />
                 </a>
               </Button>
-              <Button asChild variant="secondary" className="flex-1 gap-2 sm:flex-none">
+              <Button asChild variant="secondary" className="min-w-0 gap-1.5 px-2.5 py-1.5 text-[11px] sm:flex-1 sm:px-4 sm:py-2 sm:text-sm sm:flex-none">
                 <Link href={`/hackathon/${hackathon.id}`}>
                   View details
-                  <ArrowRight className="h-4 w-4" />
+                  <ArrowRight className="h-3.5 w-3.5" />
                 </Link>
               </Button>
             </div>
 
-            <p className="text-[11px] uppercase tracking-[0.28em] text-zinc-500">Updated pulse {format(new Date(now), "hh:mm a")}</p>
+            <p className="hidden text-[11px] uppercase tracking-[0.28em] text-zinc-500 sm:block">Updated pulse {format(new Date(now), "hh:mm a")}</p>
           </div>
         </CardContent>
       </div>
