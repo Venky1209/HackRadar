@@ -1,0 +1,349 @@
+﻿{
+    "seed_snapshot":  "2026-04-05",
+    "source":  "Apify LinkedIn post search via harvestapi/linkedin-post-search",
+    "sections":  {
+                     "india_major_city_first":  [
+                                                    {
+                                                        "event":  "Fabriquathon 2K26",
+                                                        "region_mode":  "Chennai, in-person",
+                                                        "status":  "open",
+                                                        "apply_link":  "[External registration](https://lnkd.in/gxW_at-a)\u003cbr\u003e[Internal registration](https://lnkd.in/gR4RSh-D)\u003cbr\u003e[Website](https://fabriquathon.live/)",
+                                                        "linkedin_evidence":  "[Post](https://www.linkedin.com/posts/moulee-p-t-574120306_events-srmktr-srmvec-activity-7446419975650783232-hME8)",
+                                                        "notes":  "24h hardware / IoT, abstract deadline Apr 6, prize pool â‚¹13k"
+                                                    },
+                                                    {
+                                                        "event":  "FusionX x Dizzy Hackers MEGA Hackathon",
+                                                        "region_mode":  "Bangalore, in-person",
+                                                        "status":  "active",
+                                                        "apply_link":  "[Register](https://lnkd.in/gGeVAfr9)",
+                                                        "linkedin_evidence":  "[Post](https://www.linkedin.com/posts/rayyan-khan-_hackathon-innovation-datascience-activity-7446485664579108864-IlHc)",
+                                                        "notes":  "24-hour national hackathon, prize pool â‚¹1L+, internships through sponsors"
+                                                    },
+                                                    {
+                                                        "event":  "HackIndia Spark 6",
+                                                        "region_mode":  "Delhi / NIT Delhi, in-person",
+                                                        "status":  "likely active",
+                                                        "apply_link":  "not found",
+                                                        "linkedin_evidence":  "[Post](https://www.linkedin.com/posts/hackindiaxyz_hackindia2026-hackindiaspark6-web3-activity-7446495270395301888-36zQ)",
+                                                        "notes":  "2500+ registrations, Web3 + AI"
+                                                    },
+                                                    {
+                                                        "event":  "GFG Hackathon Drive",
+                                                        "region_mode":  "India-wide",
+                                                        "status":  "open",
+                                                        "apply_link":  "not found",
+                                                        "linkedin_evidence":  "[Post](https://www.linkedin.com/posts/iyui-gfg-hackathon-drive-registration-open-activity-7446531440491819008-7aW2)",
+                                                        "notes":  "student hackathon drive, registration open"
+                                                    },
+                                                    {
+                                                        "event":  "BuildX India 2026",
+                                                        "region_mode":  "India-wide",
+                                                        "status":  "active",
+                                                        "apply_link":  "not found",
+                                                        "linkedin_evidence":  "[Post](https://www.linkedin.com/posts/udtech-india_last-day-alert-buildx-india-2026-activity-7446533212327882752-8kYz)",
+                                                        "notes":  "final deadline tomorrow"
+                                                    },
+                                                    {
+                                                        "event":  "BGI Hackathon - Vision 2047 Viksit Bharat",
+                                                        "region_mode":  "India-wide",
+                                                        "status":  "open",
+                                                        "apply_link":  "not found",
+                                                        "linkedin_evidence":  "[Post](https://www.linkedin.com/posts/amit-kumar-sharma_the-poster-is-out-the-challenge-is-on-activity-7446539760728426496-2m4Y)",
+                                                        "notes":  "open to Diploma, UG \u0026 PG students"
+                                                    },
+                                                    {
+                                                        "event":  "India Innovates 2026",
+                                                        "region_mode":  "India-wide",
+                                                        "status":  "active",
+                                                        "apply_link":  "not found",
+                                                        "linkedin_evidence":  "[Post](https://www.linkedin.com/posts/jaswanth-prasanna_proud-to-share-that-our-team-algorithm-avengers-activity-7446533029707743232-2q2h)",
+                                                        "notes":  "26,000+ registrations, large-scale innovation"
+                                                    },
+                                                    {
+                                                        "event":  "NeeN X Hackathon 2026",
+                                                        "region_mode":  "location not stated",
+                                                        "status":  "live",
+                                                        "apply_link":  "not found",
+                                                        "linkedin_evidence":  "[Post](https://www.linkedin.com/posts/vivek-v_necessity-to-build-something-real-the-neen-x-hackathon-activity-7446537339405883392-2PjZ)",
+                                                        "notes":  "live reminder / time running out"
+                                                    }
+                                                ],
+                     "global_online_first_leads":  [
+                                                       {
+                                                           "event":  "Build with AI 2026 x IWD: Gemini CLI Hackathon",
+                                                           "region_mode":  "Online",
+                                                           "status":  "active",
+                                                           "apply_link":  "[Apply](https://lnkd.in/ezR_Twhp)",
+                                                           "linkedin_evidence":  "[Post](https://www.linkedin.com/posts/anna-muzykina_gdgahlen-gdgmaesnster-buildwithai2026-activity-7446533556882808832-5pJZ)",
+                                                           "notes":  "confirmed public, Google / Women Techmakers, PPO possible"
+                                                       },
+                                                       {
+                                                           "event":  "Code; Without Barriers Hackathon 2026",
+                                                           "region_mode":  "APAC / mode not stated",
+                                                           "status":  "open",
+                                                           "apply_link":  "not found",
+                                                           "linkedin_evidence":  "[Post](https://www.linkedin.com/posts/dr-maria-aiolova-edd-leed-ap_thrilled-to-announce-that-sj-group-is-partnering-activity-7446532693226821632-7n1S)",
+                                                           "notes":  "Microsoft-sponsored, women in tech"
+                                                       },
+                                                       {
+                                                           "event":  "Oops-a-thon",
+                                                           "region_mode":  "mode not stated",
+                                                           "status":  "active",
+                                                           "apply_link":  "not found",
+                                                           "linkedin_evidence":  "[Post](https://www.linkedin.com/posts/ai-student-community_the-ai-student-community-aisc-presents-oops-a-thon-activity-7446538789533184000-8QZf)",
+                                                           "notes":  "experimental student challenge"
+                                                       },
+                                                       {
+                                                           "event":  "PEA Hackathon 2026",
+                                                           "region_mode":  "Thailand / mode not stated",
+                                                           "status":  "open",
+                                                           "apply_link":  "not found",
+                                                           "linkedin_evidence":  "[Post](https://www.linkedin.com/posts/rise-innovation-consulting_applications-are-now-open-pea-hackathon-2026-activity-7446534307707148288-dKX1)",
+                                                           "notes":  "applications open, corporate-sponsored"
+                                                       }
+                                                   ],
+                     "international_in_person_excluded":  [
+                                                              {
+                                                                  "event":  "National Deep Tech Challenge Hackathon",
+                                                                  "region_mode":  "Malaysia, in-person not confirmed online",
+                                                                  "why_excluded":  "international lead, but not clearly online-first",
+                                                                  "linkedin_evidence":  "[Post](https://www.linkedin.com/posts/universiti-malaya-center-of-innovation-and-enterprise_umcie-student-hackathon-activity-7446535902340179968-2JgJ)"
+                                                              },
+                                                              {
+                                                                  "event":  "Africa Youth Skilling Conference Climate Hackathon",
+                                                                  "region_mode":  "Africa, mode not confirmed",
+                                                                  "why_excluded":  "international lead, mode unclear",
+                                                                  "linkedin_evidence":  "[Post](https://www.linkedin.com/posts/innovateher-mukesa-wie_climate-hackathon-alert-ready-to-innovate-activity-7446538062393847808-9Y6M)"
+                                                              },
+                                                              {
+                                                                  "event":  "NaijaPolicyHackathon (second edition)",
+                                                                  "region_mode":  "Babcock University, Nigeria, in-person",
+                                                                  "why_excluded":  "international in-person, excluded by current feed policy",
+                                                                  "linkedin_evidence":  "[Post](https://www.linkedin.com/posts/policy-shapers_naijapolicyhack-naijapolicyhackathon-polssa-activity-7446541005954273280-_aPn)"
+                                                              },
+                                                              {
+                                                                  "event":  "Data driven approaches to safeguarding cultural heritage",
+                                                                  "region_mode":  "University of Brighton, in-person",
+                                                                  "why_excluded":  "international in-person, excluded by current feed policy",
+                                                                  "linkedin_evidence":  "[Post](https://www.linkedin.com/posts/dafni-data-analytics-facility-for-national-infrastructure_in-person-hackathon-data-driven-approaches-activity-7446535038849271808-w9Q0)"
+                                                              }
+                                                          ],
+                     "retrospective_removed":  [
+                                                   "Smart India Hackathon retrospective win posts",
+                                                   "Code-A-Hunt 3.0 participation post",
+                                                   "HackOphobia retrospective post",
+                                                   "Solve-A-Thon \u002726 retrospective post",
+                                                   "DeepVision Hackathon 2025 retrospective post",
+                                                   "RIFT \u002726 retrospective / semi-finals post",
+                                                   "Hack Energy 2.0 retrospective",
+                                                   "Solve for Goa retrospective",
+                                                   "HACKUP 2026 retrospective"
+                                               ],
+                     "expanded_link_bank":  {
+                                                "india_online_additions":  [
+                                                                               {
+                                                                                   "event":  "BuildX India 2026",
+                                                                                   "region_mode":  "India-wide",
+                                                                                   "status":  "active",
+                                                                                   "apply_link":  "[1](https://lnkd.in/d6kB9MEb)\u003cbr\u003e[2](https://lnkd.in/gk-3kC7b)\u003cbr\u003e[3](https://lnkd.in/gEACxV5d)\u003cbr\u003e[4](https://lnkd.in/g2KNjCYY)",
+                                                                                   "linkedin_evidence":  "[Post](https://www.linkedin.com/posts/udtech-india_buildxindia-hackathon2026-lastday-activity-7446171908787679232-VUwq)",
+                                                                                   "notes":  "last-day alert, multiple registration paths surfaced"
+                                                                               },
+                                                                               {
+                                                                                   "event":  "Salesforce Agentforce Hackathon 2026",
+                                                                                   "region_mode":  "India-wide / virtual",
+                                                                                   "status":  "active",
+                                                                                   "apply_link":  "[1](https://lnkd.in/e_XWbSh2)\u003cbr\u003e[2](https://sforce.co/awt26)\u003cbr\u003e[3](https://lnkd.in/g7W-i95k)\u003cbr\u003e[4](https://lnkd.in/gkmhc22p)",
+                                                                                   "linkedin_evidence":  "[Post](https://www.linkedin.com/posts/rupalika-sahoo-831663107_salesforces-agentforce-hackathon-registrations-activity-7445727845210972160-RyRo)",
+                                                                                   "notes":  "closing soon, surfaced from multiple posts"
+                                                                               },
+                                                                               {
+                                                                                   "event":  "Buildathon Participant - CodeNest",
+                                                                                   "region_mode":  "global / verify",
+                                                                                   "status":  "verify",
+                                                                                   "apply_link":  "[1](https://lnkd.in/dtH3UZhy)\u003cbr\u003e[2](https://lnkd.in/dcy4RdCm)\u003cbr\u003e[3](https://lnkd.in/d-DpUcXC)\u003cbr\u003e[4](https://lnkd.in/dFB5hYRz)",
+                                                                                   "linkedin_evidence":  "[Post](https://www.linkedin.com/posts/allweb3jobs-by-crypto-vazima_buildathon-hackathon-web3-activity-7446069320356352000-d456)",
+                                                                                   "notes":  "linkable lead; post wording is less clean than a normal hackathon invite"
+                                                                               },
+                                                                               {
+                                                                                   "event":  "Datahack 4.0",
+                                                                                   "region_mode":  "Mumbai",
+                                                                                   "status":  "live",
+                                                                                   "apply_link":  "[Register](https://shorturl.at/WO96Q)\u003cbr\u003e[LinkedIn path](https://lnkd.in/deXj-xGv)",
+                                                                                   "linkedin_evidence":  "[Post](https://www.linkedin.com/posts/djs-s4ds_datahack4-djss4ds-elitecoders-activity-7445169114597425152-6upr)",
+                                                                                   "notes":  "registration live"
+                                                                               },
+                                                                               {
+                                                                                   "event":  "NIRMAN Hackathon 2026",
+                                                                                   "region_mode":  "Mumbai",
+                                                                                   "status":  "open",
+                                                                                   "apply_link":  "[1](https://lnkd.in/dfs3Y2MT)\u003cbr\u003e[2](https://lnkd.in/dmMQfh3B)",
+                                                                                   "linkedin_evidence":  "[Post](https://www.linkedin.com/posts/anshika-saini-30311528b_hackathon-nirman2026-amityuniversitymumbai-activity-7445168940017909761-LNI7)",
+                                                                                   "notes":  "Amity University Mumbai"
+                                                                               },
+                                                                               {
+                                                                                   "event":  "PROTONEX 2026",
+                                                                                   "region_mode":  "Bangalore",
+                                                                                   "status":  "active",
+                                                                                   "apply_link":  "[1](https://lnkd.in/gCNrEfyz)\u003cbr\u003e[2](https://lnkd.in/gWN8irVS)",
+                                                                                   "linkedin_evidence":  "[Post](https://www.linkedin.com/posts/ieee-cas-bangalore-chapter_ieee-ieeecas-engineeringleadership-activity-7443635606796218368-dXal)",
+                                                                                   "notes":  "30-hour national level hackathon"
+                                                                               },
+                                                                               {
+                                                                                   "event":  "National Level Robothon 2026",
+                                                                                   "region_mode":  "India-wide",
+                                                                                   "status":  "active",
+                                                                                   "apply_link":  "[1](https://lnkd.in/eSaqnK8p)\u003cbr\u003e[2](https://lnkd.in/e4QCY-cv)",
+                                                                                   "linkedin_evidence":  "[Post](https://www.linkedin.com/feed/update/urn:li:activity:7445428634133131265)",
+                                                                                   "notes":  "robotics challenge"
+                                                                               },
+                                                                               {
+                                                                                   "event":  "Cybersecurity Hackathon 2026",
+                                                                                   "region_mode":  "India / online",
+                                                                                   "status":  "active",
+                                                                                   "apply_link":  "[1](https://lnkd.in/gXZZfPtz)\u003cbr\u003e[2](https://lnkd.in/gfxAw6PZ)",
+                                                                                   "linkedin_evidence":  "[Post](https://www.linkedin.com/posts/sukhveer-singh-3295372b8_cybersecurity-hackathon-2026-ss-activity-7446208001444773888-VCWg)",
+                                                                                   "notes":  "explicit hackathon post"
+                                                                               },
+                                                                               {
+                                                                                   "event":  "GFG Hackathon Drive Registration Open",
+                                                                                   "region_mode":  "India-wide",
+                                                                                   "status":  "open",
+                                                                                   "apply_link":  "[Register](https://lnkd.in/grNApK2G)",
+                                                                                   "linkedin_evidence":  "[Post](https://www.linkedin.com/posts/iyui_gfg-hackathon-drive-registration-open-activity-7446184043500716032-fvdp)",
+                                                                                   "notes":  "student drive"
+                                                                               },
+                                                                               {
+                                                                                   "event":  "BGI Hackathon - Vision 2047 Viksit Bharat",
+                                                                                   "region_mode":  "India-wide",
+                                                                                   "status":  "open",
+                                                                                   "apply_link":  "[Official site](http://www.bgihackathon.in)",
+                                                                                   "linkedin_evidence":  "[Post](https://www.linkedin.com/posts/amit-kumar-sharma-966774117_the-poster-is-out-the-challenge-is-on-activity-7446114907336654848-khXV)",
+                                                                                   "notes":  "open to Diploma, UG \u0026 PG students"
+                                                                               },
+                                                                               {
+                                                                                   "event":  "Kriyeta 5.0",
+                                                                                   "region_mode":  "India-wide",
+                                                                                   "status":  "verify",
+                                                                                   "apply_link":  "[Register](https://lnkd.in/dRfiyssa)",
+                                                                                   "linkedin_evidence":  "[Post](https://www.linkedin.com/posts/archanya-tiwari-79303a358_kriyeta-50-activity-7446043324316106752-lizD)",
+                                                                                   "notes":  "closing soon"
+                                                                               },
+                                                                               {
+                                                                                   "event":  "Hyderabad Sales Hackathon",
+                                                                                   "region_mode":  "Hyderabad",
+                                                                                   "status":  "active",
+                                                                                   "apply_link":  "[Register](https://lnkd.in/guDmE8jj)",
+                                                                                   "linkedin_evidence":  "[Post](https://www.linkedin.com/posts/ajinkya-hazare-b59258170_hyderabad-sales-hackathon-activity-7444704359969640448-a4Xv)",
+                                                                                   "notes":  "first sales hackathon lead"
+                                                                               },
+                                                                               {
+                                                                                   "event":  "Meta OpenEnv Hackathon x SST India",
+                                                                                   "region_mode":  "Bangalore",
+                                                                                   "status":  "verify",
+                                                                                   "apply_link":  "[Register](https://lnkd.in/eKGagPM8)",
+                                                                                   "linkedin_evidence":  "[Post](https://www.linkedin.com/posts/haseena-shaik-banda-0682b2249_meta-pytorch-openenv-hackathon-x-sst-india-activity-7444299822578155520-SlHU)",
+                                                                                   "notes":  "comment-driven lead"
+                                                                               },
+                                                                               {
+                                                                                   "event":  "Scaler Hackathon OpenEnv",
+                                                                                   "region_mode":  "Bangalore",
+                                                                                   "status":  "verify",
+                                                                                   "apply_link":  "[Register](https://lnkd.in/gq_C5wXV)",
+                                                                                   "linkedin_evidence":  "[Post](https://www.linkedin.com/posts/scalerofficial_scaler-hackathon-openenv-activity-7444355958937403392-GYPg)",
+                                                                                   "notes":  "OpenEnv track"
+                                                                               },
+                                                                               {
+                                                                                   "event":  "Oops-a-thon",
+                                                                                   "region_mode":  "India / online",
+                                                                                   "status":  "active",
+                                                                                   "apply_link":  "[Apply](https://lnkd.in/gC9yV6bs)",
+                                                                                   "linkedin_evidence":  "[Post](https://www.linkedin.com/posts/ai-student-community_the-ai-student-community-aisc-presents-oops-a-thon-activity-7446538789533184000-8QZf)",
+                                                                                   "notes":  "unique student challenge format"
+                                                                               },
+                                                                               {
+                                                                                   "event":  "Code Without Barriers Hackathon 2026",
+                                                                                   "region_mode":  "APAC / virtual",
+                                                                                   "status":  "open",
+                                                                                   "apply_link":  "[Apply](https://lnkd.in/gAgiX7DT)",
+                                                                                   "linkedin_evidence":  "[Post](https://www.linkedin.com/posts/maria-aiolova_codewithoutbarriers-womenintech-ai-activity-7446533264137256960-NFFt)",
+                                                                                   "notes":  "women in tech, Microsoft-sponsored"
+                                                                               },
+                                                                               {
+                                                                                   "event":  "OneYes Startup Fest",
+                                                                                   "region_mode":  "Chennai",
+                                                                                   "status":  "open",
+                                                                                   "apply_link":  "[Website](http://oneyesstartupfest.com)",
+                                                                                   "linkedin_evidence":  "[Post](https://www.linkedin.com/posts/oneyes-startup-fest_oneyes-thozhil-startupfest-activity-7445475817951875075-JBJ3)",
+                                                                                   "notes":  "tech fest lead, still useful for students"
+                                                                               },
+                                                                               {
+                                                                                   "event":  "The Vault is Open / FutureX",
+                                                                                   "region_mode":  "India / verify",
+                                                                                   "status":  "verify",
+                                                                                   "apply_link":  "[1](https://lnkd.in/gdxhh26Y)\u003cbr\u003e[2](https://lnkd.in/gJVyzJHe)\u003cbr\u003e[3](https://lnkd.in/guqHPVNc)",
+                                                                                   "linkedin_evidence":  "[Post](https://www.linkedin.com/posts/titaniasoft_titaniasoft-vaulthunters-futurex-activity-7446429018268286976-Icf2)",
+                                                                                   "notes":  "multiple landing paths surfaced"
+                                                                               },
+                                                                               {
+                                                                                   "event":  "ZEBRAFISH HACKATHON 2026",
+                                                                                   "region_mode":  "India / online",
+                                                                                   "status":  "verify",
+                                                                                   "apply_link":  "[Register](https://lnkd.in/g_YSnJZv)",
+                                                                                   "linkedin_evidence":  "[Post](https://www.linkedin.com/posts/harikieshoreb_zebrafish-hackathon2026-biotechnology-activity-7446172231224799232-2WZY)",
+                                                                                   "notes":  "biotech hackathon"
+                                                                               },
+                                                                               {
+                                                                                   "event":  "Climate Hackathon Alert",
+                                                                                   "region_mode":  "online",
+                                                                                   "status":  "verify",
+                                                                                   "apply_link":  "[Apply](https://luma.com/97wm045d)",
+                                                                                   "linkedin_evidence":  "[Post](https://www.linkedin.com/posts/innovateher-mukesa-wie_climate-hackathon-alert-ready-activity-7446492516029284353-wFHI)",
+                                                                                   "notes":  "global climate challenge"
+                                                                               }
+                                                                           ],
+                                                "global_archive_additions":  [
+                                                                                 {
+                                                                                     "event":  "PEA Hackathon 2026",
+                                                                                     "region_mode":  "Thailand / verify",
+                                                                                     "status":  "verify",
+                                                                                     "apply_link":  "[1](https://lnkd.in/gMPC4U5w)\u003cbr\u003e[2](https://lnkd.in/g58Km-Tm)\u003cbr\u003e[3](https://lnkd.in/gT5bYqyu)",
+                                                                                     "linkedin_evidence":  "[Post](https://www.linkedin.com/posts/riseinnovationconsulting_peahackathon2026-moveforgrowth-poweringtransformation-activity-7446534307707148288-dKX1)",
+                                                                                     "notes":  "preserved because the post published multiple paths"
+                                                                                 },
+                                                                                 {
+                                                                                     "event":  "DevKada / CodeKada hackathonPH",
+                                                                                     "region_mode":  "global / online",
+                                                                                     "status":  "verify",
+                                                                                     "apply_link":  "[1](https://lnkd.in/g7i9ubpb)\u003cbr\u003e[2](https://luma.com/7uqbe7nc)\u003cbr\u003e[3](https://lnkd.in/gXKUVYZv)",
+                                                                                     "linkedin_evidence":  "[Post](https://www.linkedin.com/posts/devkadacommunity_codekada-devkada-hackathonph-activity-7445787233904816129-_PcR)",
+                                                                                     "notes":  "online community lead"
+                                                                                 },
+                                                                                 {
+                                                                                     "event":  "India Innovates 2026",
+                                                                                     "region_mode":  "India",
+                                                                                     "status":  "archive",
+                                                                                     "apply_link":  "[Apply](https://lnkd.in/gUZhS_Ft)",
+                                                                                     "linkedin_evidence":  "[Post](https://www.linkedin.com/posts/aaditya-deshpande165_indiainnovates2026-grandfinale-civictech-activity-7446155842548088832-pMSc)",
+                                                                                     "notes":  "retrospective result post, link still works"
+                                                                                 },
+                                                                                 {
+                                                                                     "event":  "HackOphobia Hackathon",
+                                                                                     "region_mode":  "India",
+                                                                                     "status":  "archive",
+                                                                                     "apply_link":  "[Apply](https://lnkd.in/gzfzRUMr)",
+                                                                                     "linkedin_evidence":  "[Post](https://www.linkedin.com/posts/sudhanshu-pandey-668a4336a_mlh-unstop-google-activity-7446533193249509376-cRmO)",
+                                                                                     "notes":  "retrospective participation post"
+                                                                                 },
+                                                                                 {
+                                                                                     "event":  "RIFT \u002726 Hackathon",
+                                                                                     "region_mode":  "India",
+                                                                                     "status":  "archive",
+                                                                                     "apply_link":  "[Apply](https://lnkd.in/dKykfeDF)",
+                                                                                     "linkedin_evidence":  "[Post](https://www.linkedin.com/posts/jivheshdharankar_rift26-hackathon-semifinalist-activity-7446529413871230976-ZmmX)",
+                                                                                     "notes":  "retrospective semi-finalist post"
+                                                                                 }
+                                                                             ]
+                                            }
+                 }
+}

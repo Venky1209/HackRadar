@@ -1,0 +1,138 @@
+@import "tailwindcss";
+
+@theme inline {
+  --font-sans: var(--font-geist-sans);
+  --font-mono: var(--font-geist-mono);
+  --color-background: #090b10;
+  --color-foreground: #f4f7fb;
+  --color-card: #11151d;
+  --color-card-foreground: #f4f7fb;
+  --color-popover: #11151d;
+  --color-popover-foreground: #f4f7fb;
+  --color-primary: #dbe2eb;
+  --color-primary-foreground: #090b10;
+  --color-secondary: #526073;
+  --color-secondary-foreground: #ffffff;
+  --color-muted: #151a24;
+  --color-muted-foreground: #9aa6b7;
+  --color-accent: #7c8a9c;
+  --color-accent-foreground: #ffffff;
+  --color-border: #263040;
+  --color-input: #222a38;
+  --color-ring: #cfd7e2;
+}
+
+:root {
+  color-scheme: dark;
+}
+
+html {
+  scroll-behavior: smooth;
+  scrollbar-gutter: stable;
+}
+
+body {
+  min-height: 100vh;
+  overflow-x: hidden;
+  color: rgb(244 247 251);
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background: #111113;
+}
+
+* {
+  border-color: #27272a;
+}
+
+::selection {
+  background: rgba(202, 138, 4, 0.28);
+  color: #ffffff;
+}
+
+*::-webkit-scrollbar {
+  width: 14px;
+  height: 14px;
+}
+
+*::-webkit-scrollbar-track {
+  background: rgba(10, 12, 18, 0.9);
+}
+
+*::-webkit-scrollbar-thumb {
+  border: 3px solid rgba(10, 12, 18, 0.9);
+  border-radius: 999px;
+  background: linear-gradient(180deg, rgba(251, 191, 36, 0.95), rgba(202, 138, 4, 0.9));
+  box-shadow: 0 0 0 1px rgba(0, 0, 0, 0.35);
+}
+
+*::-webkit-scrollbar-thumb:hover {
+  background: linear-gradient(180deg, rgba(253, 224, 71, 0.98), rgba(234, 179, 8, 0.96));
+}
+
+* {
+  scrollbar-width: thin;
+  scrollbar-color: rgba(234, 179, 8, 0.95) rgba(10, 12, 18, 0.9);
+}
+
+.radar-grid {
+  background-image:
+    linear-gradient(rgba(255, 255, 255, 0.035) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(255, 255, 255, 0.035) 1px, transparent 1px);
+  background-size: 88px 88px;
+}
+
+.radar-sweep {
+  transform-origin: center;
+  animation: radar-sweep 6.4s linear infinite;
+}
+
+.glow-float {
+  animation: glow-float 8s ease-in-out infinite;
+}
+
+.soft-pulse {
+  animation: soft-pulse 3s ease-in-out infinite;
+}
+
+@keyframes radar-sweep {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
+
+@keyframes glow-float {
+  0%,
+  100% {
+    transform: translateY(0px);
+  }
+  50% {
+    transform: translateY(-10px);
+  }
+}
+
+@keyframes soft-pulse {
+  0%,
+  100% {
+    opacity: 0.85;
+  }
+  50% {
+    opacity: 1;
+  }
+}
+
+.text-neon {
+  /* Class kept for backward compatibility but stripped of its effect */
+}
+
+.glass-panel {
+  background: #09090b;
+  border: 1px solid #27272a;
+}
+
+.cyber-border {
+  /* Replaced with standard border throughout app, neutralized here */
+}
