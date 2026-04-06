@@ -1,12 +1,10 @@
 <div align="center">
 
-<!-- Animated SVG Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f11,50:1a1a2e,100:0f0f11&height=180&section=header&text=HackRadar&fontSize=72&fontColor=ffffff&fontAlignY=38&desc=Curated%20hackathons.%20Zero%20noise.&descSize=20&descAlignY=60&descColor=94a3b8&animation=fadeIn" width="100%"/>
 
-<!-- Live Badges -->
 <p>
   <a href="https://hack-radar-omega.vercel.app/">
-    <img src="https://img.shields.io/badge/Live%20Demo-hack--radar-black?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/>
+    <img src="https://img.shields.io/badge/Live%20Demo-hack--radar-0f0f11?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/>
   </a>
   <a href="https://github.com/Venky1209/HackRadar/blob/main/LICENSE">
     <img src="https://img.shields.io/github/license/Venky1209/HackRadar?style=for-the-badge&color=22c55e&labelColor=0f0f11" alt="MIT License"/>
@@ -20,7 +18,6 @@
   <img src="https://img.shields.io/badge/PRs-Welcome-8b5cf6?style=for-the-badge&labelColor=0f0f11" alt="PRs Welcome"/>
 </p>
 
-<!-- Tech Stack Badges -->
 <p>
   <img src="https://img.shields.io/badge/Next.js%2015-black?style=flat-square&logo=next.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/React%2019-61DAFB?style=flat-square&logo=react&logoColor=black"/>
@@ -33,13 +30,13 @@
 
 <br/>
 
-> **Hackathon discovery is noisy. HackRadar keeps the good parts.**  
+> **Hackathon discovery is noisy. HackRadar keeps the good parts.**
 > Real deadlines. Real prize pools. PPO signals. Built for students, by a student.
 
 <br/>
 
 <a href="https://hack-radar-omega.vercel.app/">
-  <img src="https://img.shields.io/badge/%E2%86%92%20Open%20Live%20App-0f0f11?style=for-the-badge&logoColor=white" height="40"/>
+  <img src="https://img.shields.io/badge/%E2%86%92%20Open%20Live%20App-0f0f11?style=for-the-badge" height="40"/>
 </a>
 &nbsp;
 <a href="https://github.com/Venky1209/HackRadar/issues/new?template=bug_report.md">
@@ -54,9 +51,9 @@
 
 ---
 
-## ⚡ What is HackRadar?
+## <img src="https://api.iconify.design/lucide:radar.svg?color=%2394a3b8" width="22" height="22" align="center"/> &nbsp;What is HackRadar?
 
-HackRadar is a **curated hackathon intelligence feed** built for Indian students and developers. Instead of scrolling through 10 platforms to find what matters, HackRadar aggregates, filters, and surfaces only the hackathons worth your time — with real data on deadlines, prizes, location, and PPO/internship potential.
+HackRadar is a **curated hackathon intelligence feed** for Indian students and developers. Instead of scrolling across 10 platforms to find what matters, HackRadar surfaces only the hackathons worth your time — verified data on deadlines, prizes, location, and PPO potential.
 
 ```
 60+ curated events  ·  PPO signal tracking  ·  Prize pool data  ·  India-first filters
@@ -66,113 +63,114 @@ No login. No noise. No algorithm. Just signal.
 
 ---
 
-## 🖥️ Screenshots
+## <img src="https://api.iconify.design/lucide:monitor.svg?color=%2394a3b8" width="22" height="22" align="center"/> &nbsp;Preview
 
 <div align="center">
-<table>
-<tr>
-<td width="50%">
 
-**Dashboard — Grid View**
+> **[Try it live →](https://hack-radar-omega.vercel.app/)** — no account required.
 
-![Grid View](https://hack-radar-omega.vercel.app/og-image.png)
-
-</td>
-<td width="50%">
-
-**Smart Filters**
-
-Filter by city, prize, deadline, mode, and PPO potential — all without a page reload.
-
-</td>
-</tr>
-</table>
 </div>
 
-> 💡 **[Try it live →](https://hack-radar-omega.vercel.app/)** — no signup required.
-
 ---
 
-## ✨ Features
+## <img src="https://api.iconify.design/lucide:layout-grid.svg?color=%2394a3b8" width="22" height="22" align="center"/> &nbsp;Features
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🎯 Curated Feed
+<img src="https://api.iconify.design/lucide:shield-check.svg?color=%2322c55e" width="18" height="18" align="center"/> &nbsp;**Curated Feed**
+
 No raw scrapes. Every entry is reviewed for signal quality — prize pool, organizer reputation, and student relevance.
 
-### 🔍 Powerful Filters
-Filter by **city**, **prize tier**, **status** (open / closing soon), **mode** (online / in-person / hybrid), and **PPO potential** simultaneously.
+<br/>
 
-### 📍 India-First Location Presets
-One-click presets for Chennai, Bangalore, Delhi, Mumbai, Hyderabad, Noida, Kolkata, Singapore, and Remote International.
+<img src="https://api.iconify.design/lucide:sliders-horizontal.svg?color=%233b82f6" width="18" height="18" align="center"/> &nbsp;**Powerful Filters**
+
+Filter simultaneously by city, prize tier, status, mode, and PPO potential. Collapsible sidebar on desktop, bottom sheet on mobile.
+
+<br/>
+
+<img src="https://api.iconify.design/lucide:map-pin.svg?color=%23f97316" width="18" height="18" align="center"/> &nbsp;**India-First Presets**
+
+One-click location presets for Chennai, Bangalore, Delhi, Mumbai, Hyderabad, Noida, Kolkata, Singapore, and Remote International.
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### ⏱️ Real-Time Countdown
-Live countdown on every card. Know exactly how long you have to register.
+<img src="https://api.iconify.design/lucide:timer.svg?color=%23a78bfa" width="18" height="18" align="center"/> &nbsp;**Live Countdown**
 
-### 🏆 PPO Signal Tracking
-Each hackathon is tagged with whether it has **PPO / internship potential** based on organizer history and description signals.
+Every card shows a real-time countdown. Know exactly how long you have before registration closes.
 
-### 📱 Mobile-First
-Bottom sheet filters on mobile. Collapsible sidebar on desktop. Smooth `framer-motion` transitions throughout.
+<br/>
+
+<img src="https://api.iconify.design/lucide:trending-up.svg?color=%23facc15" width="18" height="18" align="center"/> &nbsp;**PPO Signal Tracking**
+
+Each hackathon is tagged with internship or PPO potential based on organizer history and description signals.
+
+<br/>
+
+<img src="https://api.iconify.design/lucide:smartphone.svg?color=%2306b6d4" width="18" height="18" align="center"/> &nbsp;**Mobile-First**
+
+Fluid `framer-motion` transitions throughout. Designed for thumb reach, tested on 375px and 1440px.
 
 </td>
 </tr>
 </table>
 
-**Additional capabilities:**
-- 🔒 Hidden PIN-protected `/radar-control` route for moderation
-- 📤 Community submission and report flows
-- 🌙 Consistent dark theme — no flash, no FOUC
-- ⚡ Static-first architecture — fast on any connection
-- 🗓️ List view grouped by month for timeline scanning
-- 📄 Individual detail pages for every hackathon
+<br/>
+
+<table>
+<tr>
+<td><img src="https://api.iconify.design/lucide:send.svg?color=%2394a3b8" width="15" height="15" align="center"/></td><td>Community hackathon submission and reporting flows</td>
+<td><img src="https://api.iconify.design/lucide:moon.svg?color=%2394a3b8" width="15" height="15" align="center"/></td><td>Consistent dark theme — no flash, no FOUC</td>
+</tr>
+<tr>
+<td><img src="https://api.iconify.design/lucide:zap.svg?color=%2394a3b8" width="15" height="15" align="center"/></td><td>Static-first architecture — instant load on any connection</td>
+<td><img src="https://api.iconify.design/lucide:calendar.svg?color=%2394a3b8" width="15" height="15" align="center"/></td><td>List view grouped by month for timeline scanning</td>
+</tr>
+<tr>
+<td><img src="https://api.iconify.design/lucide:file-text.svg?color=%2394a3b8" width="15" height="15" align="center"/></td><td>Individual detail pages per hackathon with full metadata</td>
+<td><img src="https://api.iconify.design/lucide:layers.svg?color=%2394a3b8" width="15" height="15" align="center"/></td><td>Load-more pagination — no scroll fatigue on 60+ entries</td>
+</tr>
+</table>
 
 ---
 
-## 🗂️ Project Structure
+## <img src="https://api.iconify.design/lucide:folder-tree.svg?color=%2394a3b8" width="22" height="22" align="center"/> &nbsp;Project Structure
 
 ```
 HackRadar/
-├── app/                    # Next.js App Router — routes, layout, API handlers
-│   ├── hackathon/[id]/     # Individual event detail pages
-│   ├── radar-control/      # PIN-protected moderation UI
-│   └── api/                # Submission, report, and refresh endpoints
+├── app/                      # Next.js App Router — routes, layout, API handlers
+│   ├── hackathon/[id]/       # Individual event detail pages
+│   └── api/                  # Submission, report, and refresh endpoints
 ├── components/
-│   ├── ui/                 # shadcn/ui primitives (button, card, badge, input…)
-│   ├── dashboard-shell.tsx # Main dashboard: filters, grid, load-more, sheet
-│   ├── hackathon-dialogs.tsx
-│   └── radar-landing.tsx   # Animated landing / scan experience
+│   ├── ui/                   # shadcn/ui primitives (button, card, badge, input)
+│   ├── dashboard-shell.tsx   # Main dashboard: filters, grid, load-more, sheet
+│   └── radar-landing.tsx     # Animated landing experience
 ├── data/
-│   └── seed-hackathons.json # Merged curated dataset (edit here to add events)
+│   └── seed-hackathons.json  # Curated dataset — edit here to add events
 ├── lib/
-│   ├── filters.ts          # All client-side filter logic
-│   ├── date.ts             # Countdown, date formatting, prize scoring
-│   └── supabase.ts         # Server + client helpers
+│   ├── filters.ts            # All client-side filter logic
+│   ├── date.ts               # Countdown, formatting, prize scoring
+│   └── supabase.ts           # Server and client helpers
 ├── scripts/
-│   ├── seed.ts             # Upserts dataset into Supabase
-│   └── generate-seed.ts    # Merges source JSON files into the seed
+│   ├── seed.ts               # Upserts dataset into Supabase
+│   └── generate-seed.ts      # Merges source JSON into the seed
 ├── store/
-│   └── use-hackathon-store.ts  # Zustand store for filters + view mode
+│   └── use-hackathon-store.ts  # Zustand store for filters and view mode
 ├── supabase/
-│   └── schema.sql          # Full DB schema with RLS + triggers
-└── .env.example            # Required environment variables
+│   └── schema.sql            # Full DB schema with RLS and triggers
+└── .env.example              # Required environment variables
 ```
 
 ---
 
-## 🚀 Getting Started
+## <img src="https://api.iconify.design/lucide:rocket.svg?color=%2394a3b8" width="22" height="22" align="center"/> &nbsp;Getting Started
 
-### Prerequisites
+**Prerequisites:** Node.js 18+ and a [Supabase](https://supabase.com) project (free tier works).
 
-- Node.js 18+
-- A [Supabase](https://supabase.com) project (free tier works)
-
-### 1. Clone & Install
+**Clone and install**
 
 ```bash
 git clone https://github.com/Venky1209/HackRadar.git
@@ -180,13 +178,11 @@ cd HackRadar
 npm install
 ```
 
-### 2. Environment Setup
+**Environment setup**
 
 ```bash
 cp .env.example .env.local
 ```
-
-Fill in your `.env.local`:
 
 ```env
 SUPABASE_URL=your_supabase_project_url
@@ -195,56 +191,38 @@ ADMIN_PIN=your_chosen_pin
 NEXT_PUBLIC_SITE_URL=http://localhost:3000
 ```
 
-### 3. Database Setup
+**Database setup**
 
-Run the schema in your Supabase SQL editor:
+Run `supabase/schema.sql` in your Supabase SQL editor. This creates the `hackathons`, `submissions`, and `reports` tables with RLS policies and updated-at triggers.
 
-```bash
-# Copy contents of supabase/schema.sql into the Supabase SQL editor
-# This creates: hackathons, submissions, reports tables + RLS + triggers
-```
-
-### 4. Seed the Database
+**Seed and run**
 
 ```bash
 npm run generate:seed   # Rebuild merged JSON from source files
 npm run seed            # Upsert all events into Supabase
-```
-
-### 5. Run Locally
-
-```bash
-npm run dev
-# → http://localhost:3000
+npm run dev             # → http://localhost:3000
 ```
 
 ---
 
-## ☁️ Deploy
-
-### Deploy to Vercel (Recommended)
+## <img src="https://api.iconify.design/lucide:cloud.svg?color=%2394a3b8" width="22" height="22" align="center"/> &nbsp;Deploy
 
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/Venky1209/HackRadar)
 
-1. Click the button above or import the repo at [vercel.com/new](https://vercel.com/new)
-2. Add your environment variables in the Vercel dashboard
-3. Set `NEXT_PUBLIC_SITE_URL` to your Vercel domain after first deploy
-4. Redeploy — you're live
-
-### Environment Variables (required)
+Import the repo at [vercel.com/new](https://vercel.com/new), add your environment variables, set `NEXT_PUBLIC_SITE_URL` to your domain, then redeploy.
 
 | Variable | Description |
 |---|---|
-| `SUPABASE_URL` | Your Supabase project URL |
+| `SUPABASE_URL` | Supabase project URL |
 | `SUPABASE_SERVICE_ROLE_KEY` | Server-side service role key |
-| `ADMIN_PIN` | PIN to unlock `/radar-control` |
-| `NEXT_PUBLIC_SITE_URL` | Canonical URL for metadata (optional) |
+| `ADMIN_PIN` | Internal moderation access |
+| `NEXT_PUBLIC_SITE_URL` | Canonical URL for metadata |
 
 ---
 
-## 🛠️ Scripts Reference
+## <img src="https://api.iconify.design/lucide:terminal.svg?color=%2394a3b8" width="22" height="22" align="center"/> &nbsp;Scripts
 
-| Script | Description |
+| Command | Description |
 |---|---|
 | `npm run dev` | Start dev server at `localhost:3000` |
 | `npm run build` | Production build |
@@ -253,60 +231,48 @@ npm run dev
 
 ---
 
-## 🤝 Contributing
+## <img src="https://api.iconify.design/lucide:git-pull-request.svg?color=%2394a3b8" width="22" height="22" align="center"/> &nbsp;Contributing
 
-Contributions are what make open source worth building. All skill levels welcome.
+Contributions are welcome at all skill levels.
 
-### Adding Hackathons (easiest)
+**Adding hackathons** is the easiest path:
 
 1. Edit [`data/seed-hackathons.json`](./data/seed-hackathons.json)
-2. Add your entry following the existing schema
+2. Follow the existing entry schema
 3. Run `npm run generate:seed && npm run seed`
 4. Open a PR with the updated seed file
 
-**What we include:** Reputable organizers, clear prize pools, PPO/internship signals, India-relevant events.  
-**What we skip:** No-prize weekend projects, events with <48h notice, unverifiable organizers.
+We include events with reputable organizers, clear prize pools, or PPO signals. We skip no-prize weekend projects and events with under 48h notice.
 
-### Code Contributions
+**Code contributions:**
 
 ```bash
-# Fork → clone → branch
 git checkout -b feat/your-feature-name
-
-# Make changes, then
 git commit -m "feat: describe your change"
 git push origin feat/your-feature-name
-# Open a PR
 ```
 
-**Guidelines:**
-- Keep the feed high-signal and student-focused
-- Avoid adding live scraping to the public experience
-- Prefer small, readable UI changes over large visual rewrites
-- Test on both mobile (375px) and desktop (1440px)
-
-See [`CONTRIBUTING.md`](./CONTRIBUTING.md) for the full guide.
+Keep changes student-focused and readable. Test at 375px and 1440px. See [`CONTRIBUTING.md`](./CONTRIBUTING.md) for the full guide.
 
 ---
 
-## 🗃️ Database Schema
+## <img src="https://api.iconify.design/lucide:database.svg?color=%2394a3b8" width="22" height="22" align="center"/> &nbsp;Database Schema
 
 ```sql
--- Core table (simplified)
 CREATE TABLE hackathons (
-  id          uuid PRIMARY KEY DEFAULT gen_random_uuid(),
-  title       text NOT NULL,
-  description text,
-  source      text,                          -- DEVPOST | MLH | UNSTOP | …
-  start_date  date NOT NULL,
-  end_date    date NOT NULL,
-  location    text,
-  mode        text,                          -- online | in-person | hybrid
-  prize_pool  text,
-  ppo_possible boolean DEFAULT false,
-  status      text,                          -- upcoming | open | expired
+  id                uuid PRIMARY KEY DEFAULT gen_random_uuid(),
+  title             text NOT NULL,
+  description       text,
+  source            text,          -- DEVPOST | MLH | UNSTOP
+  start_date        date NOT NULL,
+  end_date          date NOT NULL,
+  location          text,
+  mode              text,          -- online | in-person | hybrid
+  prize_pool        text,
+  ppo_possible      boolean DEFAULT false,
+  status            text,          -- upcoming | open | expired
   registration_link text,
-  created_at  timestamptz DEFAULT now()
+  created_at        timestamptz DEFAULT now()
 );
 ```
 
@@ -314,28 +280,25 @@ Full schema with RLS and triggers: [`supabase/schema.sql`](./supabase/schema.sql
 
 ---
 
-## 🔐 Security
+## <img src="https://api.iconify.design/lucide:shield.svg?color=%2394a3b8" width="22" height="22" align="center"/> &nbsp;Security
 
-Found a vulnerability? Please use [GitHub's private vulnerability reporting](https://github.com/Venky1209/HackRadar/security/advisories/new) instead of opening a public issue.
-
-See [`SECURITY.md`](./SECURITY.md) for the full policy.
+Found a vulnerability? Use [GitHub's private vulnerability reporting](https://github.com/Venky1209/HackRadar/security/advisories/new) — not a public issue. See [`SECURITY.md`](./SECURITY.md).
 
 ---
 
-## 📄 License
+## <img src="https://api.iconify.design/lucide:scroll.svg?color=%2394a3b8" width="22" height="22" align="center"/> &nbsp;License
 
-Distributed under the **MIT License**. See [`LICENSE`](./LICENSE) for details.
-
-You're free to fork, self-host, remix, and build on top of HackRadar. Attribution appreciated but not required.
+MIT. Fork it, self-host it, remix it. See [`LICENSE`](./LICENSE).
 
 ---
 
 <div align="center">
 
+<br/>
+
 **Built for students, by a student.**
 
-If HackRadar helped you find a hackathon worth entering,  
-consider giving it a ⭐ — it helps more students discover it.
+If HackRadar helped you find a hackathon worth entering,<br/>a star goes a long way toward helping more students discover it.
 
 <br/>
 
