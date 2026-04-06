@@ -82,6 +82,34 @@ export function HackRadarApp({ initialHackathons }: HackRadarAppProps) {
     };
   }, []);
 
+  useEffect(() => {
+    const html = document.documentElement;
+    const body = document.body;
+    const previousHtmlOverflow = html.style.overflow;
+    const previousHtmlScrollbarGutter = html.style.scrollbarGutter;
+    const previousBodyOverflow = body.style.overflow;
+    const previousBodyOverscroll = body.style.overscrollBehavior;
+
+    if (screen === "landing" || screen === "scanning") {
+      html.style.overflow = "hidden";
+      html.style.scrollbarGutter = "auto";
+      body.style.overflow = "hidden";
+      body.style.overscrollBehavior = "none";
+    } else {
+      html.style.overflow = "";
+      html.style.scrollbarGutter = "stable";
+      body.style.overflow = "";
+      body.style.overscrollBehavior = "";
+    }
+
+    return () => {
+      html.style.overflow = previousHtmlOverflow;
+      html.style.scrollbarGutter = previousHtmlScrollbarGutter;
+      body.style.overflow = previousBodyOverflow;
+      body.style.overscrollBehavior = previousBodyOverscroll;
+    };
+  }, [screen]);
+
   return (
     <div className={screen === "landing" || screen === "scanning" ? "relative min-h-[100svh] overflow-hidden" : "relative min-h-[100svh] overflow-x-hidden"}>
       <AnimatePresence mode="wait">

@@ -11,6 +11,8 @@ import {
   ChevronLeft,
   ExternalLink,
   Flag,
+  Github,
+  Heart,
   LayoutGrid,
   List,
   MapPin,
@@ -19,6 +21,7 @@ import {
   Search,
   SlidersHorizontal,
   Sparkles,
+  Star,
   X,
 } from "lucide-react";
 import { toast } from "sonner";
@@ -33,6 +36,9 @@ import { filterHackathons } from "@/lib/filters";
 import { derivePrizeScore, formatCountdown, formatHackathonDateRange, isClosingSoon } from "@/lib/date";
 import type { HackathonFilters, HackathonMode, HackathonRow, LocationPreset } from "@/lib/types";
 import { useHackathonStore } from "@/store/use-hackathon-store";
+
+const repoUrl = "https://github.com/Venky1209/HackRadar";
+const profileUrl = "https://github.com/Venky1209";
 
 const modeOptions: Array<{ label: string; value: HackathonMode | "all" }> = [
   { label: "Any mode", value: "all" },
@@ -137,6 +143,17 @@ export function DashboardShell({ hackathons, onRefreshScan, refreshAt }: Dashboa
     <div className="mx-auto max-w-7xl px-3 pb-24 pt-4 sm:px-6 sm:pt-6 lg:px-8">
       <header className="mb-6">
         <Card className="relative overflow-hidden border-white/5 bg-[#1A1A1F]">
+          <div className="absolute right-4 top-4 z-10 sm:right-6 sm:top-6">
+            <a
+              href={repoUrl}
+              target="_blank"
+              rel="noreferrer"
+              className="inline-flex items-center gap-2 rounded-full border border-white/5 bg-white/5 px-3 py-2 text-xs font-medium text-zinc-300 transition hover:border-white/10 hover:text-white"
+            >
+              <Github className="h-4 w-4" />
+              HackRadar
+            </a>
+          </div>
           <CardContent className="relative p-4 sm:p-8">
             <div className="flex flex-col gap-6 lg:flex-row lg:items-end lg:justify-between">
               <div className="max-w-3xl">
@@ -335,7 +352,38 @@ export function DashboardShell({ hackathons, onRefreshScan, refreshAt }: Dashboa
       </main>
 
       <footer className="mt-8 border-t border-slate-800 pt-6 text-center text-xs uppercase tracking-[0.3em] text-slate-500">
-        Built for students, by a student • Open source on GitHub • Data refreshed April 2026
+        <div className="mx-auto max-w-4xl rounded-3xl border border-white/5 bg-white/[0.03] p-4 text-left normal-case tracking-normal text-slate-300 sm:p-5">
+          <div className="flex flex-col gap-4 sm:flex-row sm:items-center sm:justify-between">
+            <div className="space-y-1">
+              <p className="text-sm font-semibold tracking-tight text-slate-50">Wanna contribute? Star the repo.</p>
+              <p className="text-sm leading-6 text-slate-400">
+                <span className="inline-flex items-center gap-1">
+                  <Heart className="h-4 w-4 text-rose-400" />
+                  Built with love by{' '}
+                  <a href={profileUrl} target="_blank" rel="noreferrer" className="font-medium text-slate-200 underline decoration-slate-500/60 underline-offset-4 transition hover:text-white hover:decoration-slate-200">
+                    Venky1209
+                  </a>
+                  .
+                </span>
+              </p>
+            </div>
+            <div className="flex flex-wrap gap-3">
+              <Button asChild variant="secondary" size="sm" className="gap-2">
+                <a href={repoUrl} target="_blank" rel="noreferrer">
+                  <Star className="h-4 w-4 text-amber-400" />
+                  Star on GitHub
+                </a>
+              </Button>
+              <Button asChild variant="ghost" size="sm" className="gap-2 border border-white/10 bg-white/5 text-slate-200 hover:bg-white/10">
+                <a href={profileUrl} target="_blank" rel="noreferrer">
+                  <Github className="h-4 w-4" />
+                  Built by Venky1209
+                </a>
+              </Button>
+            </div>
+          </div>
+          <p className="mt-4 text-[11px] uppercase tracking-[0.28em] text-slate-500">Data refreshed April 2026</p>
+        </div>
       </footer>
 
       <SubmitHackathonDialog open={submitOpen} onOpenChange={setSubmitOpen} />

@@ -1,9 +1,12 @@
 "use client";
 
 import { motion } from "framer-motion";
-import { ArrowRight, Sparkles } from "lucide-react";
+import { ArrowRight, Github, Handshake, Sparkles, Star } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { Badge } from "@/components/ui/badge";
+
+const repoUrl = "https://github.com/Venky1209/HackRadar";
+const profileUrl = "https://github.com/Venky1209";
 
 interface RadarLandingProps {
   onScan: () => void;
@@ -11,16 +14,16 @@ interface RadarLandingProps {
 
 export function RadarLanding({ onScan }: RadarLandingProps) {
   return (
-    <div className="relative flex min-h-[100svh] items-center justify-center overflow-hidden px-3 py-6 sm:px-4 sm:py-12">
+    <div className="relative flex h-[100svh] items-center justify-center overflow-hidden px-3 py-4 sm:px-4 sm:py-6">
       <div className="absolute inset-0 opacity-20" />
       <motion.div
         initial={{ opacity: 0, y: 18, scale: 0.98 }}
         animate={{ opacity: 1, y: 0, scale: 1 }}
         exit={{ opacity: 0, y: -10, scale: 0.98 }}
         transition={{ duration: 0.7, ease: "easeOut" }}
-        className="relative z-10 w-full max-w-5xl"
+        className="relative z-10 w-full max-w-4xl"
       >
-        <div className="mx-auto w-full rounded-[1.5rem] border border-white/5 bg-[#1A1A1F] px-4 py-10 shadow-sm sm:rounded-[2rem] sm:px-10 sm:py-16 lg:px-16 lg:py-20">
+        <div className="mx-auto w-full rounded-[1.5rem] border border-white/5 bg-[#1A1A1F] px-4 py-8 shadow-sm sm:rounded-[2rem] sm:px-10 sm:py-12 lg:px-16 lg:py-16">
           <div className="mx-auto flex max-w-3xl flex-col items-center text-center">
             <Badge variant="muted" className="mb-4 gap-2 border-white/10 bg-[#24242B] px-3 py-2 text-zinc-200 sm:mb-6 sm:px-4">
               <Sparkles className="h-3.5 w-3.5" />
@@ -52,7 +55,30 @@ export function RadarLanding({ onScan }: RadarLandingProps) {
                   <ArrowRight className="h-4 w-4" />
                 </span>
               </Button>
+            </div>
 
+            <div className="mt-6 flex w-full flex-col items-center gap-3 text-center sm:mt-8">
+              <p className="text-sm text-zinc-500 sm:text-base">Wanna contribute?</p>
+              <p className="text-sm text-zinc-500 sm:text-base">
+                <span className="inline-flex items-center gap-1">
+                  <Handshake className="h-4 w-4 text-emerald-400" />
+                  Star and Explore the Repo!
+                </span>
+              </p>
+              <div className="flex flex-wrap items-center justify-center gap-3">
+                <Button asChild variant="secondary" size="sm" className="gap-2">
+                  <a href={repoUrl} target="_blank" rel="noreferrer">
+                    <Star className="h-4 w-4 text-amber-400" />
+                    Star on GitHub
+                  </a>
+                </Button>
+                <Button asChild variant="ghost" size="sm" className="gap-2 border border-white/10 bg-white/5 text-zinc-200 hover:bg-white/10">
+                  <a href={profileUrl} target="_blank" rel="noreferrer">
+                    <Github className="h-4 w-4" />
+                    Built by Venky1209
+                  </a>
+                </Button>
+              </div>
             </div>
           </div>
         </div>
