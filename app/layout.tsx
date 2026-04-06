@@ -21,6 +21,11 @@ export const metadata: Metadata = {
   title: "HackRadar",
   description: "A curated hackathon radar for students and builders.",
   metadataBase: new URL(siteUrl.startsWith("http") ? siteUrl : `https://${siteUrl}`),
+  icons: {
+    icon: "/icon.png",
+    shortcut: "/icon.png",
+    apple: "/icon.png",
+  },
   openGraph: {
     title: "HackRadar",
     description: "A curated hackathon radar for students and builders.",

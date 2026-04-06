@@ -1,6 +1,7 @@
 "use client";
 
-import { useDeferredValue, useEffect, useRef, useState, type ReactNode } from "react";
+import Image from "next/image";
+import { useDeferredValue, useEffect, useRef, useState, type PointerEvent as ReactPointerEvent, type ReactNode, type RefObject } from "react";
 import Link from "next/link";
 import { format, parseISO } from "date-fns";
 import { AnimatePresence, motion } from "framer-motion";
@@ -20,7 +21,6 @@ import {
   RefreshCw,
   Search,
   SlidersHorizontal,
-  Sparkles,
   Star,
   X,
 } from "lucide-react";
@@ -94,6 +94,10 @@ function countActiveFilters(filters: HackathonFilters): number {
   return n;
 }
 
+function clamp(value: number, min: number, max: number): number {
+  return Math.min(Math.max(value, min), max);
+}
+
 interface DashboardShellProps {
   hackathons: HackathonRow[];
   onRefreshScan: () => void;
@@ -102,6 +106,7 @@ interface DashboardShellProps {
 
 export function DashboardShell({ hackathons, onRefreshScan, refreshAt }: DashboardShellProps) {
   const scrollContainerRef = useRef<HTMLDivElement>(null);
+  const contentRef = useRef<HTMLDivElement>(null);
   const filters = useHackathonStore((state) => state.filters);
   const setFilter = useHackathonStore((state) => state.setFilter);
   const resetFilters = useHackathonStore((state) => state.resetFilters);
@@ -141,12 +146,13 @@ export function DashboardShell({ hackathons, onRefreshScan, refreshAt }: Dashboa
   const remoteCount = hackathons.filter((hackathon) => hackathon.mode === "online" || /remote|virtual|online/i.test(`${hackathon.location} ${hackathon.description}`)).length;
 
   return (
-    <div
-      ref={scrollContainerRef}
-      className="h-[100svh] overflow-y-auto overflow-x-hidden max-md:mx-4"
-      style={{ scrollbarGutter: "stable both-edges" }}
-    >
-      <div className="mx-auto max-w-7xl px-3 pb-24 pt-4 pr-6 sm:px-6 sm:pr-6 sm:pt-6 lg:px-8 max-md:px-2.5 max-md:pr-4">
+    <div className="relative h-[100svh] max-md:mx-4">
+      <div
+        ref={scrollContainerRef}
+        className="hackradar-scroll-container h-full overflow-y-auto overflow-x-hidden"
+        style={{ scrollbarGutter: "stable" }}
+      >
+        <div ref={contentRef} className="mx-auto max-w-7xl px-3 pb-24 pt-4 pr-6 sm:px-6 sm:pr-6 sm:pt-6 lg:px-8 max-md:px-2.5 max-md:pr-12">
       <header className="mb-6">
         <Card className="relative overflow-hidden border-white/5 bg-[#1A1A1F]">
           <div className="absolute right-4 top-4 z-10 sm:right-6 sm:top-6">
@@ -165,7 +171,7 @@ export function DashboardShell({ hackathons, onRefreshScan, refreshAt }: Dashboa
             <div className="flex flex-col gap-6 lg:flex-row lg:items-end lg:justify-between">
               <div className="max-w-3xl">
                 <Badge variant="muted" className="mb-3 gap-2 border-white/5 bg-white/5 px-3 py-2 text-zinc-200 sm:mb-4 sm:px-4">
-                  <Sparkles className="h-3.5 w-3.5" />
+                  <Image src="/icon.png" alt="" width={14} height={14} className="h-3.5 w-3.5 shrink-0" aria-hidden="true" />
                   HackRadar — curated feed
                 </Badge>
                 <h1 className="text-2xl font-bold tracking-tight text-white sm:text-4xl lg:text-5xl">Curated opportunities, without the clutter.</h1>
@@ -390,8 +396,22 @@ export function DashboardShell({ hackathons, onRefreshScan, refreshAt }: Dashboa
             </div>
           </div>
           <p className="mt-4 text-[11px] uppercase tracking-[0.28em] text-slate-500">Data refreshed April 2026</p>
+          <p className="mt-2 text-[11px] leading-5 text-slate-500">
+            <a href="https://icons8.com/icon/n4PmVb0fsj2t/radar" target="_blank" rel="noreferrer" className="underline decoration-slate-500/60 underline-offset-4 transition hover:text-slate-300 hover:decoration-slate-300">
+              Radar
+            </a>{" "}
+            icon by{" "}
+            <a href="https://icons8.com" target="_blank" rel="noreferrer" className="underline decoration-slate-500/60 underline-offset-4 transition hover:text-slate-300 hover:decoration-slate-300">
+              Icons8
+            </a>
+          </p>
         </div>
       </footer>
+
+      </div>
+    </div>
+
+      <MobileScrollRail containerRef={scrollContainerRef} contentRef={contentRef} />
 
       <SubmitHackathonDialog open={submitOpen} onOpenChange={setSubmitOpen} />
       <ReportHackathonDialog open={Boolean(reportTarget)} onOpenChange={(open) => !open && setReportTarget(null)} hackathon={reportTarget} />
@@ -411,6 +431,189 @@ export function DashboardShell({ hackathons, onRefreshScan, refreshAt }: Dashboa
           <span className="hidden sm:inline">Submit a Hackathon</span>
         </Button>
       </div>
+    </div>
+  );
+}
+
+function MobileScrollRail({
+  containerRef,
+  contentRef,
+}: {
+  containerRef: RefObject<HTMLDivElement | null>;
+  contentRef: RefObject<HTMLDivElement | null>;
+}) {
+  const trackRef = useRef<HTMLDivElement>(null);
+  const dragRef = useRef<{ pointerId: number; offset: number } | null>(null);
+  const [isDragging, setIsDragging] = useState(false);
+  const [scrollbar, setScrollbar] = useState({
+    thumbTop: 0,
+    thumbHeight: 0,
+    visible: false,
+    maxScroll: 0,
+    scrollTop: 0,
+  });
+
+  useEffect(() => {
+    const container = containerRef.current;
+    const content = contentRef.current;
+    const track = trackRef.current;
+
+    if (!container || !content || !track) {
+      return;
+    }
+
+    let frameId = 0;
+
+    const measure = () => {
+      const currentContainer = containerRef.current;
+      const currentContent = contentRef.current;
+      const currentTrack = trackRef.current;
+
+      if (!currentContainer || !currentContent || !currentTrack) {
+        return;
+      }
+
+      const viewportHeight = currentContainer.clientHeight;
+      const trackHeight = currentTrack.getBoundingClientRect().height;
+      const scrollHeight = currentContent.scrollHeight;
+      const maxScroll = Math.max(scrollHeight - viewportHeight, 0);
+
+      if (maxScroll <= 0 || trackHeight <= 0) {
+        setScrollbar({ thumbTop: 0, thumbHeight: 0, visible: false, maxScroll, scrollTop: 0 });
+        return;
+      }
+
+      const idealThumbHeight = Math.round((viewportHeight / scrollHeight) * trackHeight);
+      const thumbHeight = clamp(idealThumbHeight, 88, trackHeight);
+      const thumbTravel = Math.max(trackHeight - thumbHeight, 0);
+      const scrollTop = currentContainer.scrollTop;
+      const thumbTop = thumbTravel > 0 ? (scrollTop / maxScroll) * thumbTravel : 0;
+
+      setScrollbar({ thumbTop, thumbHeight, visible: true, maxScroll, scrollTop });
+    };
+
+    const scheduleMeasure = () => {
+      if (frameId) {
+        cancelAnimationFrame(frameId);
+      }
+
+      frameId = requestAnimationFrame(measure);
+    };
+
+    scheduleMeasure();
+    container.addEventListener("scroll", scheduleMeasure, { passive: true });
+    window.addEventListener("resize", scheduleMeasure);
+
+    const observer = new ResizeObserver(scheduleMeasure);
+    observer.observe(container);
+    observer.observe(content);
+
+    return () => {
+      if (frameId) {
+        cancelAnimationFrame(frameId);
+      }
+
+      container.removeEventListener("scroll", scheduleMeasure);
+      window.removeEventListener("resize", scheduleMeasure);
+      observer.disconnect();
+      dragRef.current = null;
+      setIsDragging(false);
+    };
+  }, [containerRef, contentRef]);
+
+  const moveToPointer = (clientY: number, pointerOffset: number) => {
+    const container = containerRef.current;
+    const content = contentRef.current;
+    const track = trackRef.current;
+
+    if (!container || !content || !track) {
+      return;
+    }
+
+    const viewportHeight = container.clientHeight;
+    const trackRect = track.getBoundingClientRect();
+    const trackHeight = trackRect.height;
+    const scrollHeight = content.scrollHeight;
+    const maxScroll = Math.max(scrollHeight - viewportHeight, 0);
+
+    if (maxScroll <= 0 || trackHeight <= 0) {
+      return;
+    }
+
+    const thumbHeight = scrollbar.thumbHeight || clamp(Math.round((viewportHeight / scrollHeight) * trackHeight), 88, trackHeight);
+    const thumbTravel = Math.max(trackHeight - thumbHeight, 0);
+    const nextThumbTop = clamp(clientY - trackRect.top - pointerOffset, 0, thumbTravel);
+    const nextScrollTop = thumbTravel > 0 ? (nextThumbTop / thumbTravel) * maxScroll : 0;
+
+    container.scrollTop = nextScrollTop;
+  };
+
+  const handlePointerDown = (event: ReactPointerEvent<HTMLDivElement>) => {
+    const track = trackRef.current;
+
+    if (!track) {
+      return;
+    }
+
+    event.preventDefault();
+    track.setPointerCapture(event.pointerId);
+
+    const offset = scrollbar.thumbHeight > 0 ? scrollbar.thumbHeight / 2 : 0;
+    dragRef.current = { pointerId: event.pointerId, offset };
+    setIsDragging(true);
+    moveToPointer(event.clientY, offset);
+  };
+
+  const handlePointerMove = (event: ReactPointerEvent<HTMLDivElement>) => {
+    const drag = dragRef.current;
+
+    if (!drag || drag.pointerId !== event.pointerId) {
+      return;
+    }
+
+    event.preventDefault();
+    moveToPointer(event.clientY, drag.offset);
+  };
+
+  const endDrag = (event: ReactPointerEvent<HTMLDivElement>) => {
+    const drag = dragRef.current;
+
+    if (!drag || drag.pointerId !== event.pointerId) {
+      return;
+    }
+
+    dragRef.current = null;
+    setIsDragging(false);
+  };
+
+  if (!scrollbar.visible) {
+    return null;
+  }
+
+  return (
+    <div className="absolute right-2 top-4 bottom-24 z-20 w-[30px] md:hidden">
+      <div
+        ref={trackRef}
+        className="relative h-full w-full rounded-full border border-white/10 bg-black/25 shadow-[0_12px_30px_rgba(0,0,0,0.28)] backdrop-blur-md"
+        style={{ touchAction: "none" }}
+        onPointerDown={handlePointerDown}
+        onPointerMove={handlePointerMove}
+        onPointerUp={endDrag}
+        onPointerCancel={endDrag}
+        onLostPointerCapture={endDrag}
+      >
+        <div
+          className={`absolute left-1.5 right-1.5 rounded-full border border-amber-300/20 bg-gradient-to-b from-amber-300 via-amber-400 to-amber-600 shadow-[0_0_0_1px_rgba(251,191,36,0.08)] ${
+            isDragging ? "shadow-[0_0_0_1px_rgba(251,191,36,0.14),0_0_28px_rgba(251,191,36,0.28)]" : ""
+          }`}
+          style={{
+            height: `${scrollbar.thumbHeight}px`,
+            opacity: scrollbar.visible ? 1 : 0,
+            transform: `translateY(${scrollbar.thumbTop}px)`,
+            transition: isDragging ? "none" : "transform 90ms linear, opacity 120ms ease",
+            willChange: "transform",
+          }}
+        />
       </div>
     </div>
   );

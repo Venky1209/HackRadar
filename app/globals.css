@@ -75,9 +75,24 @@ body {
   scrollbar-color: rgba(234, 179, 8, 0.95) rgba(10, 12, 18, 0.9);
 }
 
+.hackradar-scroll-container {
+  scrollbar-gutter: stable;
+}
+
 @media (max-width: 768px) {
   html {
     scrollbar-gutter: stable both-edges;
+  }
+
+  .hackradar-scroll-container {
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+  }
+
+  .hackradar-scroll-container::-webkit-scrollbar {
+    display: none;
+    width: 0;
+    height: 0;
   }
 
   *::-webkit-scrollbar {

@@ -1,7 +1,8 @@
 "use client";
 
+import Image from "next/image";
 import { motion } from "framer-motion";
-import { ArrowRight, Github, Handshake, Sparkles, Star } from "lucide-react";
+import { ArrowRight, Github, Handshake, Star } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { Badge } from "@/components/ui/badge";
 
@@ -26,7 +27,7 @@ export function RadarLanding({ onScan }: RadarLandingProps) {
         <div className="mx-auto w-full rounded-[1.5rem] border border-white/5 bg-[#1A1A1F] px-4 py-8 shadow-sm sm:rounded-[2rem] sm:px-10 sm:py-12 lg:px-16 lg:py-16">
           <div className="mx-auto flex max-w-3xl flex-col items-center text-center">
             <Badge variant="muted" className="mb-4 gap-2 border-white/10 bg-[#24242B] px-3 py-2 text-zinc-200 sm:mb-6 sm:px-4">
-              <Sparkles className="h-3.5 w-3.5" />
+              <Image src="/icon.png" alt="" width={14} height={14} className="h-3.5 w-3.5 shrink-0" aria-hidden="true" />
               Curated hackathon radar
             </Badge>
 
@@ -79,6 +80,15 @@ export function RadarLanding({ onScan }: RadarLandingProps) {
                   </a>
                 </Button>
               </div>
+              <p className="text-[11px] leading-5 text-zinc-500 sm:text-xs">
+                <a href="https://icons8.com/icon/n4PmVb0fsj2t/radar" target="_blank" rel="noreferrer" className="underline decoration-zinc-500/60 underline-offset-4 transition hover:text-zinc-300 hover:decoration-zinc-300">
+                  Radar
+                </a>{" "}
+                icon by{" "}
+                <a href="https://icons8.com" target="_blank" rel="noreferrer" className="underline decoration-zinc-500/60 underline-offset-4 transition hover:text-zinc-300 hover:decoration-zinc-300">
+                  Icons8
+                </a>
+              </p>
             </div>
           </div>
         </div>

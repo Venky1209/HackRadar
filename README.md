@@ -28,6 +28,13 @@
   <img src="https://img.shields.io/badge/Zustand-433E38?style=flat-square"/>
 </p>
 
+<p>
+  <img width="96" height="96" src="./icons8-radar-100.png" alt="radar"/>
+</p>
+<p>
+  <a target="_blank" href="https://icons8.com/icon/n4PmVb0fsj2t/radar">Radar</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
+</p>
+
 <br/>
 
 > **Hackathon discovery is noisy. HackRadar keeps the good parts.**
@@ -51,7 +58,7 @@
 
 ---
 
-## <img src="https://api.iconify.design/lucide:radar.svg?color=%2394a3b8" width="22" height="22" align="center"/> &nbsp;What is HackRadar?
+## <img width="22" height="22" src="./icons8-radar-100.png" alt="radar" align="center"/> &nbsp;What is HackRadar?
 
 HackRadar is a **curated hackathon intelligence feed** for Indian students and developers. Instead of scrolling across 10 platforms to find what matters, HackRadar surfaces only the hackathons worth your time — verified data on deadlines, prizes, location, and PPO potential.
 
