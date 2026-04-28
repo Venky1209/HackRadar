@@ -22,7 +22,7 @@ const MONTHS = {
   Dec: 11,
 };
 
-const snapshot = new Date('2026-04-05T12:00:00Z');
+const snapshot = process.env.SEED_SNAPSHOT_ISO ? new Date(process.env.SEED_SNAPSHOT_ISO) : new Date();
 
 function readJson(filePath) {
   return JSON.parse(fs.readFileSync(filePath, 'utf8').replace(/^\uFEFF/, '').trim());

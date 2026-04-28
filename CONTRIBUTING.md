@@ -18,9 +18,9 @@ Thanks for helping improve HackRadar.
 ## Adding or Updating Hackathons
 
 1. Edit [data/seed-hackathons.json](data/seed-hackathons.json).
-2. Rebuild the merged dataset with `npm run generate:seed`.
-3. Reseed Supabase with `npm run seed`.
-4. Verify the dashboard and detail pages still render correctly.
+2. Refresh the dataset with `npm run refresh:data`.
+3. Verify the dashboard and detail pages still render correctly.
+4. If you changed the source data, include the updated JSON in the PR.
 
 ## Pull Requests
 

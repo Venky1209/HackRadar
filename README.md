@@ -202,13 +202,14 @@ NEXT_PUBLIC_SITE_URL=http://localhost:3000
 
 Run `supabase/schema.sql` in your Supabase SQL editor. This creates the `hackathons`, `submissions`, and `reports` tables with RLS policies and updated-at triggers.
 
-**Seed and run**
+**Refresh and run**
 
 ```bash
-npm run generate:seed   # Rebuild merged JSON from source files
-npm run seed            # Upsert all events into Supabase
+npm run refresh:data     # Rebuild the merged JSON and upsert the latest events
 npm run dev             # → http://localhost:3000
 ```
+
+HackRadar is set up to refresh the live dataset automatically once a day, so the website keeps showing fresh data without manual reseeding.
 
 ---
 
@@ -233,6 +234,7 @@ Import the repo at [vercel.com/new](https://vercel.com/new), add your environmen
 |---|---|
 | `npm run dev` | Start dev server at `localhost:3000` |
 | `npm run build` | Production build |
+| `npm run refresh:data` | Rebuild the merged `seed-hackathons.json` and upsert it into Supabase |
 | `npm run seed` | Upsert curated dataset into Supabase |
 | `npm run generate:seed` | Rebuild the merged `seed-hackathons.json` |
 
@@ -242,12 +244,12 @@ Import the repo at [vercel.com/new](https://vercel.com/new), add your environmen
 
 Contributions are welcome at all skill levels.
 
-**Adding hackathons** is the easiest path:
+**Adding or refreshing hackathons** is the easiest path:
 
 1. Edit [`data/seed-hackathons.json`](./data/seed-hackathons.json)
 2. Follow the existing entry schema
-3. Run `npm run generate:seed && npm run seed`
-4. Open a PR with the updated seed file
+3. Run `npm run refresh:data`
+4. Open a PR with the updated seed file if you changed the source data
 
 We include events with reputable organizers, clear prize pools, or PPO signals. We skip no-prize weekend projects and events with under 48h notice.
 
