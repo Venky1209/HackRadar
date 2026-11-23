@@ -1,0 +1,34 @@
+{
+  "ranAt": "2026-11-23T16:16:54.161Z",
+  "sources": {
+    "Devpost": {
+      "ok": true,
+      "count": 125,
+      "ms": 12232
+    },
+    "MLH": {
+      "ok": true,
+      "count": 24,
+      "ms": 146
+    },
+    "Devfolio": {
+      "ok": true,
+      "count": 28,
+      "ms": 293
+    },
+    "Unstop": {
+      "ok": true,
+      "count": 175,
+      "ms": 2642
+    },
+    "Luma": {
+      "ok": true,
+      "count": 61,
+      "ms": 739
+    }
+  },
+  "total": 402,
+  "failures": [],
+  "raw": 413,
+  "failed": null
+}

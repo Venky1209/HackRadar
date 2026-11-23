@@ -1,23 +1,20 @@
 import { cache } from "react";
 import { endOfDay, isBefore, parseISO, startOfDay } from "date-fns";
-import seedHackathons from "@/data/seed-hackathons.json";
+import hackathonData from "@/data/hackathons.json";
 import { hasSupabaseEnv, createSupabaseServiceClient } from "@/lib/supabase";
 import { toIsoMidday } from "@/lib/date";
 import type { HackathonRow, PublicHackathonForm, ReportRow, SubmissionRow } from "@/lib/types";
 
-const staticHackathons = (seedHackathons as HackathonRow[]).map((hackathon, index, all) => {
-  const baseTime = Date.UTC(2026, 3, 5, 12, 0, 0);
-  const offset = (all.length - index) * 60_000;
-
-  return {
-    ...hackathon,
-    created_at: hackathon.created_at ?? new Date(baseTime - offset).toISOString(),
-    updated_at: hackathon.updated_at ?? new Date(baseTime - offset).toISOString(),
-  };
-});
+// Written daily by scripts/refresh.mjs (GitHub Action). The site reads only this file.
+const staticHackathons = hackathonData as unknown as HackathonRow[];
 
 function isPublicRow(hackathon: HackathonRow) {
-  return hackathon.approved && (hackathon.status === "upcoming" || hackathon.status === "open");
+  const closes = new Date(hackathon.deadline || hackathon.end_date).getTime();
+  return hackathon.approved && closes >= Date.now() - 86_400_000;
+}
+
+function byDeadline(left: HackathonRow, right: HackathonRow) {
+  return new Date(left.deadline || left.start_date).getTime() - new Date(right.deadline || right.start_date).getTime();
 }
 
 function sortByDate(left: HackathonRow, right: HackathonRow) {
@@ -48,41 +45,9 @@ function normalizeStoredDate(value: string) {
   return toIsoMidday(parseISO(value));
 }
 
-async function fetchHackathonsFromDb(publicOnly: boolean) {
-  const client = createSupabaseServiceClient();
-  if (!client) {
-    return null;
-  }
+export const getPublicHackathons = cache(async () => staticHackathons.filter(isPublicRow).sort(byDeadline));
 
-  const query = client.from("hackathons").select("*").order("start_date", { ascending: true });
-  const { data, error } = publicOnly
-    ? await query.eq("approved", true).in("status", ["upcoming", "open"])
-    : await query;
-
-  if (error) {
-    return null;
-  }
-
-  return (data ?? []) as HackathonRow[];
-}
-
-export const getPublicHackathons = cache(async () => {
-  const rows = await fetchHackathonsFromDb(true);
-  if (rows) {
-    return rows;
-  }
-
-  return staticHackathons.filter(isPublicRow).sort(sortByDate);
-});
-
-export const getAllHackathons = cache(async () => {
-  const rows = await fetchHackathonsFromDb(false);
-  if (rows) {
-    return rows;
-  }
-
-  return [...staticHackathons].sort(sortByDate);
-});
+export const getAllHackathons = cache(async () => [...staticHackathons].sort(sortByDate));
 
 export const getHackathonById = cache(async (id: string) => {
   const rows = await getAllHackathons();

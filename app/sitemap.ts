@@ -1,12 +1,12 @@
 import type { MetadataRoute } from "next";
-import seedHackathons from "@/data/seed-hackathons.json";
+import hackathonData from "@/data/hackathons.json";
 import type { HackathonRow } from "@/lib/types";
 
 const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || "https://hackradar.vercel.app";
 
 export default function sitemap(): MetadataRoute.Sitemap {
   const baseUrl = siteUrl.replace(/\/$/, "");
-  const hackathons = seedHackathons as HackathonRow[];
+  const hackathons = hackathonData as unknown as HackathonRow[];
 
   return [
     {

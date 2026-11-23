@@ -7,9 +7,7 @@
     "build": "next build",
     "start": "next start",
     "lint": "eslint . --max-warnings=0",
-    "seed": "tsx scripts/seed.ts",
-    "generate:seed": "node scripts/generate-seed-data.cjs",
-    "refresh:data": "npm run generate:seed && npm run seed"
+    "refresh": "node scripts/refresh.mjs"
   },
   "dependencies": {
     "@radix-ui/react-dialog": "^1.1.6",

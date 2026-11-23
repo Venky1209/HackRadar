@@ -40,6 +40,20 @@ export interface HackathonRow {
   reported: boolean;
   created_at?: string;
   updated_at?: string;
+  // Filled by scripts/refresh.mjs; absent on hand-submitted rows.
+  deadline?: string | null;
+  city?: string | null;
+  country?: string | null;
+  prize_amount?: number | null;
+  prize_currency?: string | null;
+  prize_usd?: number | null;
+  hiring_signal?: string | null;
+  themes?: string[];
+  students?: boolean | null;
+  global?: boolean | null;
+  organiser?: string | null;
+  image?: string | null;
+  sources?: string[];
 }
 
 export interface SubmissionRow extends HackathonRow {
