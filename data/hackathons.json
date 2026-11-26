@@ -1,545 +1,5 @@
 [
   {
-    "id": "b7e03a70-f74b-411c-8145-6f59d03d358d",
-    "title": "MINI HACKATHON: Create, Innovate & Pitch 🚀",
-    "description": "MINI HACKATHON: Create, Innovate & Pitch 🚀 on Luma.",
-    "start_date": "2026-11-25T13:00:00.000Z",
-    "end_date": "2026-11-25T16:00:00.000Z",
-    "deadline": "2026-11-25T13:00:00.000Z",
-    "mode": "in-person",
-    "location": "Location not listed",
-    "city": null,
-    "country": null,
-    "prize_pool": "Not listed",
-    "prize_amount": null,
-    "prize_currency": null,
-    "prize_usd": null,
-    "ppo_possible": false,
-    "hiring_signal": null,
-    "themes": [],
-    "students": null,
-    "global": null,
-    "organiser": "Patteri ES",
-    "image": "https://images.lumacdn.com/uploads/wd/8e0c4a3f-0478-45a8-b37a-2165fe8a0cc6.png",
-    "registration_link": "https://luma.com/3ltl5ojc",
-    "linkedin_post_link": null,
-    "github_link": null,
-    "status": "upcoming",
-    "source": "Luma",
-    "sources": [
-      "Luma"
-    ],
-    "approved": true,
-    "reported": false,
-    "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
-  },
-  {
-    "id": "bb72a61a-c24f-4266-887d-ff3b1b66f3c8",
-    "title": "Lovable Buildathon",
-    "description": "Lovable Buildathon on Luma.",
-    "start_date": "2026-11-25T15:00:00.000Z",
-    "end_date": "2026-11-25T17:30:00.000Z",
-    "deadline": "2026-11-25T15:00:00.000Z",
-    "mode": "in-person",
-    "location": "Kristianstad, Sweden",
-    "city": "Kristianstad",
-    "country": "Sweden",
-    "prize_pool": "Not listed",
-    "prize_amount": null,
-    "prize_currency": null,
-    "prize_usd": null,
-    "ppo_possible": false,
-    "hiring_signal": null,
-    "themes": [],
-    "students": null,
-    "global": null,
-    "organiser": "Personal",
-    "image": "https://images.lumacdn.com/uploads/wr/bce7e7d2-82b9-4a61-a4f7-c9b6c7e9153c.png",
-    "registration_link": "https://luma.com/l9k1nkha",
-    "linkedin_post_link": null,
-    "github_link": null,
-    "status": "upcoming",
-    "source": "Luma",
-    "sources": [
-      "Luma"
-    ],
-    "approved": true,
-    "reported": false,
-    "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
-  },
-  {
-    "id": "c70b5d5d-b0f4-407b-83af-18f0479a88fe",
-    "title": "MakerSpark",
-    "description": "**MakerSpark** is an 8-hour hardware-only hackathon organized by the **IEEE Sensors Council Kerala Chapter**, in collaboration with **Arduino, Maker Village, and Semicon Keralam**. Hosted at the **Indian Institute of Information Technology and Management–Kerala (IIITM-K), Technopark, Thiruvananthapuram**, the event brings together aspiring innovators, engineers, and technology enthusiasts to trans",
-    "start_date": "2026-12-09T03:30:00.000Z",
-    "end_date": "2026-12-09T11:30:00.000Z",
-    "deadline": "2026-11-25T18:29:00.000Z",
-    "mode": "in-person",
-    "location": "Thiruvananthapuram, India",
-    "city": "Thiruvananthapuram",
-    "country": "India",
-    "prize_pool": "Not listed",
-    "prize_amount": null,
-    "prize_currency": null,
-    "prize_usd": null,
-    "ppo_possible": false,
-    "hiring_signal": null,
-    "themes": [
-      "Hardware"
-    ],
-    "students": null,
-    "global": null,
-    "organiser": null,
-    "image": "https://assets.devfolio.co/hackathons/931ca9149c46417bb0526ce1eb44b920/assets/logo/150.png",
-    "registration_link": "https://makerspark.devfolio.co",
-    "linkedin_post_link": null,
-    "github_link": null,
-    "status": "upcoming",
-    "source": "Devfolio",
-    "sources": [
-      "Devfolio"
-    ],
-    "approved": true,
-    "reported": false,
-    "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
-  },
-  {
-    "id": "b0df0efb-0042-4f85-802b-00162c129b56",
-    "title": "HackKumbh 2026 : Tech For Humanity",
-    "description": "By Yeshwantrao Chavan College of Engineering (YCCE), Nagpur on Unstop.",
-    "start_date": "2026-11-07T17:20:00.000Z",
-    "end_date": "2026-12-19T04:30:00.000Z",
-    "deadline": "2026-11-25T18:29:00.000Z",
-    "mode": "in-person",
-    "location": "Nagpur, India",
-    "city": "Nagpur",
-    "country": "India",
-    "prize_pool": "₹2,25,000",
-    "prize_amount": 225000,
-    "prize_currency": "INR",
-    "prize_usd": 2700,
-    "ppo_possible": false,
-    "hiring_signal": null,
-    "themes": [
-      "Problem Solving",
-      "Artificial Intelligence (AI)",
-      "Internet of Things (IoT)",
-      "Data Analytics Tools",
-      "Public Speaking and Presentation Skills"
-    ],
-    "students": true,
-    "global": null,
-    "organiser": "Yeshwantrao Chavan College of Engineering (YCCE), Nagpur",
-    "image": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6aef5bf2da0db_whatsapp_image_2026-11-07_at_22_40_53.jpeg",
-    "registration_link": "https://unstop.com/hackathons/hackkumbh-2026-tech-for-humanity-yeshwantrao-chavan-college-of-engineering-ycce-nagpur-1800629",
-    "linkedin_post_link": null,
-    "github_link": null,
-    "status": "open",
-    "source": "Unstop",
-    "sources": [
-      "Unstop"
-    ],
-    "approved": true,
-    "reported": false,
-    "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
-  },
-  {
-    "id": "f7b3bcae-5c2d-453d-8e92-fdd26268bee0",
-    "title": "CMR HACKFEST 4.0",
-    "description": "By CMR College of Engineering and Technology (CMRCET), Hyderabad on Unstop.",
-    "start_date": "2026-10-29T11:30:00.000Z",
-    "end_date": "2026-11-25T18:29:00.000Z",
-    "deadline": "2026-11-25T18:29:00.000Z",
-    "mode": "in-person",
-    "location": "Hyderabad, India",
-    "city": "Hyderabad",
-    "country": "India",
-    "prize_pool": "₹2,22,000",
-    "prize_amount": 222000,
-    "prize_currency": "INR",
-    "prize_usd": 2664,
-    "ppo_possible": false,
-    "hiring_signal": null,
-    "themes": [
-      "Problem Solving",
-      "Creative Thinking",
-      "Teamwork and Collaboration",
-      "Artificial Intelligence (AI)",
-      "Internet of Things (IoT)"
-    ],
-    "students": true,
-    "global": null,
-    "organiser": "CMR College of Engineering and Technology (CMRCET), Hyderabad",
-    "image": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6ae32e6a79fcf_only_h4.png",
-    "registration_link": "https://unstop.com/hackathons/cmr-hackfest-40-cmr-college-of-engineering-and-technology-cmrcet-hyderabad-1782514",
-    "linkedin_post_link": null,
-    "github_link": null,
-    "status": "open",
-    "source": "Unstop",
-    "sources": [
-      "Unstop"
-    ],
-    "approved": true,
-    "reported": false,
-    "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
-  },
-  {
-    "id": "2ade212b-f551-4033-8293-c7608578ed69",
-    "title": "AI BuildFest 2026",
-    "description": "By Frontend Arena on Unstop.",
-    "start_date": "2026-10-23T18:30:00.000Z",
-    "end_date": "2026-12-12T06:30:00.000Z",
-    "deadline": "2026-11-25T18:29:00.000Z",
-    "mode": "online",
-    "location": "Online",
-    "city": null,
-    "country": null,
-    "prize_pool": "₹28,500",
-    "prize_amount": 28500,
-    "prize_currency": "INR",
-    "prize_usd": 342,
-    "ppo_possible": false,
-    "hiring_signal": null,
-    "themes": [
-      "Artificial Intelligence (AI)",
-      "Machine Learning Concepts",
-      "Data Transformation",
-      "Problem Solving",
-      "Teamwork and Collaboration"
-    ],
-    "students": null,
-    "global": null,
-    "organiser": "Frontend Arena",
-    "image": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6adbd6435ff20_fa_logo.png",
-    "registration_link": "https://unstop.com/hackathons/ai-buildfest-2026-frontend-arena-1774417",
-    "linkedin_post_link": null,
-    "github_link": null,
-    "status": "open",
-    "source": "Unstop",
-    "sources": [
-      "Unstop"
-    ],
-    "approved": true,
-    "reported": false,
-    "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
-  },
-  {
-    "id": "424a67dd-798f-4c77-8fb4-1f347c3cdaa3",
-    "title": "Silicon Sprint 2026",
-    "description": "By National Institute of Technology Karnataka (NITK), Surathkal on Unstop.",
-    "start_date": "2026-11-15T18:30:00.000Z",
-    "end_date": "2026-11-28T11:30:00.000Z",
-    "deadline": "2026-11-25T18:30:00.000Z",
-    "mode": "online",
-    "location": "Online",
-    "city": null,
-    "country": null,
-    "prize_pool": "₹1,00,000",
-    "prize_amount": 100000,
-    "prize_currency": "INR",
-    "prize_usd": 1200,
-    "ppo_possible": false,
-    "hiring_signal": null,
-    "themes": [
-      "Electronics Engineering",
-      "Circuit Design",
-      "FPGA Design",
-      "Digital Signal Processing (DSP)",
-      "Digital Electronics"
-    ],
-    "students": true,
-    "global": true,
-    "organiser": "National Institute of Technology Karnataka (NITK), Surathkal",
-    "image": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6afb3793b62b8_883700fe-3a4e-4219-a55f-39c5822617d7.png",
-    "registration_link": "https://unstop.com/hackathons/silicon-sprint-2026-nitk-surathkal-1814263",
-    "linkedin_post_link": null,
-    "github_link": null,
-    "status": "open",
-    "source": "Unstop",
-    "sources": [
-      "Unstop"
-    ],
-    "approved": true,
-    "reported": false,
-    "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
-  },
-  {
-    "id": "7e2ed3f9-0969-4ed5-8642-422adce7dbd0",
-    "title": "VYTRON'26 Hackathon",
-    "description": "By Droidecks on Unstop.",
-    "start_date": "2026-11-05T18:30:00.000Z",
-    "end_date": "2026-11-25T18:30:00.000Z",
-    "deadline": "2026-11-25T18:30:00.000Z",
-    "mode": "online",
-    "location": "Online",
-    "city": null,
-    "country": null,
-    "prize_pool": "₹1,00,000",
-    "prize_amount": 100000,
-    "prize_currency": "INR",
-    "prize_usd": 1200,
-    "ppo_possible": true,
-    "hiring_signal": "internship",
-    "themes": [
-      "Problem Solving",
-      "Public Speaking and Presentation Skills",
-      "Technical Communication",
-      "Creativity",
-      "Teamwork and Collaboration"
-    ],
-    "students": null,
-    "global": null,
-    "organiser": "Droidecks",
-    "image": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6aeb80e76959e_logo.png",
-    "registration_link": "https://unstop.com/hackathons/vytron26-droidecks-1786652",
-    "linkedin_post_link": null,
-    "github_link": null,
-    "status": "open",
-    "source": "Unstop",
-    "sources": [
-      "Unstop"
-    ],
-    "approved": true,
-    "reported": false,
-    "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
-  },
-  {
-    "id": "6cb46cd4-0729-488f-8f5e-a52e13bdcbd8",
-    "title": "Lovable Buildathon @ Buenos Aires",
-    "description": "Lovable Buildathon @ Buenos Aires on Luma.",
-    "start_date": "2026-11-25T19:30:00.000Z",
-    "end_date": "2026-11-25T23:00:00.000Z",
-    "deadline": "2026-11-25T19:30:00.000Z",
-    "mode": "in-person",
-    "location": "Buenos Aires, Argentina",
-    "city": "Buenos Aires",
-    "country": "Argentina",
-    "prize_pool": "Not listed",
-    "prize_amount": null,
-    "prize_currency": null,
-    "prize_usd": null,
-    "ppo_possible": false,
-    "hiring_signal": null,
-    "themes": [],
-    "students": null,
-    "global": null,
-    "organiser": "Personal",
-    "image": "https://images.lumacdn.com/uploads/dk/02401ad8-ff4e-4f7c-8468-96dce9150dbf.png",
-    "registration_link": "https://luma.com/2cd3avfs",
-    "linkedin_post_link": null,
-    "github_link": null,
-    "status": "upcoming",
-    "source": "Luma",
-    "sources": [
-      "Luma"
-    ],
-    "approved": true,
-    "reported": false,
-    "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
-  },
-  {
-    "id": "6319b0c1-d39d-44db-895c-222f9443d942",
-    "title": "HackWithAditya",
-    "description": "Hosted by Aditya University on Devpost.",
-    "start_date": "2026-10-16T12:00:00.000Z",
-    "end_date": "2026-11-25T23:59:00.000Z",
-    "deadline": "2026-11-25T23:59:00.000Z",
-    "mode": "online",
-    "location": "Online",
-    "city": null,
-    "country": null,
-    "prize_pool": "₹5,00,000",
-    "prize_amount": 500000,
-    "prize_currency": "INR",
-    "prize_usd": 6000,
-    "ppo_possible": false,
-    "hiring_signal": null,
-    "themes": [
-      "Education",
-      "Health",
-      "Machine Learning/AI"
-    ],
-    "students": null,
-    "global": true,
-    "organiser": "Aditya University",
-    "image": "https://d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/005/587/014/datas/medium_square.jpeg",
-    "registration_link": "https://hackwithaditya.devpost.com/",
-    "linkedin_post_link": null,
-    "github_link": null,
-    "status": "open",
-    "source": "Devpost",
-    "sources": [
-      "Devpost"
-    ],
-    "approved": true,
-    "reported": false,
-    "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
-  },
-  {
-    "id": "99d0bef3-6fa5-489f-83e2-b1c79b1eaf8a",
-    "title": "BuildyourOwnWebsite",
-    "description": "Hosted by Roxten Studios on Devpost.",
-    "start_date": "2026-11-16T12:00:00.000Z",
-    "end_date": "2026-11-25T23:59:00.000Z",
-    "deadline": "2026-11-25T23:59:00.000Z",
-    "mode": "online",
-    "location": "Online",
-    "city": null,
-    "country": null,
-    "prize_pool": "Not listed",
-    "prize_amount": null,
-    "prize_currency": "INR",
-    "prize_usd": null,
-    "ppo_possible": false,
-    "hiring_signal": null,
-    "themes": [
-      "Beginner Friendly",
-      "Education",
-      "Web"
-    ],
-    "students": null,
-    "global": true,
-    "organiser": "Roxten Studios",
-    "image": "https://d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/005/556/137/datas/medium_square.png",
-    "registration_link": "https://buildyourownwebsite.devpost.com/",
-    "linkedin_post_link": null,
-    "github_link": null,
-    "status": "open",
-    "source": "Devpost",
-    "sources": [
-      "Devpost"
-    ],
-    "approved": true,
-    "reported": false,
-    "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
-  },
-  {
-    "id": "28035b7a-a210-4b79-886a-125d7a2361f0",
-    "title": "Creators AI Winter Challenge",
-    "description": "Hosted by Creators AI on Devpost.",
-    "start_date": "2026-11-19T12:00:00.000Z",
-    "end_date": "2026-11-25T23:59:00.000Z",
-    "deadline": "2026-11-25T23:59:00.000Z",
-    "mode": "online",
-    "location": "Online",
-    "city": null,
-    "country": null,
-    "prize_pool": "Not listed",
-    "prize_amount": null,
-    "prize_currency": "USD",
-    "prize_usd": null,
-    "ppo_possible": false,
-    "hiring_signal": null,
-    "themes": [
-      "Enterprise",
-      "Fintech",
-      "Productivity"
-    ],
-    "students": null,
-    "global": true,
-    "organiser": "Creators AI ",
-    "image": "https://d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/005/966/592/datas/medium_square.png",
-    "registration_link": "https://creators-ai-winter-challenge.devpost.com/",
-    "linkedin_post_link": null,
-    "github_link": null,
-    "status": "open",
-    "source": "Devpost",
-    "sources": [
-      "Devpost"
-    ],
-    "approved": true,
-    "reported": false,
-    "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
-  },
-  {
-    "id": "36cef738-af97-4100-8c60-7b204c86bfd4",
-    "title": "Solve for Better Bharat: Uttar Pradesh Hackathon",
-    "description": "Solve for Better Bharat: Uttar Pradesh Hackathon on Luma.",
-    "start_date": "2026-11-26T03:00:00.000Z",
-    "end_date": "2026-11-26T12:00:00.000Z",
-    "deadline": "2026-11-26T03:00:00.000Z",
-    "mode": "in-person",
-    "location": "Lucknow, India",
-    "city": "Lucknow",
-    "country": "India",
-    "prize_pool": "Not listed",
-    "prize_amount": null,
-    "prize_currency": null,
-    "prize_usd": null,
-    "ppo_possible": false,
-    "hiring_signal": null,
-    "themes": [],
-    "students": null,
-    "global": null,
-    "organiser": "Personal",
-    "image": "https://images.lumacdn.com/uploads/b6/3092bc4f-e41d-4815-a6a1-20ee10069bdf.png",
-    "registration_link": "https://luma.com/4ej215mb",
-    "linkedin_post_link": null,
-    "github_link": null,
-    "status": "upcoming",
-    "source": "Luma",
-    "sources": [
-      "Luma"
-    ],
-    "approved": true,
-    "reported": false,
-    "created_at": "2026-11-25T09:00:14.369Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
-  },
-  {
-    "id": "07578251-1c63-4a35-819e-69e9535d7fd4",
-    "title": "MyOnne National Bug Bounty Challenge 2026",
-    "description": "By MyOnne Amora Private Limited on Unstop.",
-    "start_date": "2026-11-18T18:30:00.000Z",
-    "end_date": "2026-11-28T12:00:00.000Z",
-    "deadline": "2026-11-26T11:30:00.000Z",
-    "mode": "online",
-    "location": "Online",
-    "city": null,
-    "country": null,
-    "prize_pool": "₹3,00,000",
-    "prize_amount": 300000,
-    "prize_currency": "INR",
-    "prize_usd": 3600,
-    "ppo_possible": false,
-    "hiring_signal": null,
-    "themes": [
-      "Web Application Security Testing",
-      "Vulnerability Assessment",
-      "Ethical Hacking",
-      "Report Writing",
-      "Mobile Operating Systems (iOS, Android)"
-    ],
-    "students": null,
-    "global": null,
-    "organiser": "MyOnne Amora Private Limited",
-    "image": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6aff388e6172e_organisation_image-MyO2gANoJq457242279Hb4FNT0J7k.png",
-    "registration_link": "https://unstop.com/hackathons/myonne-national-bug-bounty-challenge-2026-myonne-amora-private-limited-1817686",
-    "linkedin_post_link": null,
-    "github_link": null,
-    "status": "open",
-    "source": "Unstop",
-    "sources": [
-      "Unstop"
-    ],
-    "approved": true,
-    "reported": false,
-    "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
-  },
-  {
     "id": "7810073c-3d10-4620-8727-b866e4361602",
     "title": "AI Buildathon | Beat the Baseline — Workshop 3",
     "description": "AI Buildathon | Beat the Baseline — Workshop 3 on Luma.",
@@ -572,7 +32,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-24T10:19:08.068Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "c3602f83-6f9b-4f9a-8869-8d04f5fd236c",
@@ -613,7 +73,44 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
+  },
+  {
+    "id": "c70b5d5d-b0f4-407b-83af-18f0479a88fe",
+    "title": "MakerSpark",
+    "description": "**MakerSpark** is an 8-hour hardware-only hackathon organized by the **IEEE Sensors Council Kerala Chapter**, in collaboration with **Arduino, Maker Village, and Semicon Keralam**. Hosted at the **Indian Institute of Information Technology and Management–Kerala (IIITM-K), Technopark, Thiruvananthapuram**, the event brings together aspiring innovators, engineers, and technology enthusiasts to trans",
+    "start_date": "2026-12-09T03:30:00.000Z",
+    "end_date": "2026-12-09T11:30:00.000Z",
+    "deadline": "2026-11-26T18:29:00.000Z",
+    "mode": "in-person",
+    "location": "Thiruvananthapuram, India",
+    "city": "Thiruvananthapuram",
+    "country": "India",
+    "prize_pool": "Not listed",
+    "prize_amount": null,
+    "prize_currency": null,
+    "prize_usd": null,
+    "ppo_possible": false,
+    "hiring_signal": null,
+    "themes": [
+      "Hardware"
+    ],
+    "students": null,
+    "global": null,
+    "organiser": null,
+    "image": "https://assets.devfolio.co/hackathons/931ca9149c46417bb0526ce1eb44b920/assets/logo/150.png",
+    "registration_link": "https://makerspark.devfolio.co",
+    "linkedin_post_link": null,
+    "github_link": null,
+    "status": "upcoming",
+    "source": "Devfolio",
+    "sources": [
+      "Devfolio"
+    ],
+    "approved": true,
+    "reported": false,
+    "created_at": "2026-11-23T16:14:00.715Z",
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "2af0d068-2fe8-4daa-8012-4d5c87118698",
@@ -654,7 +151,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "26de13e3-e34b-4125-8efc-81d9edfdc03b",
@@ -695,7 +192,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "4514322b-e144-4cac-8964-9002efe8a792",
@@ -736,7 +233,48 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
+  },
+  {
+    "id": "7e2ed3f9-0969-4ed5-8642-422adce7dbd0",
+    "title": "VYTRON'26 Hackathon",
+    "description": "By Droidecks on Unstop.",
+    "start_date": "2026-11-05T18:30:00.000Z",
+    "end_date": "2026-11-26T18:30:00.000Z",
+    "deadline": "2026-11-26T18:30:00.000Z",
+    "mode": "online",
+    "location": "Online",
+    "city": null,
+    "country": null,
+    "prize_pool": "₹1,00,000",
+    "prize_amount": 100000,
+    "prize_currency": "INR",
+    "prize_usd": 1200,
+    "ppo_possible": true,
+    "hiring_signal": "internship",
+    "themes": [
+      "Problem Solving",
+      "Public Speaking and Presentation Skills",
+      "Technical Communication",
+      "Creativity",
+      "Teamwork and Collaboration"
+    ],
+    "students": null,
+    "global": null,
+    "organiser": "Droidecks",
+    "image": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6aeb80e76959e_logo.png",
+    "registration_link": "https://unstop.com/hackathons/vytron26-droidecks-1786652",
+    "linkedin_post_link": null,
+    "github_link": null,
+    "status": "open",
+    "source": "Unstop",
+    "sources": [
+      "Unstop"
+    ],
+    "approved": true,
+    "reported": false,
+    "created_at": "2026-11-23T16:14:00.715Z",
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "ca320c33-6f7f-41f2-8076-cdff78e46252",
@@ -777,7 +315,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "4dc79a57-c80e-4562-81dd-835e9378d881",
@@ -818,87 +356,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
-  },
-  {
-    "id": "d075d1af-7d11-4d6c-8a1d-1f89fccc2dee",
-    "title": "K Hacks 4.0",
-    "description": "By Anna University (AU), Chennai on Unstop.",
-    "start_date": "2026-10-26T18:30:00.000Z",
-    "end_date": "2026-12-18T08:30:00.000Z",
-    "deadline": "2026-11-26T18:30:00.000Z",
-    "mode": "online",
-    "location": "Online",
-    "city": null,
-    "country": null,
-    "prize_pool": "₹6,00,000",
-    "prize_amount": 600000,
-    "prize_currency": "INR",
-    "prize_usd": 7200,
-    "ppo_possible": false,
-    "hiring_signal": null,
-    "themes": [
-      "Problem Solving",
-      "Creativity",
-      "Technical Skills",
-      "Teamwork and Collaboration",
-      "Public Speaking and Presentation Skills"
-    ],
-    "students": true,
-    "global": true,
-    "organiser": "Anna University (AU), Chennai",
-    "image": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6aeec38d8b08f_University.jpeg",
-    "registration_link": "https://unstop.com/hackathons/k-hacks-40-anna-university-au-chennai-1772496",
-    "linkedin_post_link": null,
-    "github_link": null,
-    "status": "open",
-    "source": "Unstop",
-    "sources": [
-      "Unstop"
-    ],
-    "approved": true,
-    "reported": false,
-    "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
-  },
-  {
-    "id": "87bdba74-9281-4af5-8c52-f85ed228678b",
-    "title": "STEM Innovation Challenge 2026",
-    "description": "Hosted by Global STEM Innovation Initiative on Devpost.",
-    "start_date": "2026-11-24T12:00:00.000Z",
-    "end_date": "2026-11-26T23:59:00.000Z",
-    "deadline": "2026-11-26T23:59:00.000Z",
-    "mode": "online",
-    "location": "Online",
-    "city": null,
-    "country": null,
-    "prize_pool": "$100",
-    "prize_amount": 100,
-    "prize_currency": "USD",
-    "prize_usd": 100,
-    "ppo_possible": false,
-    "hiring_signal": null,
-    "themes": [
-      "Beginner Friendly",
-      "Open Ended",
-      "Social Good"
-    ],
-    "students": null,
-    "global": true,
-    "organiser": "Global STEM Innovation Initiative",
-    "image": "https://d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/005/971/409/datas/medium_square.png",
-    "registration_link": "https://stem-innovation-challenge-2026.devpost.com/",
-    "linkedin_post_link": null,
-    "github_link": null,
-    "status": "open",
-    "source": "Devpost",
-    "sources": [
-      "Devpost"
-    ],
-    "approved": true,
-    "reported": false,
-    "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "f889fe58-e60f-433a-8c21-66226dc8d1fa",
@@ -937,7 +395,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "63a2f848-1540-4dcd-8042-36574e935fcd",
@@ -972,7 +430,48 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
+  },
+  {
+    "id": "424a67dd-798f-4c77-8fb4-1f347c3cdaa3",
+    "title": "Silicon Sprint 2026",
+    "description": "By National Institute of Technology Karnataka (NITK), Surathkal on Unstop.",
+    "start_date": "2026-11-15T18:30:00.000Z",
+    "end_date": "2026-11-28T11:30:00.000Z",
+    "deadline": "2026-11-27T09:30:00.000Z",
+    "mode": "online",
+    "location": "Online",
+    "city": null,
+    "country": null,
+    "prize_pool": "₹1,00,000",
+    "prize_amount": 100000,
+    "prize_currency": "INR",
+    "prize_usd": 1200,
+    "ppo_possible": false,
+    "hiring_signal": null,
+    "themes": [
+      "Electronics Engineering",
+      "Circuit Design",
+      "FPGA Design",
+      "Digital Signal Processing (DSP)",
+      "Digital Electronics"
+    ],
+    "students": true,
+    "global": true,
+    "organiser": "National Institute of Technology Karnataka (NITK), Surathkal",
+    "image": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6afb3793b62b8_883700fe-3a4e-4219-a55f-39c5822617d7.png",
+    "registration_link": "https://unstop.com/hackathons/silicon-sprint-2026-nitk-surathkal-1814263",
+    "linkedin_post_link": null,
+    "github_link": null,
+    "status": "open",
+    "source": "Unstop",
+    "sources": [
+      "Unstop"
+    ],
+    "approved": true,
+    "reported": false,
+    "created_at": "2026-11-23T16:14:00.715Z",
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "6cffef33-976c-425e-8f63-f9da0254b59f",
@@ -1007,7 +506,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "9442395c-c615-4ee1-8255-31c8ce63d8a6",
@@ -1042,7 +541,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "4089988c-1d8f-4977-8a42-716c21d2a07b",
@@ -1077,7 +576,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-25T09:00:14.369Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "f0a5d0c6-d3bc-450b-8c90-b40049a81716",
@@ -1112,7 +611,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "3577e24c-ef5c-4021-872a-f8332288bc01",
@@ -1153,7 +652,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "6fcbeef7-9c7e-4d23-8ede-4902511f4b1a",
@@ -1194,7 +693,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "d7d289d4-dea3-438c-8ec0-78d2f62c2097",
@@ -1235,7 +734,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "84a9bf20-1b9d-4d67-85d1-6c5dd145b730",
@@ -1270,7 +769,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "f90dd9e2-8688-4c52-81e6-a01a45972107",
@@ -1305,7 +804,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "5994519f-9c3f-4fc0-87cc-0c9d36be7761",
@@ -1346,7 +845,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "c2cb8132-46fe-47a3-8c0f-f6edafbea2d8",
@@ -1387,7 +886,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "e83c4ca0-8952-4704-8d57-3841544c2e02",
@@ -1428,7 +927,48 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
+  },
+  {
+    "id": "f7b3bcae-5c2d-453d-8e92-fdd26268bee0",
+    "title": "CMR HACKFEST 4.0",
+    "description": "By CMR College of Engineering and Technology (CMRCET), Hyderabad on Unstop.",
+    "start_date": "2026-10-29T11:30:00.000Z",
+    "end_date": "2026-11-27T18:29:00.000Z",
+    "deadline": "2026-11-27T18:29:00.000Z",
+    "mode": "in-person",
+    "location": "Hyderabad, India",
+    "city": "Hyderabad",
+    "country": "India",
+    "prize_pool": "₹2,22,000",
+    "prize_amount": 222000,
+    "prize_currency": "INR",
+    "prize_usd": 2664,
+    "ppo_possible": false,
+    "hiring_signal": null,
+    "themes": [
+      "Problem Solving",
+      "Creative Thinking",
+      "Teamwork and Collaboration",
+      "Artificial Intelligence (AI)",
+      "Internet of Things (IoT)"
+    ],
+    "students": true,
+    "global": null,
+    "organiser": "CMR College of Engineering and Technology (CMRCET), Hyderabad",
+    "image": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6ae32e6a79fcf_only_h4.png",
+    "registration_link": "https://unstop.com/hackathons/cmr-hackfest-40-cmr-college-of-engineering-and-technology-cmrcet-hyderabad-1782514",
+    "linkedin_post_link": null,
+    "github_link": null,
+    "status": "open",
+    "source": "Unstop",
+    "sources": [
+      "Unstop"
+    ],
+    "approved": true,
+    "reported": false,
+    "created_at": "2026-11-23T16:14:00.715Z",
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "f4b67be6-ad42-490d-8f32-7c77708329f3",
@@ -1469,7 +1009,48 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
+  },
+  {
+    "id": "d075d1af-7d11-4d6c-8a1d-1f89fccc2dee",
+    "title": "K Hacks 4.0",
+    "description": "By Anna University (AU), Chennai on Unstop.",
+    "start_date": "2026-10-26T18:30:00.000Z",
+    "end_date": "2026-12-18T08:30:00.000Z",
+    "deadline": "2026-11-27T18:29:00.000Z",
+    "mode": "online",
+    "location": "Online",
+    "city": null,
+    "country": null,
+    "prize_pool": "₹6,00,000",
+    "prize_amount": 600000,
+    "prize_currency": "INR",
+    "prize_usd": 7200,
+    "ppo_possible": false,
+    "hiring_signal": null,
+    "themes": [
+      "Problem Solving",
+      "Creativity",
+      "Technical Skills",
+      "Teamwork and Collaboration",
+      "Public Speaking and Presentation Skills"
+    ],
+    "students": true,
+    "global": true,
+    "organiser": "Anna University (AU), Chennai",
+    "image": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6aeec38d8b08f_University.jpeg",
+    "registration_link": "https://unstop.com/hackathons/k-hacks-40-anna-university-au-chennai-1772496",
+    "linkedin_post_link": null,
+    "github_link": null,
+    "status": "open",
+    "source": "Unstop",
+    "sources": [
+      "Unstop"
+    ],
+    "approved": true,
+    "reported": false,
+    "created_at": "2026-11-23T16:14:00.715Z",
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "ddcb5ab4-42cc-4326-8dba-a53156044968",
@@ -1512,7 +1093,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "4d117cf0-0029-4ed6-8b3e-70eb1fa9937a",
@@ -1553,7 +1134,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-25T09:00:14.369Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "a01efaf1-2ac7-44a1-8857-41949a41598e",
@@ -1594,7 +1175,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "4f2704bb-daee-4774-895c-510a2657cc38",
@@ -1635,7 +1216,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "502d9ed2-4139-447a-8f4f-5fc4cec338a8",
@@ -1670,7 +1251,46 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-24T10:19:08.068Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
+  },
+  {
+    "id": "28035b7a-a210-4b79-886a-125d7a2361f0",
+    "title": "Creators AI Winter Challenge",
+    "description": "Hosted by Creators AI on Devpost.",
+    "start_date": "2026-11-19T12:00:00.000Z",
+    "end_date": "2026-11-27T23:59:00.000Z",
+    "deadline": "2026-11-27T23:59:00.000Z",
+    "mode": "online",
+    "location": "Online",
+    "city": null,
+    "country": null,
+    "prize_pool": "Not listed",
+    "prize_amount": null,
+    "prize_currency": "USD",
+    "prize_usd": null,
+    "ppo_possible": false,
+    "hiring_signal": null,
+    "themes": [
+      "Enterprise",
+      "Fintech",
+      "Productivity"
+    ],
+    "students": null,
+    "global": true,
+    "organiser": "Creators AI ",
+    "image": "https://d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/005/966/592/datas/medium_square.png",
+    "registration_link": "https://creators-ai-winter-challenge.devpost.com/",
+    "linkedin_post_link": null,
+    "github_link": null,
+    "status": "open",
+    "source": "Devpost",
+    "sources": [
+      "Devpost"
+    ],
+    "approved": true,
+    "reported": false,
+    "created_at": "2026-11-23T16:14:00.715Z",
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "1ea77a6b-af41-464c-86e9-4fbc807a0f3c",
@@ -1709,7 +1329,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "9dcd24ce-e0ff-4aee-881c-e5e55cb61d91",
@@ -1744,7 +1364,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "4d6d99d5-7eeb-4622-8df7-f7824d8d3b8a",
@@ -1785,7 +1405,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "7cf3a65a-4340-4794-84cc-8a4c7ac90bf2",
@@ -1808,7 +1428,7 @@
     "students": null,
     "global": null,
     "organiser": "Nasiko",
-    "image": "https://images.lumacdn.com/uploads/uo/1d4f146e-7808-482d-b9b8-ca952037edc1.png",
+    "image": "https://images.lumacdn.com/uploads/88/591ecf95-7f08-43da-a0bd-5632eb648500.png",
     "registration_link": "https://luma.com/nasiko-kn7b",
     "linkedin_post_link": null,
     "github_link": null,
@@ -1820,7 +1440,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "afe5a11a-fe14-41a3-86fa-db36ab496723",
@@ -1855,7 +1475,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-24T10:19:08.068Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "8b5bfa62-51a3-43f2-84b1-e59ea30facf8",
@@ -1890,7 +1510,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-24T10:19:08.068Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "a7de199a-6aa1-4777-8b2d-4f4ff99146f0",
@@ -1925,7 +1545,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-25T09:00:14.369Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "99db5646-06b8-4570-8915-689e09ca1f8b",
@@ -1960,7 +1580,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "35bff456-f0a4-42ea-8d05-4f7dde3b8465",
@@ -1995,7 +1615,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "49e5da97-949a-4027-85f5-39bbb37b3315",
@@ -2030,7 +1650,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-24T10:19:08.068Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "0c90c952-f3f9-4f2a-8310-2dc66142e5cb",
@@ -2065,7 +1685,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "31483e4e-0707-47ae-8f9b-a4ca6be8181a",
@@ -2100,7 +1720,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-25T09:00:14.369Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "d788b2fc-31ce-4726-83d0-3d4334670a8e",
@@ -2135,7 +1755,49 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
+  },
+  {
+    "id": "ba0d4d8b-56d2-45bc-8995-43b125724548",
+    "title": "Imagine the Impossible: The Game Design Challenge",
+    "description": "By Kalindi College (KC), University of Delhi (DU), Delhi on Unstop.",
+    "start_date": "2026-11-23T18:30:00.000Z",
+    "end_date": "2026-11-28T15:30:00.000Z",
+    "deadline": "2026-11-28T13:30:00.000Z",
+    "mode": "online",
+    "location": "Online",
+    "city": null,
+    "country": null,
+    "prize_pool": "Not listed",
+    "prize_amount": null,
+    "prize_currency": null,
+    "prize_usd": null,
+    "ppo_possible": false,
+    "hiring_signal": null,
+    "themes": [
+      "Creativity",
+      "Game Design",
+      "Storytelling",
+      "Visual Design Principles",
+      "Public Speaking and Presentation Skills",
+      "Artificial Intelligence (AI)"
+    ],
+    "students": true,
+    "global": true,
+    "organiser": "Kalindi College (KC), University of Delhi (DU), Delhi",
+    "image": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6b05bd30c7b1c_imagine_the_impossible_gaming_challenge_optimized_1000.png",
+    "registration_link": "https://unstop.com/hackathons/imagine-the-impossible-the-game-design-challenge-kalindi-college-kc-university-of-delhi-du-delhi-1826953",
+    "linkedin_post_link": null,
+    "github_link": null,
+    "status": "open",
+    "source": "Unstop",
+    "sources": [
+      "Unstop"
+    ],
+    "approved": true,
+    "reported": false,
+    "created_at": "2026-11-26T08:47:34.750Z",
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "eebe9ca7-dde0-44a7-8475-676f34a1eda4",
@@ -2172,7 +1834,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "ab1b2547-a1ea-4014-8ca2-b3095b5ad731",
@@ -2207,7 +1869,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "94927bfb-71e6-4b1c-88a0-e45638eaf0f4",
@@ -2242,7 +1904,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-25T09:00:14.369Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "1b5ea84d-aed0-4e42-8c1b-3bfaa20ab7a7",
@@ -2286,7 +1948,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "18bcc5e0-1a1c-4ff8-80d5-8f88a36410a9",
@@ -2327,7 +1989,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "f4a0c76e-6b18-4317-84a0-364e6571192c",
@@ -2368,7 +2030,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "3157bd9b-5fd5-48de-872b-1c655b3373df",
@@ -2403,7 +2065,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-24T10:19:08.068Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "3ea5a567-3fba-4555-8bd7-5289ecdd016c",
@@ -2440,7 +2102,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "9f0b5674-cb64-4cef-869c-945ab1031ae5",
@@ -2479,7 +2141,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-25T09:00:14.369Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "756ad75f-8c6e-4082-857a-e5f33fa70158",
@@ -2514,7 +2176,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "255b409f-884f-40e1-8809-bb905fe1af56",
@@ -2555,7 +2217,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "2d254845-de4d-4e34-8758-0ffc0156b9b3",
@@ -2599,7 +2261,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "81662eb4-700a-4718-8ba6-1af73e4bded3",
@@ -2643,7 +2305,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "45183d05-b46f-4d89-86e9-dc88672df2be",
@@ -2687,7 +2349,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "c1675990-4a06-4c92-82a1-9aa3d3ba317e",
@@ -2731,7 +2393,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "f31b62ea-5fa8-49ea-8740-2119414d2327",
@@ -2772,7 +2434,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "bf403c3f-816f-41af-8629-054d3068eba8",
@@ -2813,7 +2475,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "be533a25-6bd1-4558-8985-59de53e1e6ad",
@@ -2852,7 +2514,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "6eb1754f-464b-479f-8cd9-6aa8ec7f9bbd",
@@ -2891,7 +2553,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "8552b2df-16ef-459e-8756-98a7e4468daf",
@@ -2929,7 +2591,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "7606c1c0-f643-4c4b-83c4-2aace125a80c",
@@ -2968,7 +2630,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "d1e25f66-76c0-456f-8689-1b1745d8a939",
@@ -3012,7 +2674,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "047fdcf8-25a7-4345-84d6-3d716b359e90",
@@ -3047,7 +2709,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-25T09:00:14.369Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "883fb9ae-659f-4102-81c4-c60e7253d885",
@@ -3091,7 +2753,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "47bb1c51-37e9-4562-8ae3-d5c33c01ec72",
@@ -3126,7 +2788,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-24T10:19:08.068Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "e414019b-b3f5-465a-8ddf-ef8aabcb3e74",
@@ -3161,7 +2823,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-24T10:19:08.068Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "999b8d2e-5bf4-456d-8dd5-9d0906f75dfd",
@@ -3202,7 +2864,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "df059a04-4e19-48aa-8b8e-8d4a3b320d17",
@@ -3243,7 +2905,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "ba5c5fdb-f898-4cb8-83cc-fc050e7e3f95",
@@ -3278,7 +2940,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "b6595f72-ce35-4731-8041-22e94e25c029",
@@ -3313,7 +2975,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "1ef5a63e-0dea-4e7a-8560-d6c2200398eb",
@@ -3354,7 +3016,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "edbd7dc2-cf4e-47d7-814d-53d697ee8705",
@@ -3398,7 +3060,48 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
+  },
+  {
+    "id": "6f83b942-1b5f-4a7a-83ef-40f84c5617d6",
+    "title": "VIT Bhopal University to Host Health Hackathon 3.0 in January 2027",
+    "description": "By VIT BHOPAL on Unstop.",
+    "start_date": "2026-10-27T18:30:00.000Z",
+    "end_date": "2026-11-30T18:29:00.000Z",
+    "deadline": "2026-11-30T18:29:00.000Z",
+    "mode": "in-person",
+    "location": "Bhopal, India",
+    "city": "Bhopal",
+    "country": "India",
+    "prize_pool": "Not listed",
+    "prize_amount": null,
+    "prize_currency": null,
+    "prize_usd": null,
+    "ppo_possible": false,
+    "hiring_signal": null,
+    "themes": [
+      "Artificial Intelligence (AI)",
+      "Health Informatics",
+      "Predictive Analytics",
+      "Public Health",
+      "Healthcare Systems Knowledge"
+    ],
+    "students": true,
+    "global": null,
+    "organiser": "VIT BHOPAL ",
+    "image": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6ae194d9ba583_unstop.png",
+    "registration_link": "https://unstop.com/hackathons/vit-bhopal-university-to-host-health-hackathon-30-in-january-2027-vit-bhopal-1781454",
+    "linkedin_post_link": null,
+    "github_link": null,
+    "status": "open",
+    "source": "Unstop",
+    "sources": [
+      "Unstop"
+    ],
+    "approved": true,
+    "reported": false,
+    "created_at": "2026-11-23T16:14:00.715Z",
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "c5d27c4a-8557-496d-847b-5a4dd458ed45",
@@ -3441,48 +3144,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
-  },
-  {
-    "id": "6f83b942-1b5f-4a7a-83ef-40f84c5617d6",
-    "title": "VIT Bhopal University to Host Health Hackathon 3.0 in January 2027",
-    "description": "By VIT BHOPAL on Unstop.",
-    "start_date": "2026-10-27T18:30:00.000Z",
-    "end_date": "2026-11-30T18:29:00.000Z",
-    "deadline": "2026-11-30T18:29:00.000Z",
-    "mode": "in-person",
-    "location": "Bhopal, India",
-    "city": "Bhopal",
-    "country": "India",
-    "prize_pool": "Not listed",
-    "prize_amount": null,
-    "prize_currency": null,
-    "prize_usd": null,
-    "ppo_possible": false,
-    "hiring_signal": null,
-    "themes": [
-      "Artificial Intelligence (AI)",
-      "Health Informatics",
-      "Predictive Analytics",
-      "Public Health",
-      "Healthcare Systems Knowledge"
-    ],
-    "students": true,
-    "global": null,
-    "organiser": "VIT BHOPAL ",
-    "image": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6ae194d9ba583_unstop.png",
-    "registration_link": "https://unstop.com/hackathons/vit-bhopal-university-to-host-health-hackathon-30-in-january-2027-vit-bhopal-1781454",
-    "linkedin_post_link": null,
-    "github_link": null,
-    "status": "open",
-    "source": "Unstop",
-    "sources": [
-      "Unstop"
-    ],
-    "approved": true,
-    "reported": false,
-    "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "605d9756-d859-41c9-85ec-d07d9121991c",
@@ -3523,7 +3185,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "a2c9cc71-4c54-41ea-8506-b0a12d73f259",
@@ -3564,7 +3226,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "8574e109-aba2-4ee6-8732-f1669f9faf25",
@@ -3605,7 +3267,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-25T09:00:14.369Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "bcba13e6-e116-4d11-88d0-f551afae52f4",
@@ -3647,7 +3309,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "f8971bc5-3da0-48d8-8e60-7968a65125dd",
@@ -3679,7 +3341,7 @@
     "students": true,
     "global": null,
     "organiser": "navutkarsh",
-    "image": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6b05d72997e91_organisation_image-hVha4VPcAI1021562078ILzq67Gsps.png",
+    "image": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6b06c47261c00_organisation_image-hVha4VPcAI1021562078ILzq67Gsps.png",
     "registration_link": "https://unstop.com/hackathons/navutkarsh-x-leo-hackathon-2026-innovate-build-solve-real-world-problems-navutkarsh-1771952",
     "linkedin_post_link": null,
     "github_link": null,
@@ -3691,7 +3353,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "41c093dc-68cc-4630-8bf7-5c75aba764ce",
@@ -3732,7 +3394,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "a9f5dfa2-6a7a-4596-8858-e62b1608a5ea",
@@ -3776,7 +3438,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "4140a123-47c0-4c5b-894a-a85f6ed53ada",
@@ -3817,7 +3479,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "d96317da-9f6f-44f3-8633-b7cdf1e20cef",
@@ -3858,7 +3520,79 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
+  },
+  {
+    "id": "946ead78-037d-4911-8ef1-21c9969f59a6",
+    "title": "IEEE YP Miami × Mel: AI & Robotics Hackathon – Win Cash Prizes!",
+    "description": "IEEE YP Miami × Mel: AI & Robotics Hackathon – Win Cash Prizes! on Luma.",
+    "start_date": "2026-11-30T20:00:00.000Z",
+    "end_date": "2026-11-30T23:00:00.000Z",
+    "deadline": "2026-11-30T20:00:00.000Z",
+    "mode": "in-person",
+    "location": "Miami, United States",
+    "city": "Miami",
+    "country": "United States",
+    "prize_pool": "Not listed",
+    "prize_amount": null,
+    "prize_currency": null,
+    "prize_usd": null,
+    "ppo_possible": false,
+    "hiring_signal": null,
+    "themes": [],
+    "students": null,
+    "global": null,
+    "organiser": "Personal",
+    "image": "https://images.lumacdn.com/uploads/d6/6057de52-fcab-4623-8fcc-13ca01901375.jpg",
+    "registration_link": "https://luma.com/0bzlfqtr",
+    "linkedin_post_link": null,
+    "github_link": null,
+    "status": "upcoming",
+    "source": "Luma",
+    "sources": [
+      "Luma"
+    ],
+    "approved": true,
+    "reported": false,
+    "created_at": "2026-11-26T08:47:34.750Z",
+    "updated_at": "2026-11-26T08:47:34.750Z"
+  },
+  {
+    "id": "12c0bffb-43a5-4be7-8bf1-81bd6c5ec5d8",
+    "title": "Workday Internal Hackathon",
+    "description": "MLH member event in Pleasanton, CA.",
+    "start_date": "2026-11-30T21:30:00.000Z",
+    "end_date": "2026-12-02T20:00:00.000Z",
+    "deadline": "2026-11-30T21:30:00.000Z",
+    "mode": "in-person",
+    "location": "Pleasanton, United States",
+    "city": "Pleasanton",
+    "country": "United States",
+    "prize_pool": "Not listed",
+    "prize_amount": null,
+    "prize_currency": null,
+    "prize_usd": null,
+    "ppo_possible": false,
+    "hiring_signal": null,
+    "themes": [
+      "Software"
+    ],
+    "students": true,
+    "global": null,
+    "organiser": null,
+    "image": "https://mlhusercontent.com/logos/events/01a21503-c582-2182-2e81-89f85b67290d/workday-internal-hackathon-47_a8d4e060ba24_small.png",
+    "registration_link": "https://connect.events.workday.com/aiaf",
+    "linkedin_post_link": null,
+    "github_link": null,
+    "status": "upcoming",
+    "source": "MLH",
+    "sources": [
+      "MLH"
+    ],
+    "approved": true,
+    "reported": false,
+    "created_at": "2026-11-26T08:47:34.750Z",
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "c78200cd-7812-4029-80e0-528da3b5c448",
@@ -3893,7 +3627,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-24T10:19:08.068Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "fb91ebd2-aeb2-4448-83bf-340caf34db17",
@@ -3932,7 +3666,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "c13f0ade-8005-42db-8052-841314226461",
@@ -3971,7 +3705,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "dca29a90-b38e-4cbe-8a08-89fa775530f4",
@@ -4010,7 +3744,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "ee42fb30-2238-41fa-86e3-a1942a7819c5",
@@ -4049,7 +3783,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "658d8309-f5f9-4c07-814c-a86c7f3bc3d8",
@@ -4088,46 +3822,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
-  },
-  {
-    "id": "36a029c8-fc80-44bf-8cf4-59336f6282fe",
-    "title": "Code For DFW",
-    "description": "Hosted by n/a on Devpost.",
-    "start_date": "2026-10-20T12:00:00.000Z",
-    "end_date": "2026-11-30T23:59:00.000Z",
-    "deadline": "2026-11-30T23:59:00.000Z",
-    "mode": "online",
-    "location": "Online",
-    "city": null,
-    "country": null,
-    "prize_pool": "Not listed",
-    "prize_amount": null,
-    "prize_currency": "USD",
-    "prize_usd": null,
-    "ppo_possible": false,
-    "hiring_signal": null,
-    "themes": [
-      "Open Ended",
-      "Social Good",
-      "Beginner Friendly"
-    ],
-    "students": null,
-    "global": true,
-    "organiser": "n/a",
-    "image": "https://d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/005/414/751/datas/medium_square.png",
-    "registration_link": "https://code-for-dfw.devpost.com/",
-    "linkedin_post_link": null,
-    "github_link": null,
-    "status": "open",
-    "source": "Devpost",
-    "sources": [
-      "Devpost"
-    ],
-    "approved": true,
-    "reported": false,
-    "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "b12dab39-508c-4a97-8c5f-4f4556e16f2b",
@@ -4166,7 +3861,46 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
+  },
+  {
+    "id": "36a029c8-fc80-44bf-8cf4-59336f6282fe",
+    "title": "Code For DFW",
+    "description": "Hosted by n/a on Devpost.",
+    "start_date": "2026-10-20T12:00:00.000Z",
+    "end_date": "2026-11-30T23:59:00.000Z",
+    "deadline": "2026-11-30T23:59:00.000Z",
+    "mode": "online",
+    "location": "Online",
+    "city": null,
+    "country": null,
+    "prize_pool": "Not listed",
+    "prize_amount": null,
+    "prize_currency": "USD",
+    "prize_usd": null,
+    "ppo_possible": false,
+    "hiring_signal": null,
+    "themes": [
+      "Open Ended",
+      "Social Good",
+      "Beginner Friendly"
+    ],
+    "students": null,
+    "global": true,
+    "organiser": "n/a",
+    "image": "https://d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/005/414/751/datas/medium_square.png",
+    "registration_link": "https://code-for-dfw.devpost.com/",
+    "linkedin_post_link": null,
+    "github_link": null,
+    "status": "open",
+    "source": "Devpost",
+    "sources": [
+      "Devpost"
+    ],
+    "approved": true,
+    "reported": false,
+    "created_at": "2026-11-23T16:14:00.715Z",
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "6ddb56ce-0d94-403e-8422-64eb0c2c0a81",
@@ -4205,7 +3939,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "b0eee6d8-fbca-4643-84c3-305a7de8306a",
@@ -4244,7 +3978,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "adb352e7-301a-4dae-8f18-5745d67107e3",
@@ -4288,7 +4022,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "c9a2678d-4cb7-485f-8448-26035affada3",
@@ -4323,7 +4057,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "e1eb29be-5bdf-4644-8a1f-c778e192cd14",
@@ -4366,7 +4100,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "05815609-3a2c-4138-8dab-c4b8928f7d47",
@@ -4407,7 +4141,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "4f906cf1-4ea0-4c03-85a3-e1c7a7b9148e",
@@ -4446,7 +4180,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "b14fcf8f-8092-4e90-87aa-0574afe29931",
@@ -4485,7 +4219,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "ca67257e-5f3c-4df4-882a-591b7a2de1d7",
@@ -4524,7 +4258,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-25T09:00:14.369Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "55dd01af-a754-4611-890d-082c1edce236",
@@ -4565,7 +4299,42 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
+  },
+  {
+    "id": "2cd7fc58-d7c7-4a2a-8004-aca14fee0e87",
+    "title": "Claude Code Build Day",
+    "description": "Claude Code Build Day on Luma.",
+    "start_date": "2026-12-02T06:00:00.000Z",
+    "end_date": "2026-12-02T14:00:00.000Z",
+    "deadline": "2026-12-02T06:00:00.000Z",
+    "mode": "in-person",
+    "location": "Astana, Kazakhstan",
+    "city": "Astana",
+    "country": "Kazakhstan",
+    "prize_pool": "Not listed",
+    "prize_amount": null,
+    "prize_currency": null,
+    "prize_usd": null,
+    "ppo_possible": false,
+    "hiring_signal": null,
+    "themes": [],
+    "students": null,
+    "global": null,
+    "organiser": "Claude Community Events",
+    "image": "https://images.lumacdn.com/uploads/b7/79226e6b-7923-4424-afee-2ca691fba4d2.png",
+    "registration_link": "https://luma.com/claude-bepd",
+    "linkedin_post_link": null,
+    "github_link": null,
+    "status": "upcoming",
+    "source": "Luma",
+    "sources": [
+      "Luma"
+    ],
+    "approved": true,
+    "reported": false,
+    "created_at": "2026-11-26T08:47:34.750Z",
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "44c24bcf-4aa6-4be1-886f-a3896be8a9f1",
@@ -4590,8 +4359,8 @@
       "JavaScript",
       "Python Development"
     ],
-    "students": null,
-    "global": null,
+    "students": true,
+    "global": true,
     "organiser": "HackWithPune",
     "image": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6b05e5a0d9a3e_organisation_image-JcGNqAEiOK129458445ftoZRgjThz.png",
     "registration_link": "https://unstop.com/hackathons/codeunited-india-national-hackathon-hackwithpune-1817749",
@@ -4605,7 +4374,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "a891b2ed-e84f-420c-86b0-4b610aaba143",
@@ -4640,7 +4409,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-24T10:19:08.068Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "0be2b5c7-ab43-4d74-8c26-4ccac88a5462",
@@ -4660,16 +4429,17 @@
     "ppo_possible": true,
     "hiring_signal": "pre-placement offer",
     "themes": [
-      "Creativity",
-      "Problem Solving",
-      "Technical Skills",
-      "Teamwork and Collaboration",
-      "Project Management"
+      "Artificial Intelligence (AI)",
+      "Backend development",
+      "JavaScript",
+      "API Development (REST)",
+      "Innovation Management",
+      "Program Evaluation"
     ],
-    "students": null,
-    "global": null,
+    "students": true,
+    "global": true,
     "organiser": "HackWithPune",
-    "image": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6b04483555ae3_organisation_image-JcGNqAEiOK129458445ftoZRgjThz.png",
+    "image": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6b06d9eaaf721_organisation_image-JcGNqAEiOK129458445ftoZRgjThz.png",
     "registration_link": "https://unstop.com/hackathons/codecrafters-india-2026-national-hackathon-hackwithpune-1792826",
     "linkedin_post_link": null,
     "github_link": null,
@@ -4681,7 +4451,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "f8e605f0-d632-464d-8bd7-9093d36be285",
@@ -4719,7 +4489,48 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-24T10:19:08.068Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
+  },
+  {
+    "id": "c496ad32-135d-4ceb-8ff4-4e3d257fd7aa",
+    "title": "Protocol Zero: Boot | Hack | CTF",
+    "description": "By Centre for Cybersecurity, Trust and Reliability, IIT Madras (CyStar) on Unstop.",
+    "start_date": "2026-11-05T18:30:00.000Z",
+    "end_date": "2027-03-12T18:30:00.000Z",
+    "deadline": "2026-12-02T18:29:00.000Z",
+    "mode": "in-person",
+    "location": "Chennai, India",
+    "city": "Chennai",
+    "country": "India",
+    "prize_pool": "₹10,00,000",
+    "prize_amount": 1000000,
+    "prize_currency": "INR",
+    "prize_usd": 12000,
+    "ppo_possible": false,
+    "hiring_signal": null,
+    "themes": [
+      "Vulnerability Assessment",
+      "Secure Coding Practices",
+      "Network Traffic Analysis",
+      "Reverse Engineering",
+      "Digital Forensics"
+    ],
+    "students": true,
+    "global": null,
+    "organiser": "Centre for Cybersecurity, Trust and Reliability, IIT Madras (CyStar)",
+    "image": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6b07e95dc1739_organisation_image-o5y5mIN1Za1614479982gMjO50yXgg.png",
+    "registration_link": "https://unstop.com/hackathons/protocol-zero-boot-hack-ctf-centre-for-cybersecurity-trust-and-reliability-iit-madras-cystar-1798676",
+    "linkedin_post_link": null,
+    "github_link": null,
+    "status": "open",
+    "source": "Unstop",
+    "sources": [
+      "Unstop"
+    ],
+    "approved": true,
+    "reported": false,
+    "created_at": "2026-11-26T08:47:34.750Z",
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "33567649-9ce8-4b60-8d30-4fce1097582a",
@@ -4760,7 +4571,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "e9200ce4-ed10-4f97-879a-48197b732801",
@@ -4799,7 +4610,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "3a36feb7-6b1f-4843-8372-165731b38b0e",
@@ -4807,7 +4618,7 @@
     "description": "By PSIT College of Engineering (PSITcoe), Kanpur, Uttar Pradesh on Unstop.",
     "start_date": "2026-11-14T18:30:00.000Z",
     "end_date": "2026-12-31T09:17:00.000Z",
-    "deadline": "2026-12-03T09:06:16.000Z",
+    "deadline": "2026-12-03T03:36:16.000Z",
     "mode": "online",
     "location": "Online",
     "city": null,
@@ -4843,7 +4654,48 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-25T09:00:14.369Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
+  },
+  {
+    "id": "51b6eaaf-1d1d-44dd-8103-e58e7cb46abc",
+    "title": "Online Coding Challenge",
+    "description": "By Rastrakavi Ramdhari Singh Dinkar College of Engineering(RRSDCE), Begusarai on Unstop.",
+    "start_date": "2026-11-25T18:30:00.000Z",
+    "end_date": "2026-12-03T06:11:44.000Z",
+    "deadline": "2026-12-03T06:11:44.000Z",
+    "mode": "online",
+    "location": "Online",
+    "city": null,
+    "country": null,
+    "prize_pool": "Not listed",
+    "prize_amount": null,
+    "prize_currency": null,
+    "prize_usd": null,
+    "ppo_possible": false,
+    "hiring_signal": null,
+    "themes": [
+      "Data Structures and Algorithms",
+      "Problem Solving",
+      "Logical Reasoning",
+      "Critical Thinking",
+      "Computational Skills"
+    ],
+    "students": true,
+    "global": true,
+    "organiser": "Rastrakavi Ramdhari Singh Dinkar College of Engineering(RRSDCE), Begusarai",
+    "image": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6b07abddadce1_bihar_code_battle_2026_logo-1mb.jpeg",
+    "registration_link": "https://unstop.com/hackathons/online-coding-challenge-rastrakavi-ramdhari-singh-dinkar-college-of-engineeringrrsdce-begusarai-1828749",
+    "linkedin_post_link": null,
+    "github_link": null,
+    "status": "open",
+    "source": "Unstop",
+    "sources": [
+      "Unstop"
+    ],
+    "approved": true,
+    "reported": false,
+    "created_at": "2026-11-26T08:47:34.750Z",
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "dd71a771-bd09-425f-885c-9123865b8dab",
@@ -4863,16 +4715,17 @@
     "ppo_possible": true,
     "hiring_signal": "pre-placement offer",
     "themes": [
-      "Problem Solving",
-      "Teamwork and Collaboration",
-      "Technical Skills",
-      "Creative Thinking",
-      "New Product Development"
+      "Artificial Intelligence (AI)",
+      "Innovation Management",
+      "JavaScript",
+      "Program Design",
+      "Backend development",
+      "API Development (REST)"
     ],
-    "students": null,
-    "global": null,
+    "students": true,
+    "global": true,
     "organiser": "HackWithPune",
-    "image": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6b04485e21cac_organisation_image-JcGNqAEiOK129458445ftoZRgjThz.png",
+    "image": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6b06da59bd2b5_organisation_image-JcGNqAEiOK129458445ftoZRgjThz.png",
     "registration_link": "https://unstop.com/hackathons/codeelitepune-hack-with-pune-hackwithpune-1794522",
     "linkedin_post_link": null,
     "github_link": null,
@@ -4884,7 +4737,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "5368964f-e4e8-47f4-82d8-f8e9b6039c50",
@@ -4925,14 +4778,14 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "235f20d6-49a1-447e-8dc4-1161f5b9bb72",
     "title": "Code Conquest",
     "description": "By Indian Institute of Technology (IIT), Madras on Unstop.",
     "start_date": "2026-10-28T18:30:00.000Z",
-    "end_date": "2027-01-05T11:30:00.000Z",
+    "end_date": "2027-01-04T11:30:00.000Z",
     "deadline": "2026-12-03T18:29:00.000Z",
     "mode": "in-person",
     "location": "Chennai, India",
@@ -4965,7 +4818,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "d0837d33-3722-43c7-84cd-bd42b056df03",
@@ -5006,7 +4859,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "0b3c3ab7-7bca-4f76-8736-91a718dd3f19",
@@ -5048,7 +4901,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "e34987e0-f5f5-4d6f-875d-d82e4ff54c4a",
@@ -5089,15 +4942,15 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "476b7f4d-becc-493c-8f79-316a0e740be4",
     "title": "Buildathon - Women Techmakers Montreal + IVADO + Prompts2Products",
     "description": "Buildathon - Women Techmakers Montreal + IVADO + Prompts2Products on Luma.",
-    "start_date": "2026-12-03T22:00:00.000Z",
+    "start_date": "2026-12-03T21:30:00.000Z",
     "end_date": "2026-12-04T02:00:00.000Z",
-    "deadline": "2026-12-03T22:00:00.000Z",
+    "deadline": "2026-12-03T21:30:00.000Z",
     "mode": "in-person",
     "location": "Montréal, Canada",
     "city": "Montréal",
@@ -5124,7 +4977,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "bce06d1b-2ecd-412e-8c43-6d16a339682e",
@@ -5159,42 +5012,44 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-24T10:19:08.068Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
-    "id": "6b4955f0-ccea-4843-822b-01d465011163",
-    "title": "Western Washington University Hackathon",
-    "description": "Western Washington University Hackathon on Luma.",
-    "start_date": "2026-12-04T00:00:00.000Z",
-    "end_date": "2026-12-04T03:00:00.000Z",
-    "deadline": "2026-12-04T00:00:00.000Z",
-    "mode": "in-person",
-    "location": "Bellingham, United States",
-    "city": "Bellingham",
-    "country": "United States",
+    "id": "945de63e-f378-41d2-870d-4db992daadb4",
+    "title": "Fanshawe Hacks",
+    "description": "Hosted by club on Devpost.",
+    "start_date": "2026-11-25T12:00:00.000Z",
+    "end_date": "2026-12-03T23:59:00.000Z",
+    "deadline": "2026-12-03T23:59:00.000Z",
+    "mode": "online",
+    "location": "Online",
+    "city": null,
+    "country": null,
     "prize_pool": "Not listed",
     "prize_amount": null,
-    "prize_currency": null,
+    "prize_currency": "USD",
     "prize_usd": null,
     "ppo_possible": false,
     "hiring_signal": null,
-    "themes": [],
+    "themes": [
+      "Machine Learning/AI"
+    ],
     "students": null,
-    "global": null,
-    "organiser": "Personal",
-    "image": "https://images.lumacdn.com/uploads/q0/029c8381-78a1-4cfe-b04b-3bc51ff3924d.png",
-    "registration_link": "https://luma.com/oqur0m3o",
+    "global": true,
+    "organiser": "club",
+    "image": "https://d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/006/004/046/datas/medium_square.png",
+    "registration_link": "https://fanshawe-hacks.devpost.com/",
     "linkedin_post_link": null,
     "github_link": null,
-    "status": "upcoming",
-    "source": "Luma",
+    "status": "open",
+    "source": "Devpost",
     "sources": [
-      "Luma"
+      "Devpost"
     ],
     "approved": true,
     "reported": false,
-    "created_at": "2026-11-24T10:19:08.068Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "created_at": "2026-11-26T08:47:34.750Z",
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "c763b779-4332-4443-83d6-803a5e3dcd2e",
@@ -5235,7 +5090,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "5933eb83-0c9e-4e16-8ab2-399fdd3b943e",
@@ -5277,7 +5132,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "6e4e59ae-8e38-489f-804d-dd3378510dfb",
@@ -5312,7 +5167,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "b12a6b47-fd9e-41cd-858f-ebf8f9905d1e",
@@ -5347,7 +5202,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "95df17bc-1609-44e4-858e-2b37abd58e0b",
@@ -5382,7 +5237,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-24T10:19:08.068Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "4b37f869-7aae-4643-8c82-d00b1fbfd031",
@@ -5423,7 +5278,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "4262e61f-46ec-432e-8847-5932dec8fa1c",
@@ -5460,7 +5315,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "32f27fdd-4fca-431a-8e5e-c1e4a0d0ce5a",
@@ -5499,7 +5354,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "ef5141a3-7381-450e-8ffb-971a60471680",
@@ -5537,7 +5392,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "2150d1d1-1e94-4fe5-8bfd-85c616da8e74",
@@ -5576,7 +5431,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "e4ec90b4-dfa7-4872-858a-fb6df2ae8fb7",
@@ -5611,7 +5466,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "e9cbee21-6885-49ba-85c6-12d3370caddc",
@@ -5646,7 +5501,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "bab8e3ec-6120-4c85-8cf5-ded275d3d3fe",
@@ -5687,7 +5542,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "d6971754-dcca-4290-8a91-3a4933e3a754",
@@ -5722,7 +5577,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "e6317a76-7ccc-4d2b-8cdc-3b60ad33c0f4",
@@ -5766,42 +5621,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
-  },
-  {
-    "id": "938bf022-d40e-45b8-8ef2-2fadcbdc1098",
-    "title": "Sapiens: A hackathon for human intelligence",
-    "description": "Sapiens: A hackathon for human intelligence on Luma.",
-    "start_date": "2026-12-05T17:00:00.000Z",
-    "end_date": "2026-12-06T02:00:00.000Z",
-    "deadline": "2026-12-05T17:00:00.000Z",
-    "mode": "in-person",
-    "location": "San Francisco, United States",
-    "city": "San Francisco",
-    "country": "United States",
-    "prize_pool": "Not listed",
-    "prize_amount": null,
-    "prize_currency": null,
-    "prize_usd": null,
-    "ppo_possible": false,
-    "hiring_signal": null,
-    "themes": [],
-    "students": null,
-    "global": null,
-    "organiser": "The 529 Club",
-    "image": "https://images.lumacdn.com/uploads/sh/60ac8aff-31a3-40e3-91de-5018f09dfa32.png",
-    "registration_link": "https://luma.com/utnutt5f",
-    "linkedin_post_link": null,
-    "github_link": null,
-    "status": "upcoming",
-    "source": "Luma",
-    "sources": [
-      "Luma"
-    ],
-    "approved": true,
-    "reported": false,
-    "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "90b49aa9-9fae-4ee5-8cd3-89430abd9dea",
@@ -5836,7 +5656,48 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
+  },
+  {
+    "id": "c47edd09-9bdd-4073-8670-c3a35dc5f34e",
+    "title": "Hack for Good: Open Innovation Hackathon",
+    "description": "By ICFAI Business School (IBS), Hyderabad on Unstop.",
+    "start_date": "2026-11-25T15:30:00.000Z",
+    "end_date": "2026-12-09T17:00:00.000Z",
+    "deadline": "2026-12-05T18:29:00.000Z",
+    "mode": "in-person",
+    "location": "Hyderabad, India",
+    "city": "Hyderabad",
+    "country": "India",
+    "prize_pool": "Not listed",
+    "prize_amount": null,
+    "prize_currency": null,
+    "prize_usd": null,
+    "ppo_possible": false,
+    "hiring_signal": null,
+    "themes": [
+      "Problem Solving",
+      "UI/UX Design",
+      "Artificial Intelligence (AI)",
+      "Software Quality Assurance (QA)",
+      "System Scalability"
+    ],
+    "students": true,
+    "global": null,
+    "organiser": "ICFAI Business School (IBS), Hyderabad",
+    "image": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6b06febaaad62_",
+    "registration_link": "https://unstop.com/hackathons/hack-for-good-open-innovation-hackathon-ibs-hyderabad-1828382",
+    "linkedin_post_link": null,
+    "github_link": null,
+    "status": "open",
+    "source": "Unstop",
+    "sources": [
+      "Unstop"
+    ],
+    "approved": true,
+    "reported": false,
+    "created_at": "2026-11-26T08:47:34.750Z",
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "9b270371-4efa-45bd-8b40-c9a0e718c162",
@@ -5878,7 +5739,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "173c5b18-ec59-4231-8b30-a930a0dd5435",
@@ -5919,7 +5780,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "2bc86cc1-911a-4efe-850d-6f72ba92f25c",
@@ -5961,7 +5822,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "b8f0ee3c-7fdf-4304-8404-a621cc861b39",
@@ -6002,7 +5863,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "7fbd4427-72d4-45c2-87eb-a354ff472d51",
@@ -6044,7 +5905,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "4f4b02a5-c12b-46c4-8a82-ed8422720430",
@@ -6085,7 +5946,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "d4ac20d2-8a14-44da-8d9a-ceb2f268f12a",
@@ -6129,7 +5990,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "fdf81ff5-6080-4c27-878f-035011626c63",
@@ -6168,7 +6029,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "24e66e8c-a90e-4fc1-8d9c-c3981d90d1ae",
@@ -6205,7 +6066,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "defe0c3a-1bd6-473e-88c9-7159f15df5b5",
@@ -6244,7 +6105,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "8dc9c32f-4083-4498-8fda-95fbf5db853c",
@@ -6271,7 +6132,7 @@
       "Innovation Management"
     ],
     "students": true,
-    "global": null,
+    "global": true,
     "organiser": "WeCodeCoders",
     "image": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6b06a323dbf1d_organisation_image-rdEtvQYYD71680906289sZyR2sXLs8.png",
     "registration_link": "https://unstop.com/hackathons/codeencoders-india-2026-national-hackathon-wecodecoders-1823739",
@@ -6285,7 +6146,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "97e0e311-b5bb-4e3c-8853-4ccdf0bac8f6",
@@ -6320,7 +6181,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-24T10:19:08.068Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "045038e3-93ef-4c09-8046-25312cf7fd2e",
@@ -6361,48 +6222,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
-  },
-  {
-    "id": "cfde9615-0a1a-41f9-846a-133a9f5f9482",
-    "title": "CoMemor Contributor Challenge",
-    "description": "By CoMemor on Unstop.",
-    "start_date": "2026-11-23T18:30:00.000Z",
-    "end_date": "2026-12-15T18:29:00.000Z",
-    "deadline": "2026-12-07T18:30:00.000Z",
-    "mode": "online",
-    "location": "Online",
-    "city": null,
-    "country": null,
-    "prize_pool": "Not listed",
-    "prize_amount": null,
-    "prize_currency": null,
-    "prize_usd": null,
-    "ppo_possible": true,
-    "hiring_signal": "pre-placement offer",
-    "themes": [
-      "TypeScript",
-      "Unit Testing",
-      "GitHub",
-      "SQL",
-      "Secure Coding Practices"
-    ],
-    "students": true,
-    "global": true,
-    "organiser": "CoMemor",
-    "image": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6b0532d62baf7_logo_maker_project_11_november_2026_at_17_52_21-2_1.png",
-    "registration_link": "https://unstop.com/hackathons/comemor-contributor-challenge-comemor-1825938",
-    "linkedin_post_link": null,
-    "github_link": null,
-    "status": "open",
-    "source": "Unstop",
-    "sources": [
-      "Unstop"
-    ],
-    "approved": true,
-    "reported": false,
-    "created_at": "2026-11-25T09:00:14.369Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "c5a8fa3f-f853-460d-828f-7373a96a3352",
@@ -6443,7 +6263,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-25T09:00:14.369Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "f6cbe4d4-ce69-44ef-8e3c-657b531951bc",
@@ -6484,7 +6304,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-25T09:00:14.369Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "28d5ab59-e4f3-4086-8609-06041a339b89",
@@ -6525,7 +6345,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-24T10:19:08.068Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "78356e66-1eed-4d2f-87cd-7124856358bc",
@@ -6566,7 +6386,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "51e46229-514c-4cda-8314-676502e2285d",
@@ -6607,7 +6427,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "1adfdce2-e201-4c6d-8fc6-0078b58a4aa1",
@@ -6642,7 +6462,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-24T10:19:08.068Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "414101a5-25e8-4981-898d-ff014e5c1338",
@@ -6681,7 +6501,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "9fa4d8c9-1625-4e85-88eb-9d9d5458297e",
@@ -6720,7 +6540,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "f2fc0ad2-10ae-439c-8f13-5508b3330078",
@@ -6759,7 +6579,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "8b6ce475-4c3f-4d2a-8416-22825b2cd155",
@@ -6798,7 +6618,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "8b7e09a9-b9d9-4475-8a31-4e924da949e6",
@@ -6837,7 +6657,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-25T09:00:14.369Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "63bd1d53-179b-47c6-8487-1c8117eee75c",
@@ -6881,7 +6701,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "583c65a9-3341-4d57-8c37-beb0aa2acd19",
@@ -6923,42 +6743,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
-  },
-  {
-    "id": "78e0ce9e-debc-4050-8492-cb199125f800",
-    "title": "HackwithBay 5.0",
-    "description": "HackwithBay 5.0 on Luma.",
-    "start_date": "2026-12-08T17:30:00.000Z",
-    "end_date": "2026-12-09T02:30:00.000Z",
-    "deadline": "2026-12-08T17:30:00.000Z",
-    "mode": "in-person",
-    "location": "San Francisco, United States",
-    "city": "San Francisco",
-    "country": "United States",
-    "prize_pool": "Not listed",
-    "prize_amount": null,
-    "prize_currency": null,
-    "prize_usd": null,
-    "ppo_possible": false,
-    "hiring_signal": null,
-    "themes": [],
-    "students": null,
-    "global": null,
-    "organiser": "Devnovate",
-    "image": "https://images.lumacdn.com/uploads/31/5016e8b4-b717-4cec-8f7d-d23e15ba5d58.png",
-    "registration_link": "https://luma.com/yjbn39ov",
-    "linkedin_post_link": null,
-    "github_link": null,
-    "status": "upcoming",
-    "source": "Luma",
-    "sources": [
-      "Luma"
-    ],
-    "approved": true,
-    "reported": false,
-    "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "53784634-0fdb-4bc7-8efa-5b10b18f353b",
@@ -6993,7 +6778,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "0773cca4-ba2b-4c03-88b6-420fff4f8247",
@@ -7031,7 +6816,42 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
+  },
+  {
+    "id": "78e0ce9e-debc-4050-8492-cb199125f800",
+    "title": "HackwithBay 5.0",
+    "description": "HackwithBay 5.0 on Luma.",
+    "start_date": "2026-12-09T01:00:00.000Z",
+    "end_date": "2026-12-09T04:00:00.000Z",
+    "deadline": "2026-12-09T01:00:00.000Z",
+    "mode": "in-person",
+    "location": "San Francisco, United States",
+    "city": "San Francisco",
+    "country": "United States",
+    "prize_pool": "Not listed",
+    "prize_amount": null,
+    "prize_currency": null,
+    "prize_usd": null,
+    "ppo_possible": false,
+    "hiring_signal": null,
+    "themes": [],
+    "students": null,
+    "global": null,
+    "organiser": "Devnovate",
+    "image": "https://images.lumacdn.com/uploads/31/5016e8b4-b717-4cec-8f7d-d23e15ba5d58.png",
+    "registration_link": "https://luma.com/yjbn39ov",
+    "linkedin_post_link": null,
+    "github_link": null,
+    "status": "upcoming",
+    "source": "Luma",
+    "sources": [
+      "Luma"
+    ],
+    "approved": true,
+    "reported": false,
+    "created_at": "2026-11-23T16:14:00.715Z",
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "3d03d0a3-4551-458a-89ab-12271c6eb1e2",
@@ -7072,7 +6892,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "76e8958b-3ed9-45b0-8429-5cd0158443ad",
@@ -7109,14 +6929,55 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
+  },
+  {
+    "id": "06a474b1-5eb5-4048-829e-e29beb0c2d90",
+    "title": "Agentic AI Hackathon 2026",
+    "description": "By Proton Solutions on Unstop.",
+    "start_date": "2026-11-25T18:30:00.000Z",
+    "end_date": "2026-12-09T18:30:00.000Z",
+    "deadline": "2026-12-09T18:30:00.000Z",
+    "mode": "online",
+    "location": "Online",
+    "city": null,
+    "country": null,
+    "prize_pool": "Not listed",
+    "prize_amount": null,
+    "prize_currency": null,
+    "prize_usd": null,
+    "ppo_possible": false,
+    "hiring_signal": null,
+    "themes": [
+      "Artificial Intelligence (AI)",
+      "Autonomous Systems",
+      "Conversational AI",
+      "Machine Learning Concepts",
+      "Python"
+    ],
+    "students": null,
+    "global": null,
+    "organiser": "Proton Solutions",
+    "image": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6b07c080b8dee_organisation_image-Ssr2NnP6I21587053532oOzg9TtQQ9.png",
+    "registration_link": "https://unstop.com/hackathons/agentic-ai-hackathon-2026-proton-solutions-1828890",
+    "linkedin_post_link": null,
+    "github_link": null,
+    "status": "open",
+    "source": "Unstop",
+    "sources": [
+      "Unstop"
+    ],
+    "approved": true,
+    "reported": false,
+    "created_at": "2026-11-26T08:47:34.750Z",
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "3c9c301f-7f7a-4317-80e9-d0677d203b84",
     "title": "CPP - Competitive Programming Potpourri",
     "description": "By Indian Institute of Technology (IIT), Madras on Unstop.",
     "start_date": "2026-10-30T18:30:00.000Z",
-    "end_date": "2027-01-04T18:29:00.000Z",
+    "end_date": "2027-01-05T18:29:00.000Z",
     "deadline": "2026-12-09T18:30:00.000Z",
     "mode": "in-person",
     "location": "Chennai, India",
@@ -7152,7 +7013,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "58e84027-aff4-4a58-85b9-98b0bd61ed3d",
@@ -7191,7 +7052,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "675c2b68-c932-4f23-8318-b45f203efe6c",
@@ -7230,7 +7091,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "d8e6b2dc-f132-45f4-8a5e-2e316828af38",
@@ -7272,7 +7133,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "713e3079-9eac-4db6-8030-e19e2df792a8",
@@ -7313,7 +7174,42 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
+  },
+  {
+    "id": "6614c0c5-ec53-4a8a-8865-c02fe677aecd",
+    "title": "Let's Make Computers Fun: A Cozy Winter Hackathon",
+    "description": "Let's Make Computers Fun: A Cozy Winter Hackathon on Luma.",
+    "start_date": "2026-12-10T17:30:00.000Z",
+    "end_date": "2026-12-10T22:00:00.000Z",
+    "deadline": "2026-12-10T17:30:00.000Z",
+    "mode": "in-person",
+    "location": "London, United Kingdom",
+    "city": "London",
+    "country": "United Kingdom",
+    "prize_pool": "Not listed",
+    "prize_amount": null,
+    "prize_currency": null,
+    "prize_usd": null,
+    "ppo_possible": false,
+    "hiring_signal": null,
+    "themes": [],
+    "students": null,
+    "global": null,
+    "organiser": "exe.dev",
+    "image": "https://images.lumacdn.com/uploads/k2/54cd6298-3771-4cae-9f2e-69340de39f56.png",
+    "registration_link": "https://luma.com/exe-xnj5",
+    "linkedin_post_link": null,
+    "github_link": null,
+    "status": "upcoming",
+    "source": "Luma",
+    "sources": [
+      "Luma"
+    ],
+    "approved": true,
+    "reported": false,
+    "created_at": "2026-11-26T08:47:34.750Z",
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "cbed6b56-c751-48c9-8143-ef47fc5b919f",
@@ -7348,7 +7244,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "ac3e9fe0-5e6f-4004-8658-e87ed3b7dca5",
@@ -7383,7 +7279,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "5acd7ab8-726e-45b1-8d51-78d8fbffe0ef",
@@ -7418,7 +7314,48 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
+  },
+  {
+    "id": "154741b7-309d-4f0c-85f1-9931ff8fa8e2",
+    "title": "Utopia Stock Exchange",
+    "description": "By ICFAI Business School (IBS), Pune on Unstop.",
+    "start_date": "2026-11-25T09:30:00.000Z",
+    "end_date": "2026-12-10T18:29:00.000Z",
+    "deadline": "2026-12-10T18:29:00.000Z",
+    "mode": "in-person",
+    "location": "Hadapsar Pune, India",
+    "city": "Hadapsar Pune",
+    "country": "India",
+    "prize_pool": "₹20,000",
+    "prize_amount": 20000,
+    "prize_currency": "INR",
+    "prize_usd": 240,
+    "ppo_possible": false,
+    "hiring_signal": null,
+    "themes": [
+      "Securities Trading",
+      "Financial Markets Knowledge",
+      "Portfolio Construction",
+      "Investment Principles",
+      "Decision Making"
+    ],
+    "students": true,
+    "global": null,
+    "organiser": "ICFAI Business School (IBS), Pune",
+    "image": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6b0697ee17d54_utopia_stock_exchange_unstop_logo_1024.png",
+    "registration_link": "https://unstop.com/hackathons/utopia-stock-exchange-icfai-business-school-ibs-pune-1827808",
+    "linkedin_post_link": null,
+    "github_link": null,
+    "status": "open",
+    "source": "Unstop",
+    "sources": [
+      "Unstop"
+    ],
+    "approved": true,
+    "reported": false,
+    "created_at": "2026-11-26T08:47:34.750Z",
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "13ce34dd-09fb-4648-84a3-af313a3a4978",
@@ -7457,7 +7394,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-24T10:19:08.068Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "f56b247e-5044-4316-89dc-6f6f03928899",
@@ -7498,7 +7435,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "e175d362-8905-452a-82bd-29348735f3be",
@@ -7541,7 +7478,48 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
+  },
+  {
+    "id": "0149abd3-0d38-4c24-8abf-469aae13e4b0",
+    "title": "Snow Code",
+    "description": "By STAMPERS on Unstop.",
+    "start_date": "2026-11-24T18:30:00.000Z",
+    "end_date": "2026-12-10T18:30:00.000Z",
+    "deadline": "2026-12-10T18:30:00.000Z",
+    "mode": "online",
+    "location": "Online",
+    "city": null,
+    "country": null,
+    "prize_pool": "₹6,000",
+    "prize_amount": 6000,
+    "prize_currency": "INR",
+    "prize_usd": 72,
+    "ppo_possible": false,
+    "hiring_signal": null,
+    "themes": [
+      "Problem Solving",
+      "Creativity",
+      "Teamwork and Collaboration",
+      "Technical Skills",
+      "Innovation Management"
+    ],
+    "students": null,
+    "global": null,
+    "organiser": "STAMPERS",
+    "image": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6b0728aa580e2_unnamed_2.png",
+    "registration_link": "https://unstop.com/hackathons/snow-code-stampers-1828497",
+    "linkedin_post_link": null,
+    "github_link": null,
+    "status": "open",
+    "source": "Unstop",
+    "sources": [
+      "Unstop"
+    ],
+    "approved": true,
+    "reported": false,
+    "created_at": "2026-11-26T08:47:34.750Z",
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "44425853-d7b9-4e1f-8697-cbefc952d3bb",
@@ -7582,7 +7560,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "4664642a-5614-47b1-8e36-079f4bd6849a",
@@ -7623,7 +7601,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-25T09:00:14.369Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "1591f369-9a45-4c34-8de5-d228fe6f2135",
@@ -7667,7 +7645,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-24T10:19:08.068Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "e8339660-5239-4fcb-8905-13c91c6d5bf5",
@@ -7705,45 +7683,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
-  },
-  {
-    "id": "b30fb3c9-d4ab-4d1a-840c-a3c1a4376461",
-    "title": "Taskforge",
-    "description": "Hosted by HackathonForEveryone on Devpost.",
-    "start_date": "2026-10-17T12:00:00.000Z",
-    "end_date": "2026-12-10T23:59:00.000Z",
-    "deadline": "2026-12-10T23:59:00.000Z",
-    "mode": "online",
-    "location": "Online",
-    "city": null,
-    "country": null,
-    "prize_pool": "Not listed",
-    "prize_amount": null,
-    "prize_currency": "USD",
-    "prize_usd": null,
-    "ppo_possible": false,
-    "hiring_signal": null,
-    "themes": [
-      "Beginner Friendly",
-      "Quantum"
-    ],
-    "students": null,
-    "global": true,
-    "organiser": "HackathonForEveryone",
-    "image": "https://d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/005/618/083/datas/medium_square.png",
-    "registration_link": "https://taskforge.devpost.com/",
-    "linkedin_post_link": null,
-    "github_link": null,
-    "status": "open",
-    "source": "Devpost",
-    "sources": [
-      "Devpost"
-    ],
-    "approved": true,
-    "reported": false,
-    "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "1ffd8cd8-c131-450a-8cc1-e22dc00c3f2e",
@@ -7782,7 +7722,45 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
+  },
+  {
+    "id": "b30fb3c9-d4ab-4d1a-840c-a3c1a4376461",
+    "title": "Taskforge",
+    "description": "Hosted by HackathonForEveryone on Devpost.",
+    "start_date": "2026-10-17T12:00:00.000Z",
+    "end_date": "2026-12-10T23:59:00.000Z",
+    "deadline": "2026-12-10T23:59:00.000Z",
+    "mode": "online",
+    "location": "Online",
+    "city": null,
+    "country": null,
+    "prize_pool": "Not listed",
+    "prize_amount": null,
+    "prize_currency": "USD",
+    "prize_usd": null,
+    "ppo_possible": false,
+    "hiring_signal": null,
+    "themes": [
+      "Beginner Friendly",
+      "Quantum"
+    ],
+    "students": null,
+    "global": true,
+    "organiser": "HackathonForEveryone",
+    "image": "https://d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/005/618/083/datas/medium_square.png",
+    "registration_link": "https://taskforge.devpost.com/",
+    "linkedin_post_link": null,
+    "github_link": null,
+    "status": "open",
+    "source": "Devpost",
+    "sources": [
+      "Devpost"
+    ],
+    "approved": true,
+    "reported": false,
+    "created_at": "2026-11-23T16:14:00.715Z",
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "e5798307-da13-4eab-89e5-07e1d1cdb1e4",
@@ -7820,7 +7798,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "920b8bb6-ce17-479e-8338-42540cc10b3b",
@@ -7855,7 +7833,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-24T10:19:08.068Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "35db6214-013b-4694-8890-7571f037e0f7",
@@ -7890,7 +7868,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "57d71fc7-5b62-4e80-87e7-a91f4b2fb87b",
@@ -7925,7 +7903,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "503e30e3-3b68-4a73-8e22-93bb07aa74c2",
@@ -7966,7 +7944,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "188645cd-5e7a-42e9-8ae6-92d93039f6d2",
@@ -8007,7 +7985,48 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
+  },
+  {
+    "id": "ab840a3e-7f57-44b0-843b-eb0b29eb7e7f",
+    "title": "Hackday Dec",
+    "description": "By TrishulX on Unstop.",
+    "start_date": "2026-11-26T01:10:27.000Z",
+    "end_date": "2026-12-12T15:30:47.000Z",
+    "deadline": "2026-12-11T18:29:27.000Z",
+    "mode": "online",
+    "location": "Online",
+    "city": null,
+    "country": null,
+    "prize_pool": "Not listed",
+    "prize_amount": null,
+    "prize_currency": null,
+    "prize_usd": null,
+    "ppo_possible": false,
+    "hiring_signal": null,
+    "themes": [
+      "Artificial Intelligence (AI)",
+      "Problem Solving",
+      "Software Development Life Cycle (SDLC)",
+      "Teamwork and Collaboration",
+      "Creativity"
+    ],
+    "students": true,
+    "global": true,
+    "organiser": "TrishulX",
+    "image": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6b0788531b24b_hackday-dec-logo.png",
+    "registration_link": "https://unstop.com/hackathons/hackday-dec-trishulx-1828678",
+    "linkedin_post_link": null,
+    "github_link": null,
+    "status": "open",
+    "source": "Unstop",
+    "sources": [
+      "Unstop"
+    ],
+    "approved": true,
+    "reported": false,
+    "created_at": "2026-11-26T08:47:34.750Z",
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "176bb890-8c5a-4eca-8851-8e1fd6331fb7",
@@ -8048,14 +8067,14 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "7d2e1dff-835a-4e48-8f5b-5cafc91fd672",
     "title": "Reverse Coding X",
     "description": "By Indian Institute of Technology (IIT), Madras on Unstop.",
     "start_date": "2026-10-27T18:30:00.000Z",
-    "end_date": "2027-01-02T11:30:00.000Z",
+    "end_date": "2027-01-05T11:30:00.000Z",
     "deadline": "2026-12-11T18:30:00.000Z",
     "mode": "in-person",
     "location": "Chennai, India",
@@ -8089,7 +8108,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "0939117d-050f-4ae8-8025-b7d2f1a3aafb",
@@ -8118,7 +8137,7 @@
     "students": null,
     "global": null,
     "organiser": "Decodep Community",
-    "image": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6ae1d3b003130_organisation_image-GHkYhx7N6r1906252255xLtz4GL1fh.png",
+    "image": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6b070c85dfee7_organisation_image-GHkYhx7N6r1906252255xLtz4GL1fh.png",
     "registration_link": "https://unstop.com/hackathons/hackday-20-decodep-community-1773120",
     "linkedin_post_link": null,
     "github_link": null,
@@ -8130,7 +8149,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "c5aee275-c851-4a6a-8578-cb0af133369d",
@@ -8169,7 +8188,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "0f8e4b9a-4f3b-4fe1-8fae-52f9980fc056",
@@ -8208,7 +8227,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "ca4bf60e-333a-4ade-851c-f342970d4b7b",
@@ -8247,7 +8266,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "6a7208ef-f420-444f-86f7-8a91b10b3ccb",
@@ -8282,7 +8301,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-25T09:00:14.369Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "2201ccd4-27c3-4768-89ea-3e0bb5e04b2b",
@@ -8317,7 +8336,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "93a13fe3-055b-41e5-8bf7-7fc1658c48ec",
@@ -8352,7 +8371,42 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
+  },
+  {
+    "id": "ec2cd05a-9e1b-4bc0-8c75-e517a94a7cee",
+    "title": "Hackatón GovTech: AI for public good",
+    "description": "Hackatón GovTech: AI for public good on Luma.",
+    "start_date": "2026-12-12T12:00:00.000Z",
+    "end_date": "2026-12-13T18:00:00.000Z",
+    "deadline": "2026-12-12T12:00:00.000Z",
+    "mode": "in-person",
+    "location": "Bogotá, Colombia",
+    "city": "Bogotá",
+    "country": "Colombia",
+    "prize_pool": "Not listed",
+    "prize_amount": null,
+    "prize_currency": null,
+    "prize_usd": null,
+    "ppo_possible": false,
+    "hiring_signal": null,
+    "themes": [],
+    "students": null,
+    "global": null,
+    "organiser": "Colombia Tech",
+    "image": "https://images.lumacdn.com/uploads/vd/488fca15-6bfb-4dc0-bc84-e7bf213dc2ec.png",
+    "registration_link": "https://luma.com/colombia-nrei",
+    "linkedin_post_link": null,
+    "github_link": null,
+    "status": "upcoming",
+    "source": "Luma",
+    "sources": [
+      "Luma"
+    ],
+    "approved": true,
+    "reported": false,
+    "created_at": "2026-11-26T08:47:34.750Z",
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "6c3f9ae9-3c3c-4232-8a38-5b160b30f685",
@@ -8393,7 +8447,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "37f0b47c-bd59-493c-8562-8e5d52b4d884",
@@ -8428,7 +8482,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "355fc09d-b251-463c-8a40-56a09173d315",
@@ -8467,7 +8521,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "5bf968a3-3828-46bb-802b-904c803383d8",
@@ -8509,7 +8563,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-25T09:00:14.369Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "ec8a61b1-5bf0-4d66-827a-602a42b26fbf",
@@ -8544,7 +8598,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-25T09:00:14.369Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "76ad4567-da86-49fa-87d3-dbf04cb1e854",
@@ -8588,7 +8642,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "34bbd5aa-af12-4069-8723-068036ff8667",
@@ -8627,7 +8681,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "40dedf39-464a-4fd7-8725-abaf8e6fecbf",
@@ -8666,7 +8720,48 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
+  },
+  {
+    "id": "cfde9615-0a1a-41f9-846a-133a9f5f9482",
+    "title": "CoMemor Contributor Challenge",
+    "description": "By CoMemor on Unstop.",
+    "start_date": "2026-11-23T18:30:00.000Z",
+    "end_date": "2026-12-15T18:29:00.000Z",
+    "deadline": "2026-12-14T13:00:00.000Z",
+    "mode": "online",
+    "location": "Online",
+    "city": null,
+    "country": null,
+    "prize_pool": "Not listed",
+    "prize_amount": null,
+    "prize_currency": null,
+    "prize_usd": null,
+    "ppo_possible": true,
+    "hiring_signal": "pre-placement offer",
+    "themes": [
+      "TypeScript",
+      "Unit Testing",
+      "GitHub",
+      "SQL",
+      "Secure Coding Practices"
+    ],
+    "students": true,
+    "global": true,
+    "organiser": "CoMemor",
+    "image": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6b0532d62baf7_logo_maker_project_11_november_2026_at_17_52_21-2_1.png",
+    "registration_link": "https://unstop.com/hackathons/comemor-contributor-challenge-comemor-1825938",
+    "linkedin_post_link": null,
+    "github_link": null,
+    "status": "open",
+    "source": "Unstop",
+    "sources": [
+      "Unstop"
+    ],
+    "approved": true,
+    "reported": false,
+    "created_at": "2026-11-25T09:00:14.369Z",
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "5b1040ee-07c0-4685-8040-8c08aaf9da0c",
@@ -8709,7 +8804,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "ac7e13fe-3df1-4e04-8bf9-e7c331cddfab",
@@ -8750,7 +8845,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "d6399fdf-998b-448a-8cdf-efe85d565525",
@@ -8791,7 +8886,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "60b8b0f6-e5b2-45f4-856c-50b5126b02d6",
@@ -8835,7 +8930,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "3d7e594f-161c-40fb-800a-a02508c1cd2c",
@@ -8879,7 +8974,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "93e4a15b-9036-4c6c-8e6c-af46895f4931",
@@ -8920,7 +9015,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "a8787a95-92b2-4421-8666-9a88ab75dd5b",
@@ -8961,7 +9056,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "2f2987c7-7862-49dd-832a-e64b334ae665",
@@ -9005,7 +9100,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "ed7dfc70-cc48-45cf-8681-190841a33b65",
@@ -9048,14 +9143,14 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-25T09:00:14.369Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "37756df6-b808-4de1-8727-1dba110f3a6f",
     "title": "Agentic AI Hackathon 2.0 - SF",
     "description": "Agentic AI Hackathon 2.0 - SF on Luma.",
     "start_date": "2026-12-15T17:30:00.000Z",
-    "end_date": "2026-12-16T02:30:00.000Z",
+    "end_date": "2026-12-16T03:00:00.000Z",
     "deadline": "2026-12-15T17:30:00.000Z",
     "mode": "in-person",
     "location": "San Francisco, United States",
@@ -9083,7 +9178,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "12f42f56-0dd9-4ee6-8b1d-d0df5cd37959",
@@ -9118,7 +9213,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "75edc6fc-3ce8-4fd2-8c39-9ee2c3c0da31",
@@ -9161,51 +9256,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
-  },
-  {
-    "id": "1922e538-d55f-45ba-83a1-f67678234ef0",
-    "title": "Nurn 2026 – National Innovation & Technology Challenge",
-    "description": "By Pranveer Singh Institute of Technology (PSIT), Kanpur on Unstop.",
-    "start_date": "2026-11-14T18:30:00.000Z",
-    "end_date": "2027-01-10T10:14:00.000Z",
-    "deadline": "2026-12-15T18:30:00.000Z",
-    "mode": "online",
-    "location": "Online",
-    "city": null,
-    "country": null,
-    "prize_pool": "Not listed",
-    "prize_amount": null,
-    "prize_currency": null,
-    "prize_usd": null,
-    "ppo_possible": false,
-    "hiring_signal": null,
-    "themes": [
-      "Artificial Intelligence (AI)",
-      "Machine Learning Concepts",
-      "Problem Solving",
-      "Mobile Application Development",
-      "Software Development Life Cycle (SDLC)",
-      "Innovation Management",
-      "C Programming Language",
-      "Python"
-    ],
-    "students": true,
-    "global": true,
-    "organiser": "Pranveer Singh Institute of Technology (PSIT), Kanpur",
-    "image": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6afef4a17e184_1000219213.jpg",
-    "registration_link": "https://unstop.com/hackathons/nurn-2026-national-innovation-technology-challenge-pranveer-singh-institute-of-technology-psit-kanpur-1817757",
-    "linkedin_post_link": null,
-    "github_link": null,
-    "status": "open",
-    "source": "Unstop",
-    "sources": [
-      "Unstop"
-    ],
-    "approved": true,
-    "reported": false,
-    "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "5117bace-b3d6-428f-831a-91dd0486bc21",
@@ -9246,7 +9297,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "b8b4d2a2-a892-4f5c-8497-6068c833c654",
@@ -9285,7 +9336,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "f94f1235-6c5f-4732-812b-9a2867913038",
@@ -9324,7 +9375,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "cc31f183-97eb-4b14-8883-fe6d45a209f8",
@@ -9365,7 +9416,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "16dc21eb-9207-4688-85bc-6432838aa135",
@@ -9406,14 +9457,14 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "9cfc5464-9881-4880-8964-f085f32e6321",
     "title": "Data and AI Hackathon 2.0",
     "description": "Data and AI Hackathon 2.0 on Luma.",
     "start_date": "2026-12-17T17:30:00.000Z",
-    "end_date": "2026-12-18T02:30:00.000Z",
+    "end_date": "2026-12-18T03:30:00.000Z",
     "deadline": "2026-12-17T17:30:00.000Z",
     "mode": "in-person",
     "location": "San Francisco, United States",
@@ -9441,7 +9492,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "c31d0a61-63d4-463b-852e-8ea7e7ab4d28",
@@ -9482,7 +9533,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "1154718a-202f-4496-8b9c-c60897a8f15e",
@@ -9521,7 +9572,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "db2e1e4c-b699-452e-8c9b-78192661d8d9",
@@ -9556,7 +9607,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-24T10:19:08.068Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "00861d58-312a-4a0e-83f1-a9bcfb5be1b3",
@@ -9597,7 +9648,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "8ae79c61-7f7d-4dd6-8d2d-f8a92b920a46",
@@ -9636,7 +9687,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "c110be03-17c6-4573-8e4e-ae03c0b9e4b2",
@@ -9673,7 +9724,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "67a886ed-46d7-4bd7-8a3a-5b84159ceaf7",
@@ -9714,7 +9765,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "6f2903ef-0212-411f-8a1a-c87b816dd645",
@@ -9755,7 +9806,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "cd6ddc9a-a988-477f-8a34-902db12f76b9",
@@ -9796,7 +9847,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "4be029d1-7184-424d-86d4-3355fb143bde",
@@ -9835,7 +9886,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "a600318b-67e4-4db2-8340-446411c91a48",
@@ -9874,7 +9925,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "fcee22bc-f2aa-41eb-8423-e4b6721a71a5",
@@ -9913,7 +9964,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "9f5446cf-05b6-458a-8851-08eee9c1515e",
@@ -9951,7 +10002,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "56031959-c63a-4328-8d69-639116e6837f",
@@ -9992,7 +10043,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "b67e4b85-eb1e-4081-827d-aeffd7af0e35",
@@ -10031,7 +10082,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "3aff7bed-edc6-4f53-829c-0389aab92f3b",
@@ -10070,7 +10121,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "48546867-69c4-4e9a-8319-87537ed7cfd5",
@@ -10112,7 +10163,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-25T09:00:14.369Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "1ffa32c8-2e0f-4ec3-8494-719dcd7223dc",
@@ -10153,7 +10204,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-24T10:19:08.068Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "c465ab64-324a-47ef-882e-77dde472ed11",
@@ -10194,7 +10245,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "ba1478c2-a2bd-47c9-803b-1400326ba340",
@@ -10239,7 +10290,49 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
+  },
+  {
+    "id": "05cda540-5c79-444a-83a2-a80d03f56f86",
+    "title": "CodePulse 48 - National Hackathon",
+    "description": "By WeCodeCoders on Unstop.",
+    "start_date": "2026-11-24T13:00:05.000Z",
+    "end_date": "2026-12-29T04:30:51.000Z",
+    "deadline": "2026-12-25T00:36:26.000Z",
+    "mode": "online",
+    "location": "Online",
+    "city": null,
+    "country": null,
+    "prize_pool": "Not listed",
+    "prize_amount": null,
+    "prize_currency": null,
+    "prize_usd": null,
+    "ppo_possible": true,
+    "hiring_signal": "pre-placement offer",
+    "themes": [
+      "Artificial Intelligence (AI)",
+      "Backend development",
+      "API Development (REST)",
+      "Innovation Management",
+      "Problem Solving",
+      "JavaScript"
+    ],
+    "students": true,
+    "global": true,
+    "organiser": "WeCodeCoders",
+    "image": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6b06e969bd4bd_organisation_image-rdEtvQYYD71680906289sZyR2sXLs8.png",
+    "registration_link": "https://unstop.com/hackathons/codepulse-48-national-hackathon-wecodecoders-1827866",
+    "linkedin_post_link": null,
+    "github_link": null,
+    "status": "open",
+    "source": "Unstop",
+    "sources": [
+      "Unstop"
+    ],
+    "approved": true,
+    "reported": false,
+    "created_at": "2026-11-26T08:47:34.750Z",
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "4c64a319-a512-4ae3-8bb5-a39c575e26b5",
@@ -10280,7 +10373,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "8bfd4b26-0cbd-4648-8752-261b28641949",
@@ -10321,7 +10414,48 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
+  },
+  {
+    "id": "e75e5826-beb1-4c3c-8524-a906fb493589",
+    "title": "UNIVION: CHRONOS DE NOVO",
+    "description": "By SIEEDS on Unstop.",
+    "start_date": "2026-11-24T18:30:00.000Z",
+    "end_date": "2027-01-16T14:00:00.000Z",
+    "deadline": "2026-12-25T18:30:05.000Z",
+    "mode": "in-person",
+    "location": "Delhi, India",
+    "city": "Delhi",
+    "country": "India",
+    "prize_pool": "Not listed",
+    "prize_amount": null,
+    "prize_currency": null,
+    "prize_usd": null,
+    "ppo_possible": false,
+    "hiring_signal": null,
+    "themes": [
+      "Artificial Intelligence (AI)",
+      "Quantum Computing",
+      "Blockchain Technology",
+      "Embedded Systems Design",
+      "Financial Modeling"
+    ],
+    "students": null,
+    "global": null,
+    "organiser": "SIEEDS",
+    "image": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6b06dd2e2ee6c_seeids.png",
+    "registration_link": "https://unstop.com/hackathons/univion-chronos-de-novo-sieeds-1826867",
+    "linkedin_post_link": null,
+    "github_link": null,
+    "status": "open",
+    "source": "Unstop",
+    "sources": [
+      "Unstop"
+    ],
+    "approved": true,
+    "reported": false,
+    "created_at": "2026-11-26T08:47:34.750Z",
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "aa6d5f13-c3f7-41d2-8157-421dc0e3a52e",
@@ -10360,7 +10494,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "1311ec60-dc43-44ff-8f42-fec010bbc15d",
@@ -10403,7 +10537,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "ed509e4a-f796-487a-82a4-6cc1ad7abb07",
@@ -10438,7 +10572,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "3aa28e9f-9f48-45e2-85ad-772d5ed2a026",
@@ -10479,7 +10613,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "e2568a3a-c975-4877-8cd0-841eb73fd83d",
@@ -10514,7 +10648,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "e13985d5-b749-4c2e-83b6-334342a86032",
@@ -10549,7 +10683,48 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
+  },
+  {
+    "id": "40318417-fc12-4e48-8bc3-c6fdc76dd7ce",
+    "title": "Finance Next Hackathon 2026",
+    "description": "By Proton Solutions on Unstop.",
+    "start_date": "2026-11-25T18:30:00.000Z",
+    "end_date": "2027-01-29T18:31:00.000Z",
+    "deadline": "2026-12-30T18:30:00.000Z",
+    "mode": "online",
+    "location": "Online",
+    "city": null,
+    "country": null,
+    "prize_pool": "Not listed",
+    "prize_amount": null,
+    "prize_currency": null,
+    "prize_usd": null,
+    "ppo_possible": false,
+    "hiring_signal": null,
+    "themes": [
+      "Fintech",
+      "Artificial Intelligence (AI)",
+      "Blockchain Technology",
+      "Payment Systems",
+      "Fraud Detection and Prevention"
+    ],
+    "students": null,
+    "global": null,
+    "organiser": "Proton Solutions",
+    "image": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6b06c31b5eff7_organisation_image-Ssr2NnP6I21587053532oOzg9TtQQ9.png",
+    "registration_link": "https://unstop.com/hackathons/finance-next-hackathon-2026-proton-solutions-1827472",
+    "linkedin_post_link": null,
+    "github_link": null,
+    "status": "open",
+    "source": "Unstop",
+    "sources": [
+      "Unstop"
+    ],
+    "approved": true,
+    "reported": false,
+    "created_at": "2026-11-26T08:47:34.750Z",
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "791af478-cf0b-4f48-85f8-88ba74f398bb",
@@ -10578,7 +10753,7 @@
     "students": true,
     "global": true,
     "organiser": "Proton Solutions",
-    "image": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6b05b7c3afc03_organisation_image-Ssr2NnP6I21587053532oOzg9TtQQ9.png",
+    "image": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/6b071187380b6_organisation_image-Ssr2NnP6I21587053532oOzg9TtQQ9.png",
     "registration_link": "https://unstop.com/hackathons/ai-codestorm-2026-proton-solutions-1826401",
     "linkedin_post_link": null,
     "github_link": null,
@@ -10590,7 +10765,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-25T09:00:14.369Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "c0f1cec2-d229-4f3d-81ae-83c10cf88d03",
@@ -10634,7 +10809,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "b2818f2b-ee07-465e-8e8b-e725b0ce9186",
@@ -10675,7 +10850,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "c8d4e176-db70-416d-8e62-7b1fa34f4204",
@@ -10716,7 +10891,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "4c67661e-e257-4ce0-8c42-bde4f3163eb2",
@@ -10758,7 +10933,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "bc61725b-f5f2-45cb-8b51-eb68d5fca94e",
@@ -10798,7 +10973,46 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
+  },
+  {
+    "id": "c768d413-9c4f-4283-814b-31855b2692b8",
+    "title": "CrackleHacks",
+    "description": "Hosted by Deific Studios on Devpost.",
+    "start_date": "2026-12-20T12:00:00.000Z",
+    "end_date": "2026-12-30T23:59:00.000Z",
+    "deadline": "2026-12-30T23:59:00.000Z",
+    "mode": "online",
+    "location": "Online",
+    "city": null,
+    "country": null,
+    "prize_pool": "$20",
+    "prize_amount": 20,
+    "prize_currency": "USD",
+    "prize_usd": 20,
+    "ppo_possible": false,
+    "hiring_signal": null,
+    "themes": [
+      "Education",
+      "Gaming",
+      "Web"
+    ],
+    "students": null,
+    "global": true,
+    "organiser": "Deific Studios",
+    "image": "https://d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/006/001/987/datas/medium_square.png",
+    "registration_link": "https://cracklehacks.devpost.com/",
+    "linkedin_post_link": null,
+    "github_link": null,
+    "status": "upcoming",
+    "source": "Devpost",
+    "sources": [
+      "Devpost"
+    ],
+    "approved": true,
+    "reported": false,
+    "created_at": "2026-11-26T08:47:34.750Z",
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "c4ee2132-1a54-47c5-8f6e-93350bcec223",
@@ -10839,7 +11053,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "a852d579-064b-4971-86f5-e71811affead",
@@ -10880,7 +11094,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "546eec44-3bcb-409d-89e1-95b3f30f23cb",
@@ -10921,7 +11135,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "16e8b0ee-d6df-4df0-8e54-686d51fe4c7d",
@@ -10962,7 +11176,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "6589d7c3-c0f5-47f5-8334-d133efce0db9",
@@ -11003,7 +11217,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "b732e13a-baeb-422f-8056-2583adb7972c",
@@ -11044,7 +11258,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "a0a13798-228e-4f36-8db0-d532d67746df",
@@ -11085,7 +11299,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "fdabd886-b191-4033-81d4-45083a53c007",
@@ -11126,7 +11340,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "9a447030-a06c-46cf-8310-f6ea153b7c43",
@@ -11167,7 +11381,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "0f530b37-ebcb-4630-8d63-f3cfead48679",
@@ -11208,7 +11422,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "6234132a-269a-44ab-8356-ebe7ad8f9083",
@@ -11249,7 +11463,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "69bb6021-fb4d-411f-846c-55466db66fc7",
@@ -11290,7 +11504,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "c52327d9-f0eb-47e0-82d1-df488fd6520b",
@@ -11331,7 +11545,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "c7ee8d83-ff12-4cbe-8f0c-6b27a3f97714",
@@ -11372,7 +11586,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "5b57057e-f9d1-44e3-8219-5affa6b1deb3",
@@ -11413,7 +11627,51 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
+  },
+  {
+    "id": "1922e538-d55f-45ba-83a1-f67678234ef0",
+    "title": "Nurn 2026 – National Innovation & Technology Challenge",
+    "description": "By Pranveer Singh Institute of Technology (PSIT), Kanpur on Unstop.",
+    "start_date": "2026-11-14T18:30:00.000Z",
+    "end_date": "2027-01-10T10:14:00.000Z",
+    "deadline": "2026-12-31T13:00:00.000Z",
+    "mode": "online",
+    "location": "Online",
+    "city": null,
+    "country": null,
+    "prize_pool": "Not listed",
+    "prize_amount": null,
+    "prize_currency": null,
+    "prize_usd": null,
+    "ppo_possible": false,
+    "hiring_signal": null,
+    "themes": [
+      "Artificial Intelligence (AI)",
+      "Machine Learning Concepts",
+      "Problem Solving",
+      "Mobile Application Development",
+      "Software Development Life Cycle (SDLC)",
+      "Innovation Management",
+      "C Programming Language",
+      "Python"
+    ],
+    "students": true,
+    "global": true,
+    "organiser": "Pranveer Singh Institute of Technology (PSIT), Kanpur",
+    "image": "https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-6afef4a17e184_1000219213.jpg",
+    "registration_link": "https://unstop.com/hackathons/nurn-2026-national-innovation-technology-challenge-pranveer-singh-institute-of-technology-psit-kanpur-1817757",
+    "linkedin_post_link": null,
+    "github_link": null,
+    "status": "open",
+    "source": "Unstop",
+    "sources": [
+      "Unstop"
+    ],
+    "approved": true,
+    "reported": false,
+    "created_at": "2026-11-23T16:14:00.715Z",
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "a4555afd-299f-4e84-8ee3-dc40284bbf65",
@@ -11454,7 +11712,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "c84c6c01-aaca-4abd-8d48-b334d254c9df",
@@ -11495,7 +11753,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "894aacb4-5131-432f-8394-e684110a4024",
@@ -11536,7 +11794,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "2b6356f5-6416-41a5-827c-b321c59bc1d3",
@@ -11571,7 +11829,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "da0a6614-9778-47d2-812c-0afdac3edf1f",
@@ -11606,7 +11864,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "0e2b1a9c-a93a-4dea-8977-aa8f4d415d3e",
@@ -11650,7 +11908,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "85d6b4ed-dbbd-4ecc-828d-491792af5774",
@@ -11685,7 +11943,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "5f46d767-48c7-4a69-8dd5-84012a3eba8f",
@@ -11724,7 +11982,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "6c870650-4176-4c77-89d1-0afd9f1af2c2",
@@ -11763,7 +12021,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "5a7d628f-9c3e-4c54-8aa3-194a0557bf40",
@@ -11798,7 +12056,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "aa01176f-18db-4103-8af1-4bb0cd3cb1d5",
@@ -11839,12 +12097,12 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "163666a4-b170-4ed2-890c-c76848cbd034",
     "title": "Makeathon 9.0",
-    "description": "One of North-India's largest hackathon",
+    "description": "An official MLH Member Event",
     "start_date": "2027-01-30T05:30:00.000Z",
     "end_date": "2027-01-31T04:00:00.000Z",
     "deadline": "2027-01-05T18:29:00.000Z",
@@ -11874,7 +12132,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "efb506ff-8080-49d5-8bf4-5199f2e5c602",
@@ -11915,7 +12173,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "5fc11ac7-907d-4f24-84fe-e695f6cd29ae",
@@ -11954,7 +12212,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "88615d12-53e4-41e8-8030-dcb37b133ddc",
@@ -11997,7 +12255,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "6430ee23-35f2-4468-803b-5d6a2a18febd",
@@ -12041,7 +12299,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "07982e99-b110-4cbe-80dc-26c850adb30c",
@@ -12051,8 +12309,8 @@
     "end_date": "2027-02-15T14:30:00.000Z",
     "deadline": "2027-01-08T18:30:00.000Z",
     "mode": "in-person",
-    "location": "Ghaziabad, India",
-    "city": "Ghaziabad",
+    "location": "East Delhi, India",
+    "city": "East Delhi",
     "country": "India",
     "prize_pool": "₹10,62,400",
     "prize_amount": 1062400,
@@ -12082,7 +12340,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "55efa7d3-850d-493d-80c4-f4eb16780917",
@@ -12120,7 +12378,44 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
+  },
+  {
+    "id": "953f8fc2-ff12-40ed-85e2-c02a21d59cda",
+    "title": "SheHacks+ 11",
+    "description": "MLH member event in London, Ontario.",
+    "start_date": "2027-01-08T22:00:00.000Z",
+    "end_date": "2027-01-10T20:00:00.000Z",
+    "deadline": "2027-01-08T22:00:00.000Z",
+    "mode": "in-person",
+    "location": "London, Canada",
+    "city": "London",
+    "country": "Canada",
+    "prize_pool": "Not listed",
+    "prize_amount": null,
+    "prize_currency": null,
+    "prize_usd": null,
+    "ppo_possible": false,
+    "hiring_signal": null,
+    "themes": [
+      "Diversity"
+    ],
+    "students": true,
+    "global": null,
+    "organiser": null,
+    "image": "https://mlhusercontent.com/logos/events/01a21426-826c-bf81-ff88-7a006e9b89bf/shehacks-11_84aaaaa5772f_small.png",
+    "registration_link": "https://www.shehacks.ca/",
+    "linkedin_post_link": null,
+    "github_link": null,
+    "status": "upcoming",
+    "source": "MLH",
+    "sources": [
+      "MLH"
+    ],
+    "approved": true,
+    "reported": false,
+    "created_at": "2026-11-26T08:47:34.750Z",
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "c9920eea-227b-41ea-8c17-0aaf4fbc47a1",
@@ -12155,7 +12450,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "6ee1b86a-3c82-4721-80bf-3e2334e6d355",
@@ -12195,7 +12490,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "1cfa6071-55a6-4f9b-850e-3d85b9dde5b8",
@@ -12236,7 +12531,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "eb794b6f-f0ee-4a5b-8773-83c16ffcbefd",
@@ -12275,7 +12570,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "dad0f9af-e965-4f87-8003-62dbe4121ea4",
@@ -12288,10 +12583,10 @@
     "location": "Online",
     "city": null,
     "country": null,
-    "prize_pool": "$11,960",
-    "prize_amount": 11960,
+    "prize_pool": "$15,560",
+    "prize_amount": 15560,
     "prize_currency": "USD",
-    "prize_usd": 11960,
+    "prize_usd": 15560,
     "ppo_possible": false,
     "hiring_signal": null,
     "themes": [
@@ -12314,7 +12609,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "4faad35f-98cc-4d1b-8728-c18f3b28da54",
@@ -12353,7 +12648,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "9f71878b-a136-4d07-83c2-994c71c4d9a9",
@@ -12392,7 +12687,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "0f7a420d-8799-4d32-82df-dda35d9afdcc",
@@ -12431,7 +12726,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "bb69688c-9769-4933-83f2-478d55093c6e",
@@ -12466,7 +12761,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "3f556e53-fedb-4397-8675-3a420644c494",
@@ -12501,7 +12796,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "f9e36c0b-3295-4430-865d-e49aa0cb1c3b",
@@ -12540,7 +12835,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "fd13ba5d-e46a-405a-8433-235549120dca",
@@ -12575,7 +12870,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "9a5b96a9-9621-453a-84bd-f59ce9a88b9d",
@@ -12610,7 +12905,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "ab06e463-7897-428c-8a42-5378b0a9137a",
@@ -12655,7 +12950,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "ad0b90ff-c1ff-4b9c-8a39-e0bf74290cde",
@@ -12690,7 +12985,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "4f77975b-4cc9-49ce-861a-44b96a051cac",
@@ -12725,7 +13020,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "eb68e0ce-9513-48ce-8bcc-4ebf33920241",
@@ -12760,7 +13055,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "e92f5232-764a-4235-86bd-33ca180ea66b",
@@ -12795,7 +13090,42 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
+  },
+  {
+    "id": "be00ce39-d6c7-4304-8457-36ac321961aa",
+    "title": "Convergence-1.0",
+    "description": "More than a hackathon. Titan-level mission.",
+    "start_date": "2027-02-05T03:30:00.000Z",
+    "end_date": "2027-02-06T06:30:00.000Z",
+    "deadline": "2027-01-15T18:29:00.000Z",
+    "mode": "in-person",
+    "location": "Kalyani, India",
+    "city": "Kalyani",
+    "country": "India",
+    "prize_pool": "Not listed",
+    "prize_amount": null,
+    "prize_currency": null,
+    "prize_usd": null,
+    "ppo_possible": true,
+    "hiring_signal": "interview",
+    "themes": [],
+    "students": null,
+    "global": null,
+    "organiser": null,
+    "image": "https://assets.devfolio.co/hackathons/2ffe46ed620f46e88380ade076a25d9e/assets/logo/37.png",
+    "registration_link": "https://convergence2027.devfolio.co",
+    "linkedin_post_link": null,
+    "github_link": null,
+    "status": "upcoming",
+    "source": "Devfolio",
+    "sources": [
+      "Devfolio"
+    ],
+    "approved": true,
+    "reported": false,
+    "created_at": "2026-11-26T08:47:34.750Z",
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "bb053d7f-2c4a-4a59-8d5c-33230921360c",
@@ -12836,7 +13166,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "f4f6fd99-497d-4d4b-8dce-ba742f4c3c45",
@@ -12871,7 +13201,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "9baa4a34-3410-4ed0-8130-f28f4c84cd21",
@@ -12910,7 +13240,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "0bb468ad-5079-4c83-84c0-93d43c7f63aa",
@@ -12949,7 +13279,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-24T10:19:08.068Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "82282285-6c92-4fce-8e1d-011641dc0c51",
@@ -12988,7 +13318,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-24T10:19:08.068Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "e6d05180-ffae-4d1a-83aa-59e786964b54",
@@ -13023,14 +13353,14 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "e4a818ca-16a2-4165-8f84-a75658929146",
     "title": "QWER Hacks",
     "description": "MLH member event in Los Angeles, CA.",
     "start_date": "2027-01-16T14:00:00.000Z",
-    "end_date": "2027-01-17T03:00:00.000Z",
+    "end_date": "2027-01-17T23:59:59.000Z",
     "deadline": "2027-01-16T14:00:00.000Z",
     "mode": "in-person",
     "location": "Los Angeles, United States",
@@ -13058,7 +13388,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "9b7bd4d2-22a9-42cb-8331-c455f409a10d",
@@ -13095,7 +13425,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "208ab851-9040-43e9-8006-d27fa926980b",
@@ -13134,7 +13464,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "38c72966-9b84-4830-86d7-0fc8190e691e",
@@ -13171,7 +13501,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "0f46843c-d813-476c-8f0e-2b9531d2a234",
@@ -13211,7 +13541,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "94297959-05a2-4f0e-83af-0a54ae044504",
@@ -13246,7 +13576,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "16e27052-c000-4627-8d15-9b33e400d39e",
@@ -13259,10 +13589,10 @@
     "location": "Online",
     "city": null,
     "country": null,
-    "prize_pool": "$146,805",
-    "prize_amount": 146805,
+    "prize_pool": "$147,105",
+    "prize_amount": 147105,
     "prize_currency": "USD",
-    "prize_usd": 146805,
+    "prize_usd": 147105,
     "ppo_possible": false,
     "hiring_signal": null,
     "themes": [
@@ -13285,7 +13615,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "35a5b583-6527-4463-829c-ecd4278f6af2",
@@ -13326,53 +13656,18 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
-  },
-  {
-    "id": "811fde71-2a33-4edb-8d2c-b66eb858dfe4",
-    "title": "Cancer Pulse Hackathon",
-    "description": "Cancer Pulse Hackathon on Luma.",
-    "start_date": "2027-01-21T07:00:00.000Z",
-    "end_date": "2027-01-22T04:00:00.000Z",
-    "deadline": "2027-01-21T07:00:00.000Z",
-    "mode": "in-person",
-    "location": "Stockholm, Sweden",
-    "city": "Stockholm",
-    "country": "Sweden",
-    "prize_pool": "Not listed",
-    "prize_amount": null,
-    "prize_currency": null,
-    "prize_usd": null,
-    "ppo_possible": false,
-    "hiring_signal": null,
-    "themes": [],
-    "students": null,
-    "global": null,
-    "organiser": "21Moons",
-    "image": "https://images.lumacdn.com/uploads/8d/191cfc97-a387-4090-8b8e-da964a9ec5bc.png",
-    "registration_link": "https://luma.com/tpucw5lg",
-    "linkedin_post_link": null,
-    "github_link": null,
-    "status": "upcoming",
-    "source": "Luma",
-    "sources": [
-      "Luma"
-    ],
-    "approved": true,
-    "reported": false,
-    "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "403fd8a3-e668-4c80-8798-6402abc401fe",
     "title": "Hackville 2027",
-    "description": "MLH member event in Missisauga, Ontario.",
+    "description": "MLH member event in Oakville, Ontario.",
     "start_date": "2027-01-23T01:11:11.000Z",
     "end_date": "2027-01-24T23:59:59.000Z",
     "deadline": "2027-01-23T01:11:11.000Z",
     "mode": "in-person",
-    "location": "Missisauga, Canada",
-    "city": "Missisauga",
+    "location": "Oakville, Canada",
+    "city": "Oakville",
     "country": "Canada",
     "prize_pool": "Not listed",
     "prize_amount": null,
@@ -13399,7 +13694,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "e9ca2a8f-195c-4178-8316-c28cc5d34e28",
@@ -13439,7 +13734,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "7512b4b4-69fb-4301-8579-77133818ccb5",
@@ -13478,7 +13773,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "f8bb3d3d-5854-4ab4-8567-3e45029673d2",
@@ -13513,7 +13808,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "008c20ce-8190-4256-8daa-f70b71bc0992",
@@ -13551,7 +13846,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "6da21edc-3f74-49bb-816c-41715d883304",
@@ -13586,7 +13881,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "cefcc251-ffe0-4d52-8ae9-5f2ad09330ee",
@@ -13623,7 +13918,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-24T10:19:08.068Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "e2cb9f4f-5549-4483-8b2d-9ed0d3b2c533",
@@ -13665,7 +13960,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "bc55c253-cd89-4a6c-8398-ffe631eafa8e",
@@ -13704,7 +13999,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "e096ee43-9481-4ac8-89d8-8d32d45d16fb",
@@ -13743,7 +14038,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "6a3f8dd3-4d6c-4541-883f-e34b8bca34ac",
@@ -13782,7 +14077,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "36e92dda-713c-446e-887d-04d13283cd8b",
@@ -13821,7 +14116,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "e19024fc-725e-4acd-80de-d614e948dfd1",
@@ -13860,7 +14155,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "75cd1884-cc70-410d-852b-6e641164c510",
@@ -13899,7 +14194,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "ff54121a-b021-4c63-86a1-586550a1b347",
@@ -13938,7 +14233,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "f3bf46db-fa1e-4ad2-846a-e279a0cc4054",
@@ -13973,7 +14268,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "43cbbe70-fbcf-4ac0-8eeb-b7a40eccb607",
@@ -14010,7 +14305,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "3af3bb93-26c0-4703-89dc-d46621d87de3",
@@ -14045,7 +14340,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "fb392a61-d064-4772-8dfd-3f803d45b570",
@@ -14080,7 +14375,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "74ca480c-149d-426c-8c16-a6a4499fbb62",
@@ -14118,7 +14413,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "cc943940-09d9-4564-81bb-04cd1e6aac18",
@@ -14157,7 +14452,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "2de22b27-c275-4c21-83e0-c3e29d6675dd",
@@ -14194,7 +14489,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "7b2aa0ed-8c91-43d6-888e-785ba55f1ac0",
@@ -14229,7 +14524,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "28f7f83f-580f-4c31-8133-3615756abd59",
@@ -14264,7 +14559,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "fdf1577d-896b-418f-8ec1-536ba824405a",
@@ -14303,7 +14598,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "8b945c8c-74ee-48b4-8b57-0cb1928ded07",
@@ -14342,7 +14637,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "03ae7fb4-57ba-4838-8b0e-c3d2a18602c3",
@@ -14377,7 +14672,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "e8795981-7b72-4cf4-8bbd-8ab624d72dd2",
@@ -14412,7 +14707,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:27:17.901Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "e2d60fb8-ee15-47fb-8582-01769ae3ea4d",
@@ -14451,7 +14746,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "42871b4a-1394-465c-844e-ce77e1d9c769",
@@ -14489,7 +14784,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "0dd9af57-7900-466f-89bf-d8d5b4b65ff1",
@@ -14528,42 +14823,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
-  },
-  {
-    "id": "50a2ee96-59a0-4a2e-8026-a60e3a0f95bf",
-    "title": "SF Hacks",
-    "description": "MLH member event in San Francisco, CA.",
-    "start_date": "2027-02-19T17:00:00.000Z",
-    "end_date": "2027-02-21T21:00:00.000Z",
-    "deadline": "2027-02-19T17:00:00.000Z",
-    "mode": "in-person",
-    "location": "San Francisco, United States",
-    "city": "San Francisco",
-    "country": "United States",
-    "prize_pool": "Not listed",
-    "prize_amount": null,
-    "prize_currency": null,
-    "prize_usd": null,
-    "ppo_possible": false,
-    "hiring_signal": null,
-    "themes": [],
-    "students": true,
-    "global": null,
-    "organiser": null,
-    "image": "https://mlhusercontent.com/logos/events/019f1451-0d1c-7a27-c23f-dbab9b36850f/sf-hacks-8c_a84e7a9fce5d_small.png",
-    "registration_link": "https://sfhacks.io",
-    "linkedin_post_link": null,
-    "github_link": null,
-    "status": "upcoming",
-    "source": "MLH",
-    "sources": [
-      "MLH"
-    ],
-    "approved": true,
-    "reported": false,
-    "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "443dd655-91ba-453e-8a9d-f1706f12b623",
@@ -14598,42 +14858,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-25T09:00:14.369Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
-  },
-  {
-    "id": "1b818804-4924-4981-89d5-07a1350426d6",
-    "title": "CUhackit",
-    "description": "MLH member event in Clemson, SC.",
-    "start_date": "2027-02-20T15:00:00.000Z",
-    "end_date": "2027-02-21T23:59:59.000Z",
-    "deadline": "2027-02-20T15:00:00.000Z",
-    "mode": "in-person",
-    "location": "Clemson, United States",
-    "city": "Clemson",
-    "country": "United States",
-    "prize_pool": "Not listed",
-    "prize_amount": null,
-    "prize_currency": null,
-    "prize_usd": null,
-    "ppo_possible": false,
-    "hiring_signal": null,
-    "themes": [],
-    "students": true,
-    "global": null,
-    "organiser": null,
-    "image": "https://mlhusercontent.com/logos/events/019eb815-31d3-1e58-fe59-b67e9e333cb9/cuhackit-ba_872cd86357e2_small.png",
-    "registration_link": "https://cuhack.it/",
-    "linkedin_post_link": null,
-    "github_link": null,
-    "status": "upcoming",
-    "source": "MLH",
-    "sources": [
-      "MLH"
-    ],
-    "approved": true,
-    "reported": false,
-    "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "8ec410fe-6493-4ef9-831a-f585753269c7",
@@ -14672,7 +14897,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "7d516012-2d47-496c-898b-2c922cf3b2b9",
@@ -14711,7 +14936,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "8bed5069-435a-4177-8156-668bca020d2c",
@@ -14750,7 +14975,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "d70dc0e6-e057-42b6-87df-f5998439ac50",
@@ -14788,7 +15013,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "c2476c76-f4e1-4862-8243-f30370aeaaca",
@@ -14827,7 +15052,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "f1abf85b-a1ab-4be9-8236-eee678130c0b",
@@ -14865,7 +15090,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "5c31b203-7fee-4450-8365-02561c8783e9",
@@ -14904,7 +15129,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "bd706c14-7524-48d2-8266-5e680013c7eb",
@@ -14939,7 +15164,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "64b57fde-3d57-4d49-8e3c-bc11acb5e148",
@@ -14980,7 +15205,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "0881b4fa-f9fa-40bd-8ea0-07fe027736ca",
@@ -15020,7 +15245,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "9f074eca-17f9-4d50-8820-68e1600caa4a",
@@ -15061,7 +15286,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "a6620b35-deaa-4ad3-8e60-17a6c5ddda98",
@@ -15102,7 +15327,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "4be9f5a0-6e0c-4b9d-8bdf-6c3c88c63f47",
@@ -15143,7 +15368,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "1e95e06b-998e-4ef6-897f-727ce993db28",
@@ -15184,7 +15409,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "4b767ac9-cc75-459b-8ca7-e95d984d86db",
@@ -15225,7 +15450,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "b0c8c882-170b-4219-8365-e5ddc8f8317e",
@@ -15262,46 +15487,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
-  },
-  {
-    "id": "72caeea2-7e41-443c-8325-45813fb34dd7",
-    "title": "Forgehacks",
-    "description": "Hosted by UBC BizTech on Devpost.",
-    "start_date": "2027-02-27T12:00:00.000Z",
-    "end_date": "2027-02-28T23:59:00.000Z",
-    "deadline": "2027-02-28T23:59:00.000Z",
-    "mode": "in-person",
-    "location": "Pharmacutical Sciences Building, Pharmacutical Sciences Building",
-    "city": "Pharmacutical Sciences Building",
-    "country": "Pharmacutical Sciences Building",
-    "prize_pool": "$6,000",
-    "prize_amount": 6000,
-    "prize_currency": "USD",
-    "prize_usd": 6000,
-    "ppo_possible": false,
-    "hiring_signal": null,
-    "themes": [
-      "IoT",
-      "Open Ended",
-      "Robotic Process Automation"
-    ],
-    "students": null,
-    "global": null,
-    "organiser": "UBC BizTech",
-    "image": "https://d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/005/756/685/datas/medium_square.png",
-    "registration_link": "https://forgehacks-biztech.devpost.com/",
-    "linkedin_post_link": null,
-    "github_link": null,
-    "status": "upcoming",
-    "source": "Devpost",
-    "sources": [
-      "Devpost"
-    ],
-    "approved": true,
-    "reported": false,
-    "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "356a4208-7816-40c6-8c26-454e04d54dfa",
@@ -15340,7 +15526,46 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
+  },
+  {
+    "id": "72caeea2-7e41-443c-8325-45813fb34dd7",
+    "title": "Forgehacks",
+    "description": "Hosted by UBC BizTech on Devpost.",
+    "start_date": "2027-02-27T12:00:00.000Z",
+    "end_date": "2027-02-28T23:59:00.000Z",
+    "deadline": "2027-02-28T23:59:00.000Z",
+    "mode": "in-person",
+    "location": "Pharmacutical Sciences Building, Pharmacutical Sciences Building",
+    "city": "Pharmacutical Sciences Building",
+    "country": "Pharmacutical Sciences Building",
+    "prize_pool": "$6,000",
+    "prize_amount": 6000,
+    "prize_currency": "USD",
+    "prize_usd": 6000,
+    "ppo_possible": false,
+    "hiring_signal": null,
+    "themes": [
+      "IoT",
+      "Open Ended",
+      "Robotic Process Automation"
+    ],
+    "students": null,
+    "global": null,
+    "organiser": "UBC BizTech",
+    "image": "https://d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/005/756/685/datas/medium_square.png",
+    "registration_link": "https://forgehacks-biztech.devpost.com/",
+    "linkedin_post_link": null,
+    "github_link": null,
+    "status": "upcoming",
+    "source": "Devpost",
+    "sources": [
+      "Devpost"
+    ],
+    "approved": true,
+    "reported": false,
+    "created_at": "2026-11-23T16:14:00.715Z",
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "032eb86f-fbca-4109-8fca-c283bb7ee9b8",
@@ -15381,7 +15606,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "4b8a1d98-645d-4dd9-8969-ea3a05b9f580",
@@ -15420,7 +15645,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "9d0a246f-a9d6-41fb-80e6-7e9e1d9396e1",
@@ -15459,7 +15684,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "459a0b5d-2cc2-40ea-88f1-e04e8cd83b52",
@@ -15497,7 +15722,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "c64ee473-7dad-4b79-825d-1c91b8fde4ba",
@@ -15535,7 +15760,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "a56efeb9-a12e-4b2c-834a-ea34e3a31104",
@@ -15574,7 +15799,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "547e49b2-76ab-4988-8047-a052506fbac4",
@@ -15613,7 +15838,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "80eeb1e1-5ad9-49c7-8796-53d33d5f233d",
@@ -15652,7 +15877,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "36e1ea78-d1c6-413c-8f48-1f63e3b263bb",
@@ -15691,7 +15916,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "e45340a8-d203-4c30-82b9-e0bf73560383",
@@ -15726,7 +15951,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "f5c889ec-7719-42f5-8ee8-f223ee437c58",
@@ -15765,7 +15990,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "1fec86fe-c63d-48a8-8d26-465ad01b38d6",
@@ -15804,7 +16029,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-24T10:19:08.068Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "9964814a-5a1a-425c-8c95-b88909859699",
@@ -15842,7 +16067,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-24T10:19:08.068Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "e480febe-f08a-4c4a-8ca1-dd055b903db6",
@@ -15881,7 +16106,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "92fbeeba-abb1-4fd2-8d2c-3fbcc90c4fb6",
@@ -15916,7 +16141,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-24T10:19:08.068Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "4def0807-9b8f-4215-859e-05b66e009e0e",
@@ -15951,7 +16176,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "fec6d5ba-c9ef-4d69-84f4-09182b3f47e1",
@@ -15990,7 +16215,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "d71aa55e-4c14-42ed-82e6-1ada65c70b35",
@@ -16027,7 +16252,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "458fd1c5-e76e-475a-8ea9-d87ef6c28029",
@@ -16065,7 +16290,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "69952ffc-67c9-4b91-88d7-f9fe9efbdeea",
@@ -16100,7 +16325,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "d91f2175-ec82-41e8-8ea5-7842d03c4ffa",
@@ -16139,7 +16364,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "3eebcb88-14a9-41d4-8e75-7813f152e0ab",
@@ -16178,7 +16403,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "051ee878-e9ad-4fc6-8cb4-5537bb4e76c4",
@@ -16217,7 +16442,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "b5a9f602-9c8f-455a-8426-d96c0172c066",
@@ -16256,7 +16481,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "02fb662d-41d6-4247-8a61-ba52563d3716",
@@ -16295,7 +16520,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "f438b440-0350-4f18-880c-3db2d7c03b62",
@@ -16339,7 +16564,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "2f2cf7b8-64c9-4146-8134-f3ad6fba4980",
@@ -16378,7 +16603,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "139bfc14-02da-43f6-8b3b-56f76736b24c",
@@ -16417,7 +16642,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "833640a6-c283-4236-8029-1f22e6a2803c",
@@ -16456,7 +16681,7 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   },
   {
     "id": "badded5f-55d6-409b-89ef-17af03a40fad",
@@ -16495,6 +16720,6 @@
     "approved": true,
     "reported": false,
     "created_at": "2026-11-23T16:14:00.715Z",
-    "updated_at": "2026-11-25T09:00:14.369Z"
+    "updated_at": "2026-11-26T08:47:34.750Z"
   }
 ]
